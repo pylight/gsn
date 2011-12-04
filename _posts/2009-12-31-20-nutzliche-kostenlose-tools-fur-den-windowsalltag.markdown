@@ -5,9 +5,12 @@ wordpress_id: 403
 wordpress_url: http://ganz-sicher.net/blog/?p=403
 date: 2009-12-31 15:00:15.000000000 +01:00
 ---
-<p style="text-align: justify;"><a href="http://ganz-sicher.net/blog/wp-content/uploads/windows-tool.png"><img class="alignleft size-full wp-image-409" title="windows tool" src="http://ganz-sicher.net/blog/wp-content/uploads/windows-tool.png" alt="" width="128" height="128" /></a>Um im neuen Jahrzehnt richtig effektiv mit Windows zu arbeiten ;) stelle ich hier ein paar meiner Lieblingstools vor, die das Arbeiten unter Windows meiner Meinung nach sehr erleichtern. So eine Liste lässt sich natürlich immer beliebig ausbauen. Ich beschränke mich hier deswegen mal auf <em>kleinere Programme</em>, die sich zum Großteil auch gut für den USB-Stick eignen und gehe nicht auf spezifische Programme wie Browser oder FTP-Clienten usw. ein. Über Ergänzungen bin ich natürlich trotzdem immer dankbar. ;)</p>
-<p style="text-align: justify;">&nbsp;</p>
-<p style="text-align: justify;"><!--more--></p>
+Damit jeder im neuen Jahrzehnt effektiv mit Windows arbeiten kann (klingt wie ein Widerspruch? ;p), stelle ich hier ein paar meiner Lieblingstools vor, die das Arbeiten unter Windows meiner Meinung nach sehr erleichtern. <img style="float:left; margin-right: 15px;" title="windows tool" src="/wp-content/uploads/windows-tool.png" alt="" width="128" height="128" /> So eine Liste lässt sich natürlich immer beliebig ausbauen. Ich beschränke mich hier deswegen mal auf <em>kleinere Programme</em>, die sich zum Großteil auch gut für den USB-Stick eignen und gehe nicht auf spezifische Programme wie Browser oder FTP-Clienten usw. ein. Über Ergänzungen bin ich natürlich trotzdem immer dankbar. ;)
+<div id="clearer"></div>
+
+<!--more-->
+
+
 <p style="text-align: justify;"><a href="http://www.launchy.net/">Launchy</a> - sehr nützlicher Schnellstarter. So können Programme mit <strong>ALT</strong> + <strong>Leertaste</strong> und wenigen Anfangsbuchstaben gestartet werden!</p>
 <p style="text-align: justify;"><a href="http://www.voidtools.com/">Everything</a> - scannt die Festplatte und indexiert die Dateien so, dass man bei der Eingabe eines Dateinamens sofort das Ergebnis erhält. Sehr praktische Live-Suche, die die normale Windows-Suche überflüssig macht.</p>
 <p style="text-align: justify;"><a href="http://www.daemon-tools.cc/deu/products/dtLite">Daemon Tools Light</a> - häufig findet man im Netz CD-Abbilder (sogenannte Images) zum Download. Mit Daemon Tools Light kann man diese Abbilder wie echte CDs/DVDs im Arbeitsplatz einbinden - die Software emuliert auch gleich die typischen CD-Eigenschaften! Die CD/DVD-Abbilder lassen sich einfach über das Icon in der Taskleiste (unten rechts) anwählen. Das Tool ist wegen der einfachen Bedienung auch ideal, falls man einige seiner CDs auf der Festplatte archiviert hat.</p>
@@ -29,6 +32,9 @@ date: 2009-12-31 15:00:15.000000000 +01:00
 <p style="text-align: justify;"><a href="http://www.bulkrenameutility.co.uk/Main_Intro.php">Bulk Rename Utility</a> - ziemlich umfangreiches Tool, um mehrere Dateien gleichzeitig umzubenennen. (natürlich gibt es auch dafür einige <a href="http://www.techsupportalert.com/best-free-rename-utility.htm">Alternativen</a>)</p>
 <p style="text-align: justify;"><a href="http://winmerge.org/">Winmerge</a> - Vergleicht Dateien und Ordner übersichtlich miteinander</p>
 <p style="text-align: justify;"><a href="http://www.moo0.com/?top=http://www.moo0.com/software/RightClicker/%23RightClicker" target="_blank">Moo0 RightClicker</a> und <a href="http://www.lopesoft.com/en/" target="_blank">FilemenuTools</a> - erweitern die Kontextmenü (rechte Maustaste auf eine Datei) um sinnvolle Funktionen</p>
-<p style="text-align: justify;">&nbsp;</p>
-<p style="text-align: justify;"><strong>Noch mehr Tools?
-<span style="font-weight: normal;">Eine tolle Toolsammlung zum Administrieren und Analysieren von Windows bietet das <a href="http://www.kls-soft.com/wscc/">WSCC (Windows System Control Center)</a>. Hier gibt es von Prozess- und Netzwerküberwachung bis hin zur Passwort-Auslesung fast alles was das Herz begehrt. Noch dazu ist die Sammlung nur etwas über 1 Megabyte groß und passt somit auf jeden USB-Stick! :) (eine ähnliche Toolsammlung bietet <a href="http://blog.nirsoft.net/2009/11/30/third-beta-of-nirlauncher-package-is-available-to-download/">NirLancher</a> - auch einen Blick wert!)</span></strong></p>
+
+
+Noch mehr Tools?
+================
+
+Eine tolle Toolsammlung zum Administrieren und Analysieren von Windows bietet das <a href="http://www.kls-soft.com/wscc/">WSCC (Windows System Control Center)</a>. Hier gibt es von Prozess- und Netzwerküberwachung bis hin zur Passwort-Auslesung fast alles was das Herz begehrt. Noch dazu ist die Sammlung nur etwas über 1 Megabyte groß und passt somit auf jeden USB-Stick! :) (eine ähnliche Toolsammlung bietet <a href="http://blog.nirsoft.net/2009/11/30/third-beta-of-nirlauncher-package-is-available-to-download/">NirLancher</a> - auch einen Blick wert!)

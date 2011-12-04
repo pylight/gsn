@@ -6,12 +6,12 @@ wordpress_url: http://ganz-sicher.net/blog/?p=414
 date: 2009-12-31 16:21:24.000000000 +01:00
 ---
 Falls sich schon jemand gefragt haben sollte: 
-"Wann hört der Endlich wieder mit dem Bloggen auf??"
+> "Wann hört der Endlich wieder mit dem Bloggen auf??"
 
-Die Antwort lautet: <strong>JETZT</strong>!*<br />
+Die Antwort lautet: <strong>JETZT</strong>!\*<br />
 
-<a class="borderimg" href="http://ganz-sicher.net/blog/wp-content/uploads/new-year-2010.jpg"><img class="aligncenter size-full wp-image-415" title="new year 2010" src="http://ganz-sicher.net/blog/wp-content/uploads/new-year-2010.jpg" alt="" width="480" height="360" /></a>
+<img class="borderimg centered" title="new year 2010" src="/wp-content/uploads/new-year-2010.jpg" alt="" width="480" height="360" />
 
-<center><pre>
+<center>
 *Zumindest für dieses Jahr. ;-)
-</pre></center>
+</center>

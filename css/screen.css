@@ -6,47 +6,63 @@
 
 /* Global Reset */
 
-* {
+* 
+{
   margin: 0;
   padding: 0;
 }
 
-html, body {
+html, body
+{
   height: 100%;
 }
 
-body {
+body 
+{
   background-color: white;
   font: 13.34px helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: center;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 
+{
   font-size: 100%;
 }
 
-h1 {
+h1 
+{
   margin-bottom: 1em;
 }
 
-p {
+h3
+{
+ font-size: 1.5em;
+ font-family: "myriad-pro-1","myriad-pro-2",sans-serif;
+}
+
+p
+{
   margin: 1em 0;
 }
 
-a, a:link {
+a, a:link 
+{
   color: rgb(0, 77, 153);
 }
 
-a:hover {
+a:hover 
+{
   color: black;
 }
 
-a:visited {
+a:visited 
+{
   color: #222266;
 }
 
-table {
+table 
+{
   font-size: inherit;
   font: 100%;
 }
@@ -57,65 +73,58 @@ table {
 /*
 /*****************************************************************************/
 
-ul.posts {
+ul.posts 
+{
   list-style-type: none;
   margin-bottom: 2em;
 }
 
-  ul.posts li {
+  ul.posts li 
+  {
     line-height: 1.75em;
   }
 
-  ul.posts span {
+  ul.posts span 
+  {
     color: #aaa;
     font-family: Monaco, "Courier New", monospace;
     font-size: 80%;
   }
-
+  
 /*****************************************************************************/
 /*
 /* Site
 /*
 /*****************************************************************************/
 
-.site {
+.site 
+{
   font-size: 110%;
   text-align: justify;
-  width: 40em;
+  width: 60em;
   margin: 3em auto 2em auto;
   line-height: 1.5em;
 }
 
-.title {
-  color: #00a;
-  font-weight: bold;
-  margin-bottom: 2em;
-}
-
-  .site .title a {
-    color: #00a;
+  .site a.extra 
+  {
+    color: #aaa;
     text-decoration: none;
+    margin-left: 0.5em;
   }
 
-  .site .title a:hover {
+  .site a.extra:hover 
+  {
     color: black;
   }
 
-  .site .title a.extra {
-    color: #aaa;
-    text-decoration: none;
-    margin-left: 1em;
-  }
-
-  .site .title a.extra:hover {
-    color: black;
-  }
-
-  .site .meta {
+  .site .meta 
+  {
     color: #aaa;
   }
 
-  .site .footer {
+  .site .footer 
+  {
     font-size: 80%;
     color: #666;
     border-top: 4px solid #eee;
@@ -125,12 +134,14 @@ ul.posts {
     font-style: italic;
   }
 
-    .site .footer .contact {
+    .site .footer .contact 
+    {
       float: left;
       margin-right: 3em;
     }
 
-      .site .footer .contact a {
+      .site .footer .contact a 
+      {
         color: #8085C1;
       }
 
@@ -141,59 +152,159 @@ ul.posts {
 /*
 /*****************************************************************************/
 
-#post {
+#post 
+{
 
 }
 
   /* standard */
 
-  #post pre {
+  #post pre 
+  {
     border: 1px solid #ddd;
-    background-color: #eef;
+    background-color: #2E3436;
+    color: #D3D7CF;
     padding: 0 .4em;
   }
 
   #post ul,
-  #post ol {
+  #post ol 
+  {
     margin-left: 1.35em;
+    margin-bottom: 15px;
   }
 
-  #post code {
+  #post code 
+  {
     border: 1px solid #ddd;
-    background-color: #eef;
     font-size: 85%;
     padding: 0 .2em;
   }
 
-    #post pre code {
+    #post pre code 
+    {
       border: none;
     }
 
   /* terminal */
 
-  #post pre.terminal {
+  #post pre.terminal 
+  {
     border: 1px solid black;
     background-color: #333;
     color: white;
+    
+     /* rounded border */
+    -moz-border-radius: 5px; /* Firefox */     
+    -webkit-border-radius: 5px; /* Safari, Chrome */     
+    -khtml-border-radius: 5px; /* Konqueror */;
+
   }
 
-  #post pre.terminal code {
+  #post pre.terminal code
+  { 
     background-color: #333;
   }
 
-#related {
+	
+	/* headings*/
+	
+	#prepost h1 
+	{
+		font-size: 34px;
+		line-height: 1.2;
+		margin: 0.3em 0 10px;
+		text-shadow: silver 2px 2px 4px;
+		text-align: left;
+	}
+	
+	#post h1	
+	{
+		font-size: 24px;
+		line-height: 1.3;
+		margin: 1em 0 .2em;
+	}
+
+#related 
+{
   margin-top: 2em;
 }
 
-  #related h2 {
+  #related h2 
+  {
     margin-bottom: 1em;
   }
   
-	.enums ul{
+	ul.enums
+	{
 	    list-style-type: circle;
 	}
 
-	  .enums ul li{
-		display: list-item;
-		text-align: -webkit-match-parent;
+	  .enums ul li
+	  {
+			display: list-item;
+			text-align: -webkit-match-parent;
 	  }
+
+blockquote 
+{
+  font: 14px/22px normal helvetica, sans-serif;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 3px solid #ccc;
+}
+
+img.borderimg
+{
+	border-width:1px;
+	border-style:solid;
+	border-color:#d9d8d8;
+	padding: 7px;
+}
+
+img.centered
+{
+	  display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+	header #logo
+	{
+		margin: 0;
+		padding: 0;		
+	}
+	
+	header #logo:hover
+	{
+		/* roatate my logo :o */
+	 -moz-transform: rotate(7deg);
+	 -webkit-transform: rotate(7deg);
+   -o-transform: rotate(7deg);
+   -ms-transform: rotate(7deg);
+	}
+	
+	header nav
+	{
+		display: inline;
+		margin-left: 15px;
+	}
+	
+	header #slogan
+	{
+		position: relative;
+		left: -172px;
+		top: -25px;
+		padding: 0;
+		margin: 0;
+		font-style: italic;
+		color: #ccc;
+	}
+	
+#clearer
+{
+	clear: both;
+}
+

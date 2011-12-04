@@ -16,15 +16,27 @@
 <body>
 
 <div class="site">
-  <div class="title">
-    <a href="/">Ganz-Sicher.net Blog</a>
-    <a class="extra" href="/">home</a>
-  </div>
-  
+<header>
+    
+    <!-- Logo -->
+    <a href="/"><img id="logo" alt="Ganz-Sicher.net Blog" src="/images/logo.png" /></a>
+
+    <!-- Header links -->
+    <nav>
+			<a class="extra" href="/">/home</a> · <a class="extra" href="/">sitemap</a> · <a class="extra" href="/">about</a>
+		</nav>
+		    
+    <!-- Slogan -->
+    <span id="slogan">/* TODO: Blog Slogan goes here */</span>
+   
+</header>
+
   {{ content }}
   
   <div class="footer">
-	  &copy {{ date: "%Y" }} Ganz-Sicher.Net Blog · proudly powered by <a href="http://jekyllrb.com/">jekyll</a>.
+	  &copy 2009 - {{ page.date: "%Y" }} <a href="/">Ganz-Sicher.Net Blog</a> · proudly powered by <a href="http://jekyllrb.com/">jekyll</a> & <a href="http://validator.w3.org/check/referer">optimized</a> for HTML5<br />
+	  my blog content is licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/3.0" target="_blank">creative commons license</a>
+	  
   </div>
 </div>
 
