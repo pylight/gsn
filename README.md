@@ -8,9 +8,6 @@ I was tired of having my blog posts end up in a database off on some remote serv
 License
 =======
 
-The following directories and their contents are Copyright Tom Preston-Werner. You may not reuse anything therein without my permission:
-
-* _posts/
-* images/
-
-All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please. If you do use them, a link back to http://github.com/mojombo/jekyll would be appreciated, but is not required.
+This repo was forked from http://github.com/mojombo/jekyll and is intended for my personal blog.
+Nevertheless, the files are MIT Licensed. Feel free to use the HTML and CSS as you please. If you want to start some more hardcore forking action, go ahead! :>
+If you do use these files, a link back would be appreciated, but is not required.
