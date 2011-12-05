@@ -19,7 +19,7 @@ html, body
 
 body 
 {
-  background-color: white;
+  background: white url(/images/stripesbg.png);
   font: 13.34px helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: center;
@@ -104,6 +104,14 @@ ul.posts
   width: 60em;
   margin: 3em auto 2em auto;
   line-height: 1.5em;
+  background-color: white;
+  padding: 20px;
+  border: 3px solid #E8E8E8;
+  -moz-border-radius: 5px; /* Firefox */     
+  -webkit-border-radius: 5px; /* Safari, Chrome */     
+  -khtml-border-radius: 5px; /* Konqueror */;
+  -o-border-radius: 5px /* opera */;
+  box-shadow: 3px 0pt 3px rgba(0, 0, 0, 0.1);
 }
 
   .site a.extra 
@@ -266,10 +274,31 @@ img.borderimg
 
 img.centered
 {
-	  display: block;
+	display: block;
     margin-left: auto;
     margin-right: auto
 }
+
+img.lefticon
+{
+	float: left;
+	margin-right: 15px;
+}
+img.lefticon:after
+{
+	clear: left;
+}
+
+img.righticon
+{
+	float: right;
+	margin-left: 15px;
+}
+img.righticon:after
+{
+	clear: right;
+}
+
 
 	header #logo
 	{
@@ -280,10 +309,10 @@ img.centered
 	header #logo:hover
 	{
 		/* roatate my logo :o */
-	 -moz-transform: rotate(7deg);
-	 -webkit-transform: rotate(7deg);
-   -o-transform: rotate(7deg);
-   -ms-transform: rotate(7deg);
+		-moz-transform: rotate(7deg);
+		-webkit-transform: rotate(7deg);
+		-o-transform: rotate(7deg);
+		-ms-transform: rotate(7deg);
 	}
 	
 	header nav
@@ -300,7 +329,9 @@ img.centered
 		padding: 0;
 		margin: 0;
 		font-style: italic;
-		color: #ccc;
+		color: #263961;
+		font: 18px 'Reenie Beanie', arial, serif;
+
 	}
 	
 #clearer
