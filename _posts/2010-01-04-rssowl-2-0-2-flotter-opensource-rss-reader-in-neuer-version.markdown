@@ -5,7 +5,7 @@ wordpress_id: 497
 wordpress_url: http://ganz-sicher.net/blog/?p=497
 date: 2010-01-04 23:40:29.000000000 +01:00
 ---
-<img class="alignleft size-full wp-image-502" title="rssowl icon" src="/wp-content/uploads/rssowl-icon.png" alt="" width="82" height="82" />
+<img class="lefticon" title="rssowl icon" src="/wp-content/uploads/rssowl-icon.png" alt="" width="82" height="82" />
 Vor einigen Tagen (genau genommen am  29.12.2009) erschien <a href="http://www.rssowl.org/" target="_blank">RSSOwl</a> in der Version 2.0.2. Die meisten werden <a href="http://www.google.com/reader/" target="_blank">Google Reader</a> kennen, beziehungsweise einsetzen und ich selbst nutze ihn auch häufig,, weil man seine Feeds so jederzeit &amp; überall abrufen kann. Zuhause möchte ich allerdings nicht auf die <em>RSSOwl</em> verzichten, denn der Desktop-Reader ist meiner Meinung nach handlicher und übersichtlicher als die Browseranwendung von Google.
 <!--more-->
 

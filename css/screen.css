@@ -67,6 +67,68 @@ table
   font: 100%;
 }
 
+#egobox {
+	position: absolute;
+	top: 5px;
+	right: 15px;    
+	opacity: 0.5;
+}
+
+#toolbox
+{
+	position: absolute;
+	top: 5px;
+	left: 15px;    
+	opacity: 0.5;
+}
+
+#feedbacklink, #cleanup, #random
+{
+	color: white;
+	text-decoration: none;
+	background-color: black;
+	font-weight: bold;
+	vertical-align: middle;
+	padding: 5px;
+	-moz-border-radius: 3px; /* Firefox */     
+	-webkit-border-radius: 3px; /* Safari, Chrome */     
+	-khtml-border-radius: 3px; /* Konqueror */;
+	-o-border-radius: 3px /* opera */;
+}
+
+ #cleanup,  #random
+ {
+	background-color: #E8E8E8;
+	color: black;
+	border: 1px solid #ccc;
+ }
+
+	#toolbox #toolboxnote, #stalknote
+	{
+		color: #666;
+		font-style: italic;
+		font: 23px 'Reenie Beanie', arial, serif;
+		position: relative;
+	}
+
+#stalknote {
+
+    top: -10px;
+}
+
+
+#feedbacklink
+{
+	position: relative;
+	top: -10px;
+}
+
+#toolbox #toolboxnote
+{
+	top: 3px;
+}
+
+
 /*****************************************************************************/
 /*
 /* Home
@@ -91,7 +153,8 @@ ul.posts
     font-size: 80%;
   }
   
-/*****************************************************************************/
+  
+  /*****************************************************************************/
 /*
 /* Site
 /*
