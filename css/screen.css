@@ -269,7 +269,7 @@ ul.posts
     -moz-border-radius: 5px; /* Firefox */     
     -webkit-border-radius: 5px; /* Safari, Chrome */     
     -khtml-border-radius: 5px; /* Konqueror */;
-
+	-o-border-radius: 5px /* opera */;
   }
 
   #post pre.terminal code
@@ -333,6 +333,7 @@ img.borderimg
 	border-style:solid;
 	border-color:#d9d8d8;
 	padding: 7px;
+	margin: 5px;
 }
 
 img.centered
@@ -396,6 +397,60 @@ img.righticon:after
 		font: 18px 'Reenie Beanie', arial, serif;
 
 	}
+
+.infobox
+{
+	background-color: #F2FFE1;
+	border: 1px solid #83D13D;
+	margin: 5px 0;
+	padding: 5px;
+	
+	/* rounded corners */
+	-moz-border-radius: 2px; /* Firefox */     
+    -webkit-border-radius: 2px; /* Safari, Chrome */     
+    -khtml-border-radius: 2px; /* Konqueror */;
+    -o-border-radius: 2px /* opera */;
+}
+.infobox a
+{
+	color: #666;
+}
+a.homelink
+{
+	padding-left: 20px;
+	background: url(/images/icons/homelink.png);
+	background-repeat: no-repeat;
+}
+a.packagelink
+{
+	padding-left: 20px;
+	background: url(/images/icons/packagelink.png);
+	background-repeat: no-repeat;
+}
+a.folderlink
+{
+	padding-left: 20px;
+	background: url(/images/icons/folderlink.png);	
+	background-repeat: no-repeat;
+}
+a.scriptlink
+{
+	padding-left: 20px;
+	background: url(/images/icons/scriptlink.png);	
+	background-repeat: no-repeat;
+}
+a.imagelink
+{
+	padding-left: 20px;
+	background: url(/images/icons/imagelink.png);	
+	background-repeat: no-repeat;
+}
+.info
+{
+	padding-left: 20px;
+	background: url(/images/icons/info.png);	
+	background-repeat: no-repeat;
+}
 	
 #clearer
 {

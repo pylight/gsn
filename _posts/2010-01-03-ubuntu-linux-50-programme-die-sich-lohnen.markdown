@@ -38,7 +38,7 @@ Instant-Messenger:
 ===============================
 [http://www.pidgin.im/](Pigdin) ist ein Chatclient für viele Protokolle (ICQ, MSN, IRC, Google Talk,...). Die Oberfläche ist schön schlicht gehalten und erfüllt ihren Zweck gut. Von der Bedienung und Übersicht her gefällt es mir besser, als das bereits vorinstallierte [Empathy](http://live.gnome.org/Empathy).
 
-<img class="borderimg centered" title="pidgin" src="http://ganz-sicher.net/blog/wp-content/uploads/pidgin.png" alt="" width="286" height="400" />
+<img class="borderimg centered" title="pidgin" src="/wp-content/uploads/pidgin.png" alt="" width="286" height="400" />
 
 
 Interessante Video-Podcasts:
