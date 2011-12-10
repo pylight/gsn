@@ -43,7 +43,7 @@ h3
 
 p
 {
-  margin: 1em 0;
+  margin: 0.5em 0;
 }
 
 a, a:link 
@@ -236,6 +236,7 @@ ul.posts
     background-color: #2E3436;
     color: #D3D7CF;
     padding: 0 .4em;
+    overflow: auto;
   }
 
   #post ul,
@@ -284,7 +285,7 @@ ul.posts
 	{
 		font-size: 34px;
 		line-height: 1.2;
-		margin: 0.3em 0 10px;
+		margin: 0.3em 0 5px;
 		text-shadow: silver 2px 2px 4px;
 		text-align: left;
 	}
@@ -293,7 +294,7 @@ ul.posts
 	{
 		font-size: 24px;
 		line-height: 1.3;
-		margin: 1em 0 .2em;
+		margin: 1em 0 .1em;
 	}
 
 #related 
@@ -334,6 +335,7 @@ img.borderimg
 	border-color:#d9d8d8;
 	padding: 7px;
 	margin: 5px;
+	background: white;
 }
 
 img.centered
@@ -455,5 +457,11 @@ a.imagelink
 #clearer
 {
 	clear: both;
+}
+
+div.imageinfo
+{
+	text-align: center; 
+	font-size: xx-small;
 }
 
