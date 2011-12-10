@@ -5,6 +5,16 @@ It is automatically transformed by [Jekyll](http://github.com/mojombo/jekyll) in
 
 I was tired of having my blog posts end up in a database off on some remote server. That is backwards. I've lost valuable posts that way. I want to author my posts locally in Textile or Markdown. My blog should be easily stylable and customizable any way I please. It should take care of creating a feed for me. And most of all, my site should be stored on GitHub so that I never lose data again.
 
+ToDos (Wordpress migration)
+============================
+* article categories + permalinks like wordpress
+* index page: article previews (using <!-- more --> tag)
+* create pages: impress, contact, blogroll, licence info, top/recommended articles, about page, sitemap/archive, stats page
+* maybe a "tags"-feature
+* improve css settings (fonts, tables etc.)
+* media plugin to embed videos from youtube or vimeo more easily (maybe [https://gist.github.com/1455726](https://gist.github.com/1455726))
+* open extern links in a new tab (e.g. [http://blog.jodet.com/jekyll-and-node/](http://blog.jodet.com/jekyll-and-node/))
+
 License
 =======
 
