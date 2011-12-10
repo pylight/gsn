@@ -17,8 +17,8 @@ Archlinux hat für mich einen entscheidenden Vorteil gegenüber den meisten beka
 Einfach und aufgeräumt
 =======================
 Dennoch is Arch nicht kompliziert oder schwer. Archlinux hält sich an das <a href="https://wiki.archlinux.de/title/KISS-Prinzip">KISS-Prinzip</a> (Keep it simple, stupid.) und versucht dabei nichts zu verschleihern. Ein Satz des Arch-Erfinders und Hauptentwicklers <span style="font-family: sans-serif; font-size: 13px; line-height: 19px; background-color: #ffffff;">Judd Vinet dazu:</span>
-<blockquote>„Wenn Du versuchst, die Komplexität des Systems zu verschleiern, landest Du am Ende bei einem viel komplexeren System.“</blockquote>
-Bei Archlinux versteht man also was man tut und kennt mit der Zeit sein System. Es gibt einige wichtige Konfigurationsdateien, sobald man diese jedoch kennt (siehe <em>Installationsanleitungen</em> unten), ist der Umgang mit Archlinux vergleichsweise simpel.
+> „Wenn Du versuchst, die Komplexität des Systems zu verschleiern, landest Du am Ende bei einem viel komplexeren System.“
+Bei Archlinux versteht man also was man tut und kennt mit der Zeit sein System. Es gibt einige wichtige Konfigurationsdateien, sobald man diese jedoch kennt (siehe *Installationsanleitungen* unten), ist der Umgang mit Archlinux vergleichsweise simpel.
 
 Riesige Software-Auswahl und immer neuste Versionen dank AUR
 =============================================================

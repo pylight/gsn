@@ -4,6 +4,7 @@ title: Google weiß mal wieder alles besser
 wordpress_id: 190
 wordpress_url: http://ganz-sicher.net/blog/?p=190
 date: 2009-12-17 09:03:51.000000000 +01:00
+category: blognews
 ---
 Pha! - Kaum hat man sich für einen Namen für seinen neuen und (noch) unschuldigen Blog entschieden, kommt das altkluge Google daher und meint schon wieder Verbesserungsvorschläge geben zu müssen:
 
