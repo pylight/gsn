@@ -237,6 +237,7 @@ ul.posts
     color: #D3D7CF;
     padding: 0 .4em;
     overflow: auto;
+    margin-bottom: 15px;
   }
 
   #post ul,
@@ -256,7 +257,7 @@ ul.posts
     #post pre code 
     {
       border: none;
-    }
+   }
 
   /* terminal */
 

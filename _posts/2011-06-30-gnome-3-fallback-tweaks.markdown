@@ -21,7 +21,7 @@ Customizing
 ============
 Andere Themes und Icons
 ------------------------
-Wie bei Gnome Shell ist das Ändern von Themes oder der Icons standardmäßig nicht vorgesehen. Mit dem <strong><a href="https://live.gnome.org/GnomeTweakTool">Gnome-Tweak-Tool</a></strong> können solche Änderungen dennoch durchgeführt werden. Ich verwende im Fallback-Modus das Gtk2-Theme <a href="http://lassekongo83.deviantart.com/art/Zukitwo-203936861">Zukitwo-Dark</a> (<em>entpacken nach ~/.themes</em>) sowie die <a href="http://danrabbit.deviantart.com/art/elementary-Icons-65437279">Elementary-Icons</a> (<em>entpacken nach /usr/share/icons</em>).
+Wie bei Gnome Shell ist das Ändern von Themes oder der Icons standardmäßig nicht vorgesehen. Mit dem <a href="https://live.gnome.org/GnomeTweakTool">Gnome-Tweak-Tool</a> können solche Änderungen dennoch durchgeführt werden. Ich verwende im Fallback-Modus das Gtk2-Theme <a href="http://lassekongo83.deviantart.com/art/Zukitwo-203936861">Zukitwo-Dark</a> (<em>entpacken nach ~/.themes</em>) sowie die <a href="http://danrabbit.deviantart.com/art/elementary-Icons-65437279">Elementary-Icons</a> (<em>entpacken nach /usr/share/icons</em>).
 Zudem ist das Tweak-Tool für einige andere (eigentlich selbstverständliche) Einstellungsmöglichkeiten (z.B. Icons auf dem Desktop) nützlich.
 
 Panel anpassen und Applets hinzufügen
@@ -42,7 +42,7 @@ Die Panelfarbe kann natürlich auch über Themes angepasst werden. Beispiel aus 
 Startprogramme hinzufügen, Startmenü-Einträge anpassen
 -------------------------------------------------------
 Um Programme beim Start von Gnome 3 ausführen zu lassen, muss ebenfalls in die Trickkiste gegriffen werden. Genau wie bei Gnome Shell kann aber per Alt-F2 und<strong> gnome-session-properties</strong> das Tool gestartet werden, mit dem die Startprogramme verwaltet werden können. (Für jedes Startprogramm wird dadurch unter ~/.config/autostart eine passende .desktop-Datei angelegt.)
-Zum Anpassen des Fallback-Startmenüs steht per default nur ein recht minimalimalistisches. grafisches Tool zur Verfügung (<em>gmenu-simple-editor</em>). Mehr Optionen (abändern der Einträge oder Hinzufügen neuer Einträge) erhält man mit dem aus Gnome 2 bekannten <strong><a href="http://git.gnome.org/browse/alacarte/">alacarte</a></strong>. Auch die Applications-Einträge von Gnome-Shell können damit übrigens verändert werden.
+Zum Anpassen des Fallback-Startmenüs steht per default nur ein recht minimalimalistisches. grafisches Tool zur Verfügung (<em>gmenu-simple-editor</em>). Mehr Optionen (abändern der Einträge oder Hinzufügen neuer Einträge) erhält man mit dem aus Gnome 2 bekannten <a href="http://git.gnome.org/browse/alacarte/">alacarte</a>. Auch die Applications-Einträge von Gnome-Shell können damit übrigens verändert werden.
 
 
 Komfort &amp; Funktionen
@@ -52,18 +52,18 @@ Thumbnail-Bilder bei Videos (Nautilus) aktivieren und "Bevorzugte Programme" fe
 ------------------------------------------------------------------------------------------
 Ich bin mir nicht sicher, ob es sich dabei um ein Archlinux-spezifisches Problem handelt oder ob es an Gnome 3 liegt, dass Nautilus bei Videos bei mir keine Thumbnails anzeigt. Die Vorschaubilder lassen sich mit der Anleitung von https://returnfalse.net/log/gnome-3-and-nautilus-video-thumbnails-with-ffmpegthumbnailer/ wieder aktivieren:
 <ul>
-	<li><strong><a href="http://code.google.com/p/ffmpegthumbnailer/">ffmpegthumbnailer</a></strong> installieren (für Archlinux siehe <a href="http://aur.archlinux.org/packages.php?ID=49555">AUR</a>)</li>
+	<li><a href="http://code.google.com/p/ffmpegthumbnailer/">ffmpegthumbnailer</a> installieren (für Archlinux siehe <a href="http://aur.archlinux.org/packages.php?ID=49555">AUR</a>)</li>
 	<li>Im Terminal:</li></ul>
 	
 	$ rm -rf ~/.thumbnails/
 	$ nautilus -q
 	
-Auch nervt, dass Gnome bei der Installation neuer Programme von Zeit zu Zeit diese als Standardprogramm für bestimmte Dateiendungen wählt. Unter Archlinux verwende ich deswegen <strong><a href="http://aur.archlinux.org/packages.php?ID=23170">gnome-defaults-list</a></strong>, das unter /usr/share/applications die Datei defaults.list anlegt. Über diese Datei können dann die Standardprogramme für alle Dateiendungen eingestellt werden.
+Auch nervt, dass Gnome bei der Installation neuer Programme von Zeit zu Zeit diese als Standardprogramm für bestimmte Dateiendungen wählt. Unter Archlinux verwende ich deswegen <a href="http://aur.archlinux.org/packages.php?ID=23170">gnome-defaults-list</a>, das unter /usr/share/applications die Datei defaults.list anlegt. Über diese Datei können dann die Standardprogramme für alle Dateiendungen eingestellt werden.
 
 
 Tiling Windows
 --------------
-Leider Besitzt der Fallback-Modus nicht wie Gnome Shell oder Ubuntu 11.04 die Möglichkeit, Fenster durch einfaches Verschieben an den Rand ("Snap"-Funktion), schnell auszurichten. Ein kleines Tool (mit einigen weiteren Ausrichtungsmöglichkeiten) kann aber hier Abhilfe  verschaffen. <strong><a href="https://github.com/TheWanderer/stiler">Stiller</a></strong> ist ein python-Script, mit dem einige Parameter zur Verfügung stehen, um Fenster bei Window-Managern wie Gnome auszurichten. Natürlich kann man den verschiedenen Einstellungen auch Tastenkombinationen in den Gnome-Einstellungen zuweisen, um das Ausrichten leichter zu machen. Das könnte dann beispielsweise so aussehen:
+Leider Besitzt der Fallback-Modus nicht wie Gnome Shell oder Ubuntu 11.04 die Möglichkeit, Fenster durch einfaches Verschieben an den Rand ("Snap"-Funktion), schnell auszurichten. Ein kleines Tool (mit einigen weiteren Ausrichtungsmöglichkeiten) kann aber hier Abhilfe  verschaffen. <a href="https://github.com/TheWanderer/stiler">Stiller</a> ist ein python-Script, mit dem einige Parameter zur Verfügung stehen, um Fenster bei Window-Managern wie Gnome auszurichten. Natürlich kann man den verschiedenen Einstellungen auch Tastenkombinationen in den Gnome-Einstellungen zuweisen, um das Ausrichten leichter zu machen. Das könnte dann beispielsweise so aussehen:
 <a href="/wp-content/uploads/tiling.jpeg"><img class="borderimg centered" title="tiling" src="/wp-content/uploads/tiling.jpeg" alt="" width="500" height="300" /></a>
 Mir gefällt diese Lösung besser als ein expliziter Tiling Window-Manager, denn so werden die Fenster nur auf Wunsch angeordnet und das sonstige Desktoperlebnis bleibt das selbe. Eine andere Möglichkeit, die Snapping-Windows-Funktion im Fallback-Modus zu bekomen, ist das Nutzen von Compiz, welches auch ein entsprechendes Plugin besitzt.</p>
 
