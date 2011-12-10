@@ -14,6 +14,8 @@ ToDos (Wordpress migration)
 * improve css settings (fonts, tables etc.)
 * media plugin to embed videos from youtube or vimeo more easily (maybe [https://gist.github.com/1455726](https://gist.github.com/1455726))
 * open extern links in a new tab (e.g. [http://blog.jodet.com/jekyll-and-node/](http://blog.jodet.com/jekyll-and-node/))
+* blog search-function
+* random slogan
 
 License
 =======
