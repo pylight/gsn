@@ -4,6 +4,7 @@ title: Programmierung - Clean Code Tipps
 wordpress_id: 1683
 wordpress_url: http://ganz-sicher.net/blog/?p=1683
 date: 2011-11-24 16:00:50.000000000 +01:00
+category: programmierung, scripting
 ---
 <img class="lefticon" title="unclean_code" src="/wp-content/uploads/unclean_code.png" alt="" width="48" height="48" />
 Da ich letztlich zum Thema "Clean Code" &amp; sauberer Programmierung einen Vortrag gehört habe, werde ich im Folgenden für mich und alle, die das sonst noch interessiert, die wichtigsten Punkte davon zusammenfassen. Ergänzungen oder Anmerkungen sind natürlich erlaubt/-wünscht. Ich habe die Überschriften zum Teil auf englisch belassen, weil man damit einfach einiges kürzer und konkreter ausdrücken kann. Ich hoffe, das stellt für Niemanden ein Problem dar. Falls doch: <a href="http://dict.leo.org/">leo</a> hilft!
