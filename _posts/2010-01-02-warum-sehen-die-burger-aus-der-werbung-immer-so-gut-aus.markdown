@@ -4,6 +4,7 @@ title: Warum sehen die Burger aus der Werbung immer so gut aus?
 wordpress_id: 425
 wordpress_url: http://ganz-sicher.net/blog/?p=425
 date: 2010-01-02 02:16:41.000000000 +01:00
+category: kurz-notiert
 ---
 Silvester [erfolgreich überstanden](http://2.media.tumblr.com/tumblr_kvkqe1mB3D1qzpwi0o1_500.jpg)? =] Dann wird es jetzt mal wieder Zeit für einen kleinen Snack...
 

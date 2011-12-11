@@ -4,6 +4,7 @@ title: UndercoverXp - Cover schnell & Einfach ausdrucken
 wordpress_id: 164
 wordpress_url: http://ganz-sicher.net/blog/?p=164
 date: 2009-12-16 20:31:28.000000000 +01:00
+category: software
 ---
 Ich versehe selbstgebrannte DVDs und sonstige "Sicherheitskopieen" gerne mit einem entsprechenden DVD-Hüllen-Cover. Da ich dafür <a href="http://www.luxdisc.com/dvdhlleslimfr1dvdcdschwarz100stck-p-7001.html?osCsid=51149c2f690e2008291209026103f013" target="_blank">Slim-Hüllen</a> benutze, die schmaler als normale DVD-Hüllen sind, habe ich vor einiger Zeit nach einem Programm gesucht, das mir auch dieses Format schnell und unkompliziert ausdruckt.
 

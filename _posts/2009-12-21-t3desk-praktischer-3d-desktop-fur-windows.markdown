@@ -4,6 +4,7 @@ title: T3Desk - Praktischer 3D-Desktop für Windows
 wordpress_id: 328
 wordpress_url: http://ganz-sicher.net/blog/?p=328
 date: 2009-12-21 22:59:43.000000000 +01:00
+category: software
 ---
 Mit [T3Desk](http://tehnif.com/T3Desk.aspx) lernen deine Programme die dritte Dimension kennen! Mit der Freeware lassen sich nämlich alle offenen Fenster an den 4 Bildschirmecken andocken oder um ihre eigenen Kanten drehen und damit ziemlich frei im Raum platzieren.
 

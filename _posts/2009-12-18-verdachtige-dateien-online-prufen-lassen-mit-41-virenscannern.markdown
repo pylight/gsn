@@ -4,6 +4,7 @@ title: Verdächtige Dateien online prüfen lassen - mit 41 Virenscannern
 wordpress_id: 237
 wordpress_url: http://ganz-sicher.net/blog/?p=237
 date: 2009-12-18 22:44:31.000000000 +01:00
+category: software
 ---
 Virenscanner haben meist ein Problem: Den perfekten Schutz bietet kein Programm. Die Software wiegt den Anwender in Sicherheit, wenngleich viele Viren &amp; Trojaner gar nicht erkannt werden. Ständig sind neue Updates nötig, damit auch aktuelle Viren auf der Schadliste stehen.
 

@@ -4,6 +4,7 @@ title: FuriusISOMount - Praktisches Tool zum Mounten von Images
 wordpress_id: 1604
 wordpress_url: http://ganz-sicher.net/blog/?p=1604
 date: 2011-09-08 21:38:21.000000000 +02:00
+category: software
 ---
 CD/DVD-Abbilder lassen sich unter Linux zwar per mount-Befehl per Konsole einbinden. Bequem ist das aber nicht, vor allem wenn man viele (z.B. durch Backups erzeugte) Images auf seinem Rechner hat. Ein komfortableres Tool zum Einbinden (und Aushängen) der Abbilder ist <a href="https://launchpad.net/furiusisomount/">FuriusISOMount</a>.
 

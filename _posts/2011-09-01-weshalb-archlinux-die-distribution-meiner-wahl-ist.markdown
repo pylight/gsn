@@ -4,6 +4,7 @@ title: Weshalb Archlinux die Distribution meiner Wahl ist...
 wordpress_id: 1433
 wordpress_url: http://ganz-sicher.net/blog/?p=1433
 date: 2011-09-01 13:05:00.000000000 +02:00
+category: linux-distributionen
 ---
 <img class="lefticon" src="/wp-content/uploads/archlinux_small.png" alt="" width="66" height="65" />
 Wenn man sich für Linux entscheidet, steht man häufig vor der Frage "<em>Welche <a href="http://de.wikipedia.org/wiki/Distribution_(Software)">Distribution</a> verwende ich denn jetzt?</em>". Auf <a href="http://www.distrowatch.com/">Distrowatch</a> gibt es eine Übersicht der Linux-Distributionen. Es sind angeblich 312 aktive, was die Sache nicht gerade leichter macht...

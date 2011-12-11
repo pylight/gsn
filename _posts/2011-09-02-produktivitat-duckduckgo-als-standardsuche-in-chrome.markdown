@@ -4,6 +4,7 @@ title: Produktivität - Duckduckgo als Standardsuche in Chrome
 wordpress_id: 1515
 wordpress_url: http://ganz-sicher.net/blog/?p=1515
 date: 2011-09-02 15:03:42.000000000 +02:00
+category: tutorials-tipps
 ---
 <img class="lefticon" src="/wp-content/uploads/logo1.png" alt="" width="100" height="66" />
 Über die alternative Suchmaschine <a href="http://duckduckgo.com/">Duckduckgo</a> hatte ich bereits <a href="http://ganz-sicher.net/blog/linktipps/3-interessante-suchmaschinen-abseits-von-google/">kurz geschrieben</a>. Die Hauptvorteile gegenüber Google liegen darin, dass mehr Wert auf Privatspäre (keine Suchstatistiken) gelegt wird und man durch kurze Befehle (<a href="http://duckduckgo.com/bang.html">!bang</a>) mit vorangestelltem Ausrufezeichen viele andere Suchdienste ansprechen kann, also beispielsweise auch nicht auf Google verzichten muss. Mitlerweile verwende ich Duckduckgo statt Google als Standardsuche in Chromium. Nach etwas Eingewöhnung komme ich damit deutlich schneller an's Ziel als mit Google!

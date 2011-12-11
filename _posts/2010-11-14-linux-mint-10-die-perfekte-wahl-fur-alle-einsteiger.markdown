@@ -4,6 +4,7 @@ title: Linux Mint - Die perfekte Wahl für alle Einsteiger?
 wordpress_id: 835
 wordpress_url: http://ganz-sicher.net/blog/?p=835
 date: 2010-11-14 16:02:47.000000000 +01:00
+category: linux-distributionen
 ---
 <img class="lefticon" title="Minto Logo" src="/wp-content/uploads/mint_logo.png" alt="" width="48" height="48" />
 Vor Kurzem ist <a href="http://linuxmint.com/">Linux Mint</a> in einer neuen Version (Mint 10 "Julia") erschienen. Wenngleich die Distribution auf dem (sicherlich bekannteren) Ubuntu basiert, ist Linux Mint in der letzten Zeit mehr und mehr für mich zum "besseren Ubuntu" geworden.

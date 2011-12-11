@@ -4,6 +4,7 @@ title: Filezilla und die gespeicherten Passwörter
 wordpress_id: 1131
 wordpress_url: http://ganz-sicher.net/blog/?p=1131
 date: 2011-03-18 22:39:20.000000000 +01:00
+category: tutorials-tipps
 ---
 <img class="lefticon" src="/wp-content/uploads/filezilla.png" alt="" />
 [FileZilla](http://filezilla-project.org/) gefällt mir als FTP-Client sehr gut, gerade weil es Open Source und damit für mehrere verschiedene Plattformen verfügbar ist. Weniger gefällt mir, dass FileZilla immer die Passwörter meiner zuletzt benutzen FTP-Verbindungen als Klartext in einer XML-Datei speichert...

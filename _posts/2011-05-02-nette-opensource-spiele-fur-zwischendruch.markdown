@@ -4,6 +4,7 @@ title: Nette OpenSource-Spiele für Zwischendruch!
 wordpress_id: 1218
 wordpress_url: http://ganz-sicher.net/blog/?p=1218
 date: 2011-05-02 20:30:00.000000000 +02:00
+category: fun
 ---
 <img class="lefticon" title="games-icon" src="/wp-content/uploads/games-icon.png" alt="" width="48" height="48" />
 Ich hier habe mal einige kleinere Open Source Spiele gesammelt, die man gut mal zwischendurch zum Abschalten spielen kann. (keine größeren Spiele, die zu viel Zeit verschlingen ;p)

@@ -4,6 +4,7 @@ title: ! 'Kurzurls: Richtige Zieladresse anzeigen lassen'
 wordpress_id: 196
 wordpress_url: http://ganz-sicher.net/blog/?p=196
 date: 2009-12-17 13:12:58.000000000 +01:00
+category: kurz-notiert
 ---
 [Tinyurl](http://tinyurl.com/), der Adressenverkürzungsdienst, sollte den meisten bekannt sein. Vor allem bei Twitter kommt man an solchen Kurzurls eigentlich nicht mehr vorbei. Viele Fragen sich da zum Beispiel: "Wer ist denn dieser <a href="http://bit.ly/">Bitly</a> und warum macht er alles kurz und klein?!?". Mitlerweile gibt es wirklich viele verschiedene Anbieter dafür. Selbst Google kam kürzlich spontan auf die Idee, dass man sowas <a href="http://goo.gl/">ja einführen könnte</a>.
 

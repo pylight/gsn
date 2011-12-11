@@ -4,6 +4,7 @@ title: ! 'Linkbox #10'
 wordpress_id: 1553
 wordpress_url: http://ganz-sicher.net/blog/?p=1553
 date: 2011-09-05 23:49:12.000000000 +02:00
+category: linktipps
 ---
 <img class="righticon" src="/wp-content/uploads/gnome-logo.jpg" alt="" width="80" height="91" />
 Über <a href="http://gnome3.org/">Gnome 3 / Gnome Shell</a> hatte ich bereits mehrfach geschrieben. Ende des Monats soll Gnome 3.2 erscheinen, was vieles in Sachen Performance verbessern will, aber auch <a href="http://mygeekopinions.blogspot.com/2011/07/gnome-32-news-few-major-upcoming.html">neue Features</a> bringen soll. Die Gnome Shell Extensions solllen beispielsweise auch eine eigene Website erhalten, über die man diese einfacher Einbinden kann. Neben den im Blog schon vorgestellten Erweiterungen habe ich noch weitere 3 interessante gefunden:

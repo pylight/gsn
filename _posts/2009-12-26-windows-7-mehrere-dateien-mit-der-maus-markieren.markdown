@@ -4,6 +4,7 @@ title: ! '[Windows 7] Mehrere Dateien mit der Maus markieren'
 wordpress_id: 360
 wordpress_url: http://ganz-sicher.net/blog/?p=360
 date: 2009-12-26 18:18:27.000000000 +01:00
+category: tutorials-tipps
 ---
 Die meisten unter euch werden schon wissen, dass man unter Windows alle Dateien in einem Ordner mit <em><strong>STRG + A</strong></em>markieren kann. Mit gedrückter <strong><em>SHIFT</em></strong>-Taste (die Taste mit dem Pfeil, über <em>STRG</em>)  kann man auch eine Reihe von Dateien, die nebeneinander angeordnet sind, markieren und durch Drücken der <strong><em>STRG</em></strong>-Taste während dem Klicken, können mehrere Dateien individuell &amp; gleichzeitig angewählt werden. Sofern man sich das merken und damit gut arbeiten kann, ist das eine tolle Sache. ;-)
 

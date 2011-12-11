@@ -4,6 +4,7 @@ title: Es wird herbstlich...
 wordpress_id: 1674
 wordpress_url: http://ganz-sicher.net/blog/?p=1674
 date: 2011-10-10 23:05:52.000000000 +02:00
+category: kurz-notiert
 ---
 ...auch auf meinem Desktop. =)
 

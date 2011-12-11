@@ -4,6 +4,7 @@ title: Gnome 3 Fallback Tweaks
 wordpress_id: 1395
 wordpress_url: http://ganz-sicher.net/blog/?p=1395
 date: 2011-06-30 23:40:20.000000000 +02:00
+category: linux-distributionen
 ---
 Ich hatte es glaube ich schonmal erwähnt - <a href="http://gnome3.org/">Gnome 3</a> gefällt mir. Wenn man allerdings nicht über einen halbwegs aktuellen Rechner verfügt oder auf die neuen Funktionen von Gnome Shell gut verzichten kann, ist (neben anderen Desktopumgeben wie <a href="http://www.xfce.org/">Xfce</a>) der Gnome 3 Fallback-Mode eine mögliche Option. Der Fallback-Mode ist nicht so schlecht wie sein Ruf! Auf den ersten Blick mag er weniger Funktionen als Gnome 2 bieten, mit einigen versteckten Tricks wird er jedoch zu einer guten Alternative.
 <!--more-->

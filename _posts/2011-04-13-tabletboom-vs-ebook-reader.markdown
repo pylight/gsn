@@ -4,6 +4,7 @@ title: Tabletboom vs. Ebook-Reader?
 wordpress_id: 1213
 wordpress_url: http://ganz-sicher.net/blog/kurz-notiert/tabletboom-vs-ebook-reader/
 date: 2011-04-13 23:31:41.000000000 +02:00
+category: kurz-notiert
 ---
 Ich hatte ja in den letzten 2 Jahren immer mal mit dem Gedanken gespielt, mir einen Ebook-Reader zuzulegen. Die lange Akkulaufzeit und die der matte "so-scharf-wie-gedruckt"-Display, empfand ich als Schritt in die richtige Richtung, einzig der Preis war mit immer zu hoch. "Wenn die mal 100€ kosten, hol ich mir einen", dachte ich immer.
 <!--more-->

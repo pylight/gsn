@@ -4,6 +4,7 @@ title: Cyberwar 2.0 - Google vs. Microsoft?
 wordpress_id: 394
 wordpress_url: http://ganz-sicher.net/blog/?p=394
 date: 2009-12-28 12:04:13.000000000 +01:00
+category: fun
 ---
 <p style="text-align: justify;">Die <a href="http://www.computerworld.com/s/article/9142593/Google_and_Microsoft_to_escalate_war_in_2010" target="_blank">'Computerworld' will wissen</a>, dass 2010 der Webkrieg zwischen <a href="http://www.google.de/" target="_blank">Google</a> und <a href="http://www.microsoft.com" target="_blank">Microsoft</a> losbricht. Der Grund ist nach Meinung von sogenannten <em>Analysten</em>, dass die beiden Unternehmen in mehreren Kernbereichen (Browser, Betriebsystem, Suchmaschine, <em>Maps</em>,...) konkurieren.</p>
 <p style="text-align: justify;"><strong>Hirnoffensive</strong> aber weiß: Der Krieg hat schon längst begonnen und fordert bereits erste Opfer. Dabei wird nicht lange um Inhalte oder langweilige Softwarestrategien gestritten: Die Kritik am Gegner setzt viel unmittelbarer, nämlich schon beim Produktnamen an:</p>

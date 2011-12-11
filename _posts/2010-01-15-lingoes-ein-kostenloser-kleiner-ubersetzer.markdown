@@ -4,6 +4,7 @@ title: Lingoes - Ein kostenloser kleiner "Übersetzer"
 wordpress_id: 114
 wordpress_url: http://ganz-sicher.net/blog/?p=114
 date: 2010-01-15 00:12:21.000000000 +01:00
+category: software
 ---
 <img class="lefticon" title="lingoes_logo" src="/wp-content/uploads/lingoes_logo.png" alt="lingoes_logo" width="117" height="41" />
 Wer häufig mal Texte oder einzelne Wörter übersetzen muss, wird Seiten wie [Leo.org](http://dict.leo.org/) oder [dict.cc](http://www.dict.cc/) kennen. Die kostenlosen Dienste im Netz sind mittlerweile so umfangreich, dass sie das Nachschlagen in einem dicken Wörterbuch nahezu vollständig ersetzen können. Bei Wörtern, die  viele Bedeutungen haben, oder sehr speziell sind, ist es dennoch manchmal nötig, mehrere Übersetzungsdienste abzufragen. Manchmal möchte man auch die Wortbedeutung genauer erklärt haben.

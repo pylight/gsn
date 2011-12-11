@@ -4,6 +4,7 @@ title: Schraubenkunst
 wordpress_id: 973
 wordpress_url: http://ganz-sicher.net/blog/?p=973
 date: 2011-03-04 14:11:49.000000000 +01:00
+category: fun
 ---
 Man nehme einiges an Kreativität und Zeit, unnötig herumliegende Schrauben und einen Akkuschrauber. Das erstaunliche Ergebnis im Falle von Andrew Myers:
 <img class="borderimg centered" title="schrauben_kunst_1" src="/wp-content/uploads/schrauben_kunst_1.png" alt="" width="511" height="733" />

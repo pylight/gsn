@@ -4,6 +4,7 @@ title: Linux - Eine Erfolgsstory
 wordpress_id: 1206
 wordpress_url: http://ganz-sicher.net/blog/?p=1206
 date: 2011-04-10 15:24:51.000000000 +02:00
+category: linux-distributionen
 ---
 Angesichts des baldigen 20. Geburtstags von Linux gibt es ein schönes Video von der <a href="http://www.linuxfoundation.org/20th/">Linux Foundation</a>:
 

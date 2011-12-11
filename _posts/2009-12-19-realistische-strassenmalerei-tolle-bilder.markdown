@@ -4,6 +4,7 @@ title: Realistische Straßenmalerei - tolle Bilder
 wordpress_id: 251
 wordpress_url: http://ganz-sicher.net/blog/?p=251
 date: 2009-12-19 13:08:26.000000000 +01:00
+category: linktipps
 ---
 Bei <a href="http://www.geeksucks.com/" target="_blank">geeksucks</a> gibt es eine tolle Sammlung realistischer Straßenmalereien zu sehen. 
 

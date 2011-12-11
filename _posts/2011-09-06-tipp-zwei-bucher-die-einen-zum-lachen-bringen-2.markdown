@@ -4,6 +4,7 @@ title: Tipp - Zwei Bücher die einen zum Lachen bringen
 wordpress_id: 1559
 wordpress_url: http://ganz-sicher.net/blog/?p=1559
 date: 2011-09-06 02:13:39.000000000 +02:00
+category: kurz-notiert
 ---
 <img class="lefticon" title="book2" src="/wp-content/uploads/book2.png" alt="" width="48" height="48" />
 Seit ich einen <a href="http://ganz-sicher.net/blog/kurz-notiert/tabletboom-vs-ebook-reader/">Ebook Reader</a> besitze, ertappe ich mich wieder häufiger beim Lesen! Zwei Bücher, die ich in letzter Zeit gelesen habe, haben mir besonders gefallen, deshalb will ich sie auf diesem Weg gerne kurz weiterempfehlen. =)

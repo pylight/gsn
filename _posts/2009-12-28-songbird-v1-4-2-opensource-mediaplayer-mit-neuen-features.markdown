@@ -4,6 +4,7 @@ title: Songbird v1.4.2 - OpenSource-Mediaplayer mit neuen Features
 wordpress_id: 379
 wordpress_url: http://ganz-sicher.net/blog/?p=379
 date: 2009-12-28 01:46:28.000000000 +01:00
+category: software
 ---
 <p style="text-align: justify;"><a href="http://getsongbird.com/">Songbird</a> ist <a href="http://blog.songbirdnest.com/2009/12/22/songbird-1-4-2-is-posted/" target="_blank">vor kurzem in der neuen Version 1.4.2 erschienen</a> und da ich den Player selbst gerne einsetze, möchte ich in diesem Beitrag kurz die Vor- &amp; Nachteile des Programms vorstellen.</p>
 <img style="float:right; margin-left: 20px;" title="songbird logo" src="/wp-content/uploads/songbird_logo.png" alt="songbird logo" width="208" height="68" />

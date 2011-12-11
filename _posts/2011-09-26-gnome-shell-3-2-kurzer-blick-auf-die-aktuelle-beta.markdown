@@ -4,6 +4,7 @@ title: Gnome Shell 3.2 - Kurzer Blick auf die aktuelle Beta
 wordpress_id: 1611
 wordpress_url: http://ganz-sicher.net/blog/?p=1611
 date: 2011-09-26 14:35:00.000000000 +02:00
+category: kurz-notiert
 ---
 <img class="lefticon" src="/wp-content/uploads/gnome_icon1.png" alt="" width="48" height="48" />
 [Gnome Shell](http://gnome3.org/) gefällt mir vom Design und den Ideen her gut, darüber hatte ich schon mehrfach hier im Blog geschrieben. Es handelt sich aber auch um ein neues Stück Software, einige Dinge fehlen daher und manches kann noch nicht überzeugen. So fehlen beispielsweise viele Einstellungsmöglichkeiten und die Performance ist vor allem auf alten Rechnern eher unzureichend. In den nächsten Tagen erscheint Gnome 3.2, das nächste große Release nach 3.0. Ich habe (unter Arch) bereits einen kurzen Blick auf die aktuelle Beta geworfen.

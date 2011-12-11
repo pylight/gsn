@@ -4,6 +4,7 @@ title: Ein Iphone-Killer von Google?
 wordpress_id: 65
 wordpress_url: http://ganz-sicher.net/blog/?p=65
 date: 2009-12-13 17:21:24.000000000 +01:00
+category: netzwelt-news
 ---
 Lange Zeit gab es nur Gerüchte um ein mögliches Google-Handy, jetzt <a href="http://www.golem.de/0912/71842.html">wurde bekannt</a>, dass Google seit Freitag ein Smartphone zum Testen an seine Mitarbeiter verteilt, bei dem es sich nun offenbar wirklich um <em>das</em> Google-Phone handelt. Anfang des nächsten Jahres soll das Gerät auch für Normalsterbliche zu erstehen sein.
 Wie bereits im Voraus bekannt wurde, wird es von HTC gefertigt, zudem wird es an keinen bestimmten Netzbetreiber gebunden sein. Auch wenn die Google-Mitarbeiter noch keine technischen Details über das "Nexus One" genannte Smartphone preisgeben dürfen, so haben doch bereits erste Bilder ihren Weg ins Netz gefunden:

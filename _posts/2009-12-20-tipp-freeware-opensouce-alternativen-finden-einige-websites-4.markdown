@@ -4,6 +4,7 @@ title: ! '[TIPP] Freeware- & Opensouce-Alternativen finden - einige Websites'
 wordpress_id: 295
 wordpress_url: http://ganz-sicher.net/blog/?p=295
 date: 2009-12-20 21:50:32.000000000 +01:00
+category: linktipps
 ---
 <p style="text-align: justify;">Software muss nicht immer teuer sein. Qualitativ hochwertige Freeware, die mit kommerziellen Programmen mithalten kann, gibt es mitlerweile für sehr viele Bereiche. Dennoch sind gute kostenfreie bzw. OpenSource-Programme nicht immer leicht zu finden. Manchmal vermisst man auch bestimmte Programm-Features gegenüber der kostenpflichtigen Programmen. Die folgende Liste soll deswegen dabei helfen, Alternativen zu bestimmten Programmen zu finden.</p>
 

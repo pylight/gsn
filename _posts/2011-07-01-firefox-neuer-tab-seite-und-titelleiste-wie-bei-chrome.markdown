@@ -4,6 +4,7 @@ title: Firefox - "Neuer Tab"-Seite und Titelleiste wie bei Chrome
 wordpress_id: 1427
 wordpress_url: http://ganz-sicher.net/blog/?p=1427
 date: 2011-07-01 20:07:02.000000000 +02:00
+category: kurz-notiert
 ---
 Die "Neuer Tab"-Seite mit der Lesezeichenleiste und den häufig besuchten Seiten gefällt mir unter Chrome. Mit den folgenden beiden Addons bekommt man diese Funktion sowie die Tabs in der Fensterleiste auch beim <strong>Firefox</strong> spendiert:
 <!--more-->

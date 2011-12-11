@@ -4,6 +4,7 @@ title: Gimp 2.7 mit Single-Window-Modus
 wordpress_id: 1011
 wordpress_url: http://ganz-sicher.net/blog/?p=1011
 date: 2011-03-08 19:20:12.000000000 +01:00
+category: software
 ---
 <img class="lefticon" src="/wp-content/uploads/gimp.png" alt="" width="32" height="32" />
 Ich mag das kostenlose Bildbearbeitungsprogramm <a href="http://www.gimp.org/">Gimp</a>. Was ich nicht mag, sind die 3 unabhängigen Fenster, die es mitbringt. Gerade wenn man viele andere Fenster offen hat, verliert man da schonmal leicht den Überblick. Erst jetzt habe ich mitbekommen, dass sich das ab der neuen Version ändern lässt. :)

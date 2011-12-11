@@ -4,6 +4,7 @@ title: Rsnapshot - Automatisierte Backups leicht gemacht
 wordpress_id: 1635
 wordpress_url: http://ganz-sicher.net/blog/?p=1635
 date: 2011-10-03 12:27:38.000000000 +02:00
+category: linux-distributionen
 ---
 <img class="lefticon" title="backups" src="/wp-content/uploads/backups.png" alt="" width="32" height="32" />
 Ich geb's ja zu! Ich habe bisher höchstens manuelle Backups gemacht. Wiederkehrende Erfahrungen mit kaputten Festplatten, versehentlich gelöschten Daten oder <em>verschlimmbesserten</em> Konfigurationsdateien haben mich dann aber doch motiviert, mich etwas intensiver mit der Thematik zu befassen. Und es kann tatsächlich so einfach sein: In meinem Fall heißt die Antwort <a href="http://rsnapshot.org/">rsnapshot</a> - ein kleines Shelltool, mit dem man regelmäßige Backups machen kann.

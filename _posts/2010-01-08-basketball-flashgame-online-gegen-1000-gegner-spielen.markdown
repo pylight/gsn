@@ -4,6 +4,7 @@ title: Basketball Flashgame - Online gegen >1000 Gegner spielen
 wordpress_id: 566
 wordpress_url: http://ganz-sicher.net/blog/?p=566
 date: 2010-01-08 22:46:34.000000000 +01:00
+category: fun
 ---
 Auch wenn Basketball vielleicht nicht so dein Ding ist, solltest du dir dieses simple, aber dennoch fordernde Flashgame einmal anschauen:
 Bei [Basketball](http://www.onlinegames.com/basketball/) von [onlinegames.com](http://www.onlinegames.com) musst du die erste Hälfte der Flugbahn des Balls so festlegen, dass der Ball im Korb landet. Zwei Minuten hast du dabei Zeit, Punkte zu sammeln. Das tolle daran: Du spielst live gegen ~1000 andere User, die gerade online sind und siehst nach jedem Wurf deine aktuelle Platzierung. Das motiviert natürlich zum Weiterspielen und sorgt gleichzeitig für Spannung.

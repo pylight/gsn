@@ -4,6 +4,7 @@ title: xdotool - Tasten- & Mausaktionen automatisieren
 wordpress_id: 1339
 wordpress_url: http://ganz-sicher.net/blog/?p=1339
 date: 2011-05-28 01:06:37.000000000 +02:00
+category: software
 ---
 Mit Terminaltool <a href="http://www.semicomplete.com/projects/xdotool/">xdotool</a> lassen sich von der Konsole aus graphische (X-)Anwendungen bei Linux-Distributionen ändern. So können damit beispielsweise bestimmte Tastenkombinationen mehrfach per Script automatisiert werden, oder z.B. auch Fenster gesucht und deren Titel angepasst werden. Da das Tool ja selbst keine graphische Oberfläche benötigt, sind die Anwendungsfälle sehr vielfältig. Beispielsweise könnte man damit auch ein Script von einem anderen Rechner aus über ssh ansteuern und auf dem entfernten Rechner bestimmte Aufgaben ausführen lassen.
 

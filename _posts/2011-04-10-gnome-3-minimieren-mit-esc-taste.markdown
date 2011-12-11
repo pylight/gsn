@@ -4,6 +4,7 @@ title: Gnome 3 - Minimieren mit ESC-Taste
 wordpress_id: 1193
 wordpress_url: http://ganz-sicher.net/blog/?p=1193
 date: 2011-04-10 11:47:14.000000000 +02:00
+category: tutorials-tipps
 ---
 Aller guten Dinge sind 3, deshalb nochmal ein kurzer Blogeintrag zu Gnome 3. ;) Neben dem Maximieren-Button ist ja auch der Minimieren-Button aus den Fenstern verschwunden. Da ich (wie schon hier geschrieben) tint2 als Tastleiste verwende, kann ich die Minimieren-Funktion durchaus noch gebrauchen. Maximieren geht ja durch Doppelklick auf die Fensterleiste, für's Minimieren bietet sich meiner Meinung nach die ESC-Taste an.
 <!--more-->

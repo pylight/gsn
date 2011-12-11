@@ -4,6 +4,7 @@ title: Perfect Privacy-Tool für den NetworkManager - P^2 VPN Config Tool
 wordpress_id: 1447
 wordpress_url: http://ganz-sicher.net/blog/?p=1447
 date: 2011-08-30 22:30:25.000000000 +02:00
+category: programmierung-scripting
 ---
 Nachdem ich mir die sehr <a href="http://www.dgsiegel.net/news/2011_06_16-gnome_screencasts">schönen Gtk3 Tutorial-Videos</a> im <a href="http://www.dgsiegel.net/">Blog von Daniel g. Siegel</a> angesehen habe, habe ich kürzlich mein erstes kleines GUI-Tool mit <a href="http://www.python.org/">Python</a> und <a href="http://www.pygtk.org/">Gtk</a> geschrieben. Da ich regelmäßig den Dienst <a href="http://perfect-privacy.com/">Perfect Privacy</a> nutze, mit dem man ohne Logging surfen kann und zudem viele verschiedene VPN-Server aus unterschiedlichen Ländern zur Verfügung hat, handelt es sich um ein Tool, mit dem man die Perfect-Privacy-Server schneller wechseln kann.
 <!--more-->

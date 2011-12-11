@@ -4,6 +4,7 @@ title: ! 'Grub 2 schnell reparieren: Rescatux'
 wordpress_id: 983
 wordpress_url: http://ganz-sicher.net/blog/ubuntu/grub-2-schnell-reparieren-rescatux/
 date: 2011-03-04 22:09:16.000000000 +01:00
+category: linux-distributionen
 ---
 Wer mehrere (Linux)Betriebsysteme parallel auf einem Rechner installiert hat, wird eventuell auch schonmal das zweifelhafte Vergn&uuml;gen gehabt haben, den Grub (2) Bootmanager reparieren zu m&uuml;ssen. Wenn gleich Grub 2 theoretisch mit den meisten Linux Live-CDs zu reparieren ist, so ist es doch sch&ouml;ner, wenn man dann etwas zur Hand hat, das die Wiederherstellung erleichtert und beschleunigt.
 <!--more-->

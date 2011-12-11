@@ -4,6 +4,7 @@ title: 3 interessante Suchmaschinen abseits von Google!
 wordpress_id: 922
 wordpress_url: http://ganz-sicher.net/blog/?p=922
 date: 2011-02-20 16:13:22.000000000 +01:00
+category: linktipps
 ---
 <img class="lefticon" title="google" src="/wp-content/uploads/google1.png" alt="" width="50" height="50" />
 [Google](http://lmgtfy.com/?q=google) ist auf schrecklich schöne Weise seit Millionen von Jahren die unangetastete Nummer 1 in Sachen Suchmaschinen. Auch wenn Google selbst an allen Ecken und Enden händeringend innovativ ist, bin ich der Meinung, dass ein höheres Risiko besteht, dass neue Entwicklungen auf der Strecke bleiben, wenn es zu wenig Konkurenz gibt. Glücklicherweise braucht man im Netz nicht lange um nach Alternativen zu suchen - dafür gibt's ja Google. ;)

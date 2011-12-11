@@ -4,6 +4,7 @@ title: Portable Software-Suites - Futter für den USB-Stick
 wordpress_id: 509
 wordpress_url: http://ganz-sicher.net/blog/?p=509
 date: 2010-01-07 22:30:08.000000000 +01:00
+category: software
 ---
 <img class="lefticon" title="portable apps" src="/wp-content/uploads/portable-apps.png" alt="" width="103" height="103" />
 Für all diejenigen, die noch nie von <em>"portalen Programmen" </em>gehört haben sollten: Ein portables Programm, ist Software, die nicht extra installiert werden muss. Man startet einfach die ausführbare Datei und erhält sofort sein Programm, ohne irgendwelche Anpassungen am PC vornehmen zu müssen. Natürlich eignen sich diese portablen Programmversionen aus diesem Grund besonders gut für den USB-Stick...

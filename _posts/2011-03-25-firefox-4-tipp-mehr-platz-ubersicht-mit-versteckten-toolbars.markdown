@@ -4,6 +4,7 @@ title: ! '[Firefox 4] Tipp: Mehr Platz & Übersicht mit versteckten Toolbars'
 wordpress_id: 1148
 wordpress_url: http://ganz-sicher.net/blog/?p=1148
 date: 2011-03-25 00:59:35.000000000 +01:00
+category: tutorials-tipps
 ---
 <img class="lefticon" title="firefox_icon" src="/wp-content/uploads/firefox_icon.png" alt="" width="48" height="48" />
 Mozilla holt auf! Mit <a href="http://www.mozilla-europe.org/de/">Firefox 4</a> bin ich bis auf Kleinigkeiten (Flackern bei Flashobjekten, einige fehlende <a href="http://www.google.com/chrome?hl=de">Chrome</a>-Komforfunktionen) sehr zufrieden, vor allem in Sachen Geschwindigkeit legt der Browser im Vergleich zu Vorgängerversionen deutlich zu. Besonders der Seitenaufbau ist sehr zügig, häufig auch schneller als bei Googles Chrome.

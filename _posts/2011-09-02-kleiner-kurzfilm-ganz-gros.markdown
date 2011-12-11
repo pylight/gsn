@@ -4,6 +4,7 @@ title: Kleiner Kurzfilm ganz groß
 wordpress_id: 1536
 wordpress_url: http://ganz-sicher.net/blog/?p=1536
 date: 2011-09-02 23:14:35.000000000 +02:00
+category: fun
 ---
 <object width="425" height="344">
   <param name="movie" value="http://www.youtube.com/v/FrTbnczYAd4"></param>

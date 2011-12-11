@@ -4,6 +4,7 @@ title: Wallpaper - 10+ tolle Websites
 wordpress_id: 1077
 wordpress_url: http://ganz-sicher.net/blog/?p=1077
 date: 2011-03-13 02:20:34.000000000 +01:00
+category: linktipps
 ---
 <img class="lefticon" title="wallpaper_icon" src="/wp-content/uploads/wallpaper_icon.png" alt="" width="48" height="48" />
 Es mag zwar nur eine nette Nebensache sein, wenn man jedoch einmal auf der Suche nach guten Desktophintergründen ist, ist es schön, wenn man weiß wo man nachschauen kann. Ich habe mal einige Seiten gesammelt, die mir positiv aufgefallen sind.

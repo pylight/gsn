@@ -4,6 +4,7 @@ title: Gnome 3 - ansich mag ich's ja!
 wordpress_id: 1168
 wordpress_url: http://ganz-sicher.net/blog/?p=1168
 date: 2011-04-08 21:42:39.000000000 +02:00
+category: linux-distributionen
 ---
 <img class="lefticon" title="gnome_icon" src="/wp-content/uploads/gnome_icon.png" alt="" width="48" height="48" />
 Nachdem Gnome 3 vor 2 Tagen nach längerer Entwicklungszeit endlich released wurde, habe ich auch mal erste Gehversuche mit der neuen Desktopumgebung (<a href="http://www.archlinux.org/news/gnome3-in-testing/">unter Archlinux</a>) gemacht. Seitdem ich zu Linux gewechselt bin, war Gnome immer die Desktopumgebung meiner Wahl: Es hat mich i.d.R. nicht unnötig behindert, sonder war "einfach nur da" und hat die nötigsten Funktionen zur Verfügung gestellt. Mit Gnome 3 haben die Entwickler jetzt einen mutigen Schritt gewagt und wollen einiges anders machen.

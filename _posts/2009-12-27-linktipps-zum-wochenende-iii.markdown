@@ -4,6 +4,7 @@ title: Linktipps zum Wochenende (III)
 wordpress_id: 373
 wordpress_url: http://ganz-sicher.net/blog/?p=373
 date: 2009-12-27 10:58:57.000000000 +01:00
+category: linktipps
 ---
 <ul>
 	<li><a href="http://www.smashingmagazine.com/2008/03/10/35-fantastic-hdr-pictures/">http://www.smashingmagazine.com/2008/03/10/35-fantastic-hdr-pictures/</a> - 35 schöne HDR-Bilder</li>

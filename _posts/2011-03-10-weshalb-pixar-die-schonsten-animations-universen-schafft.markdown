@@ -4,6 +4,7 @@ title: Weshalb Pixar die schönsten Animations-Universen schafft...
 wordpress_id: 1040
 wordpress_url: http://ganz-sicher.net/blog/?p=1040
 date: 2011-03-10 10:37:20.000000000 +01:00
+category: fun
 ---
 <object width="425" height="344">
   <param name="movie" value="http://www.youtube.com/v/UwoPtQevOTE"></param>

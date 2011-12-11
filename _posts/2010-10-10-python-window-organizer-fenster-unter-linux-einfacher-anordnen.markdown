@@ -4,6 +4,7 @@ title: Python Window Organizer - Fenster unter Linux einfacher anordnen
 wordpress_id: 747
 wordpress_url: http://ganz-sicher.net/blog/?p=747
 date: 2010-10-10 12:08:37.000000000 +02:00
+category: software
 ---
 Eines der großen Vorteile beim Arbeiten unter Windows 7 war für mich immer, dass man einzelne Fenster schnell und unkompliziert per Tastenkombinationen anordnen kann, um etwas mehr Übersicht auf den Bildschirm zu bringen. Ein Feature, das ich mir auch unter Gnome/Linux immer gewünscht habe, auch wenn ich dort i.d.R. auf mehreren Desktops arbeite und damit dem Problem etwas aus dem Weg gehen konnte.
 

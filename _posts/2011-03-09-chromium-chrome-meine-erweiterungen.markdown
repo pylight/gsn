@@ -4,6 +4,7 @@ title: Chromium / Chrome - Meine Erweiterungen + Tipps
 wordpress_id: 1007
 wordpress_url: http://ganz-sicher.net/blog/?p=1007
 date: 2011-03-09 12:05:00.000000000 +01:00
+category: software
 ---
 <img class="lefticon" title="chrome_icon" src="/wp-content/uploads/chrome_icon.png" alt="" width="48" height="48" />
 Googles Browser <a href="http://www.google.com/chrome">Chrome</a> gibt es mitlerweile in Version 10. Da ich festgestellt habe, dass ich mittlerweile fast komplett von Firefox auf Chrome umgestiegen bin (FF4 lässt ja noch auf sich warten.. :/ ), möchte ich auch mal meine Lieblingserweiterungen &amp; Hilfestellungen preisgeben.

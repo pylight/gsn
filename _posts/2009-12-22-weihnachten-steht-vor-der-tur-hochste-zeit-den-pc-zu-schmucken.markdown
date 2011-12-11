@@ -13,6 +13,7 @@ excerpt: ! "Wie was wo, vor 2 Tagen war schon wieder 4. Advent!? Und wieder hat 
 wordpress_id: 345
 wordpress_url: http://ganz-sicher.net/blog/?p=345
 date: 2009-12-22 11:48:27.000000000 +01:00
+category: linktipps
 ---
 Wie was wo, vor 2 Tagen war schon wieder 4. Advent!? Und wieder hat mich keiner informiert...!
 Naja ich hätte es eigentlich wissen sollen. Die Reklame im Briefkasten wird dicker, die Gänge in den Kaufhäusern dagegen werden irgendwie immer enger ...und Google klebt sein Logo mit Bildern von geschmückten Palmen und Schneemännern voll. Alles so kleine Anzeichen dafür, dass es mal wieder allenthalben <a href="http://www.sketchysantas.com/">brutal weihnachtet</a>. Von allen Seiten wird man seit Wochen beständig berießelt, damit man auch bloß <a href="http://www.einfach-uebel.com/2009/12/19/gute-gruende-weihnachten-zu-feiern/">gute Gründe</a> hat, so richtig schön in Weihnachtsstimmung zu verfallen. Überall berießelt? Nein, <em>hier</em> kommt <em>alles</em> auf einen Schlag! =) Eine kleine Linkliste, damit auch der PC ein bisschen was von eurer Weihnachtsstimmung abbekommt ;)

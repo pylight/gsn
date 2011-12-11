@@ -4,6 +4,7 @@ title: ! 'Linkbox #9 - Interessante Querverweise'
 wordpress_id: 1383
 wordpress_url: http://ganz-sicher.net/blog/?p=1383
 date: 2011-06-25 10:44:06.000000000 +02:00
+category: linktipps
 ---
 <img class="lefticon" src="/wp-content/uploads/links.png" alt="" width="32" height="32" />
 Wer schon immer so stylish Programmieren wollte wie Hacker in gewissen Hollywoodfilmen sollte bei <a href="http://hackertyper.net/ ">http://hackertyper.net/</a> vorbeischauen, auf den "Hack!" button klicken und wild auf der Tastatur herumh&auml;mmern. :) Das ist zwar sinnlos, sieht daf&uuml;r aber gut aus.

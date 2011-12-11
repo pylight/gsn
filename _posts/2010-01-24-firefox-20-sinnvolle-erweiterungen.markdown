@@ -4,6 +4,7 @@ title: ! 'Firefox - 20+ sinnvolle Erweiterungen '
 wordpress_id: 641
 wordpress_url: http://ganz-sicher.net/blog/?p=641
 date: 2010-01-24 01:29:35.000000000 +01:00
+category: linktipps
 ---
 <img class="lefticon" title="Firefox Icon" src="/wp-content/uploads/1264290318_FireFox.png" alt="" width="74" height="74" />
 Das Killer-Argument schlechthin für <em>Firefox-Fanboys</em> ist häufig die riesige Zahl an Erweiterungen, die <a href="https://addons.mozilla.org/de/firefox/" target="_blank">zur Verfügung steht</a>. Doch nicht alle Erweiterungen eignen sind auch wirklich für den Alltagsgebrauch und viele nerven bereits nach kurzer Zeit, weil sie eher beim Arbeiten stören als die Effektivität zu erhöhen. Da man von Listen nie genug haben kann, habe ich im Folgenden mal eine paar Erweiterungen gesammelt, die sich bei mir bewährt haben.

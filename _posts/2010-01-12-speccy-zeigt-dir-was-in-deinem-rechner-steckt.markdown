@@ -4,6 +4,7 @@ title: Speccy zeigt dir, was in deinem Rechner steckt.
 wordpress_id: 584
 wordpress_url: http://ganz-sicher.net/blog/?p=584
 date: 2010-01-12 19:54:14.000000000 +01:00
+category: software
 ---
 <img class="lefticon" title="processinfo" src="/wp-content/uploads/processinfo.png" alt="" width="91" height="91" />
 Der Gerätemanager von Windows ist leider recht unübersichtlich und lässt einige Informationen über die verbaute Hardware des eigenen Rechners vermissen. Zum Beispiel wäre es doch ganz interessant, die aktuelle Temperatur der Komponenten (Grafikkarte, Prozessor, Festplatte(n)) und deren Auslastung angezeigt zu bekommen, um im schlimmsten Fall Gegenmaßnahmen ergreifen zu können.

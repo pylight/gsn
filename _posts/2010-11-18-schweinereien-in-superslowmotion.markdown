@@ -4,6 +4,7 @@ title: Schweinereien in SuperSlowMotion!
 wordpress_id: 871
 wordpress_url: http://ganz-sicher.net/blog/?p=871
 date: 2010-11-18 00:03:10.000000000 +01:00
+category: fun
 ---
 > [http://vimeo.com/16340475](http://vimeo.com/16340475)
 

@@ -4,6 +4,7 @@ title: Gnome 3 und conky
 wordpress_id: 1180
 wordpress_url: http://ganz-sicher.net/blog/?p=1180
 date: 2011-04-09 11:51:47.000000000 +02:00
+category: tutorials-tipps
 ---
 Wie schonmal geschrieben hatte, benutze ich <a href="http://conky.sourceforge.net/">Conky</a> um mein System zu überwachen. Nach dem Wechsel von Gnome 2 zu Gnome 3 war conky leider komplett vom Desktop verschwunden, nach einigen Änderungen verschwand es immer beim Klick auf den Desktop. Nach einigem Googlen und Herumprobieren habe ich es letztendlich doch wieder so hinbekommen, wie ich haben will:
 <!--more-->

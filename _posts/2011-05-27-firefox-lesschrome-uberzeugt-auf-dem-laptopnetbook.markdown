@@ -4,6 +4,7 @@ title: Firefox - Lesschrome überzeugt auf dem Laptop/Netbook
 wordpress_id: 1333
 wordpress_url: http://ganz-sicher.net/blog/?p=1333
 date: 2011-05-27 12:20:03.000000000 +02:00
+category: kurz-notiert
 ---
 Nachdem vor Kurzem die Google Chrome-Entwickler ein wenig damit experimentiert haben, die Adressleiste auszublenden, hat auch das Mozilla-Team eine Erweiterung für Firefox herausgebracht, mit welchem Adressleiste und Bookmarkbar ausgeblendet werden können. Ich hatte ja bereits <a href="http://ganz-sicher.net/blog/tutorials-tipps/firefox-4-tipp-mehr-platz-ubersicht-mit-versteckten-toolbars/">einen Eintrag dazu geschrieben</a>, wie sich einige Leisten bei Firefox besser anordnen lassen. Das neue Addon namens <a href="https://addons.mozilla.org/en-US/firefox/addon/prospector-lessChrome-HD/">LessChrome HD</a> gefällt mir auf meinem Subnotebook (11,6 Zoll) sehr gut, denn dort ist Platz kostbar. ;)
 

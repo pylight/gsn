@@ -13,6 +13,7 @@ excerpt: ! "Das Arbeiten am PC könnte so schön sein, wären da nicht immer die
 wordpress_id: 313
 wordpress_url: http://ganz-sicher.net/blog/?p=313
 date: 2009-12-21 19:45:37.000000000 +01:00
+category: tutorials-tipps
 ---
 Das Arbeiten am PC könnte so schön sein, wären da nicht immer diese fiesen Fehlermeldungen. Schon in der Bibel hieß es: "Der Mensch ansich ist zwar unvollkommen, aber um richtig Mist zu bauen, braucht er schon einen Computer!" (Neues Testament, genaue Textstelle hab ich grade nicht zur Hand...)
 

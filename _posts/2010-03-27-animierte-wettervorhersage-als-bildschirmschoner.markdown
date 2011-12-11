@@ -4,6 +4,7 @@ title: Animierte Wettervorhersage als Bildschirmschoner
 wordpress_id: 719
 wordpress_url: http://ganz-sicher.net/blog/freeware/animierte-wettervorhersage-als-bildschirmschoner/
 date: 2010-03-27 00:53:01.000000000 +01:00
+category: software
 ---
 Die Wetterfritzen aus dem Fernsehen sind zu langweilig? Mit <a href="http://yowindow.com/">YoWindow</a> kann man die Wettervorhersage mal etwas anders erleben: 
 Optisch schön animiert gibt das Programm Informationen über das aktuelle und kommende Wetter in deiner Stadt.

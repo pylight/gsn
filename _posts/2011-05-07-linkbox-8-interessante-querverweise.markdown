@@ -4,6 +4,7 @@ title: ! 'Linkbox #8 - Interessante Querverweise'
 wordpress_id: 1242
 wordpress_url: http://ganz-sicher.net/blog/linktipps/linkbox-8-interessante-querverweise/
 date: 2011-05-07 11:10:56.000000000 +02:00
+category: linktipps
 ---
 <img class="lefticon" src="/wp-content/uploads/lorry_link.png" alt="" width="32" height="32" />
 Mal wieder ein paar Links, die ich gefunden habe &amp; auf diesem Weg loswerden m&ouml;chte... ;)

@@ -4,6 +4,7 @@ title: Meine Podcastliste
 wordpress_id: 1434
 wordpress_url: http://ganz-sicher.net/blog/?p=1434
 date: 2011-08-12 18:05:28.000000000 +02:00
+category: linktipps
 ---
 Ich höre gerne und regelmäßig <a href="http://de.wikipedia.org/wiki/Podcasting">Podcasts</a>. Für die Audio-Podcasts verwendie ich dabei meistens <a href="http://www.google.de/reader">Google Reader</a> zum Abrufen, denn so müssen die Audiodateien nicht extra heruntergeladen werden sondern können direkt gestreamt werden. Außerdem kann ich auf diese Weise auch mit dem Android-Handy (<a href="https://market.android.com/details?id=com.google.android.apps.listen">Listen</a>) darauf zugreifen. Falls ich einzelne Folgen doch auch mal herunterladen möchte, verwende ich <a href="http://gpodder.org/">gpodder</a>. Für Video-Podcasts nutze ich von Zeit zu Zeit <a href="http://www.getmiro.com/">Miro</a>, was neue Videos auf Wunsch automatisch herunterladen und nach einer bestimmten (nach dem Ansehen) auf wieder von der Festplatte löschen kann. Da Podcasts (noch!?) nicht allzu Mainstream sind, sind gute Podcasts auch nicht immer leicht zu finden. Deshalb will ich hier mal meine abonnierten Podcasts auflisten - über weitere Empfehlungen freue ich mich natürlich immer. ;)
 <!--more-->

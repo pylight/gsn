@@ -4,6 +4,7 @@ title: Clementine - Die Musikverwaltung meiner Wahl
 wordpress_id: 1355
 wordpress_url: http://ganz-sicher.net/blog/?p=1355
 date: 2011-06-11 20:35:39.000000000 +02:00
+category: software
 ---
 <img class="lefticon" title="clementine_icon" src="/wp-content/uploads/clementine_icon.png" alt="" width="60" height="60" />
 Software zur Musikverwaltung gibt es einige - selbst unter Linux! Leider sind diese Programme nicht selten unübersichtlich oder bei vielen Mp3s zu langsam. Amarok 1.4 hat mir diesbezüglich früher sehr gut gefallen, doch leider sind neue Amarok 2.x-Versionen meiner Meinung nach nicht mehr besonder gut zu gebrauchen. Mit <a href="http://www.clementine-player.org">Clementine</a> gibt es glücklicherweise ein Projekt, das die Eigenschaften von Amarok 1.4 (bzgl. Geschwindigkeit, Übersichtlichkeit, Stabilität) fortführen will.

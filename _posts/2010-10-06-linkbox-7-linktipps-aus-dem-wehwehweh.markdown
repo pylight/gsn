@@ -4,6 +4,7 @@ title: ! 'Linkbox #7 - Linktipps aus dem WehWehWeh'
 wordpress_id: 736
 wordpress_url: http://ganz-sicher.net/blog/?p=736
 date: 2010-10-06 00:20:38.000000000 +02:00
+category: linktipps
 ---
 Mal wieder ein kleines Links-Packet von mir, mit ein paar erwähnenswerten Verweisen - sollte man in jedem Fall gesehen haben, bevor man das Zeitliche segnet (aber auch danach durchaus noch interessant)...
 <!--more-->

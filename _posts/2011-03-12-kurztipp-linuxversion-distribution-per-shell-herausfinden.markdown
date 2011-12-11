@@ -4,6 +4,7 @@ title: ! '[Kurztipp] Linuxversion/-distribution per Shell herausfinden'
 wordpress_id: 1070
 wordpress_url: http://ganz-sicher.net/blog/tutorials-tipps/kurztipp-linuxversion-distribution-per-shell-herausfinden/
 date: 2011-03-12 01:02:00.000000000 +01:00
+category: tutorials-tipps
 ---
 Wenn man auf einen (fremden) Linuxsystem Software &Auml;nderungen durchf&uuml;hren will, ist es oft von Vorteil, Linuxversion und -distribution zu kennen. Mit den nachfolgenden Shellbefehlen bekommt man schnell geeignete Informationen. (nicht jede Distribution verh&auml;lt sich hier gleich, daher die verschiedenen Ans&auml;tze)
 <!--more-->

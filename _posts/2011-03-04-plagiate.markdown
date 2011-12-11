@@ -4,6 +4,7 @@ title: Plagiate...
 wordpress_id: 960
 wordpress_url: http://ganz-sicher.net/blog/?p=960
 date: 2011-03-04 01:56:19.000000000 +01:00
+category: fun
 ---
 Dem Designer der CDU <a href="http://tinyurl.com/4rzb9kr ">Wahlplakate</a> für die Landtagswahl in Baden-Würrtemberg sind ein paar inhaltliche Fehler unterlaufen. Ich habe dort mal leicht nachgebessert...
 (anklicken für größere Auflösung)

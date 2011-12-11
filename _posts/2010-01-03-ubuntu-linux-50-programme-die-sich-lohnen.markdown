@@ -4,6 +4,7 @@ title: ! '(Ubuntu) Linux: ~50 Programme, die sich lohnen.'
 wordpress_id: 449
 wordpress_url: http://ganz-sicher.net/blog/?p=449
 date: 2010-01-03 16:25:53.000000000 +01:00
+category: linux-distributionen
 ---
 <img class="lefticon" title="linux" src="/wp-content/uploads/linux.png" alt="" width="128" height="128" />
 Ich habe bisher fast ausschließlich über Windows-Programme gebloggt, obwohl ich selbst auch [Ubuntu Linux](http://www.ubuntu.com/) (9.10) oft und gerne einsetze. Linux-Betriebsysteme (Distributionen) wurden in den letzen Jahren auch für Privatanwender immer interessanter und besonders Ubuntu möchte ja den Umstieg von Windows so leicht wie möglich machen. Interessierte Windowsuser finden im Netz jede Menge Tutorials über die Installation und erste Schritte. (z.B. beim <a href="http://wiki.ubuntuusers.de/" target="_self">Ubuntuusers-Wiki</a> oder dem <a href="http://www.gizmodo.de/2009/11/30/workshop-teil-1-linux-fur-jedermann-jetzt-auf-ubuntu-umsteigen.html" target="_blank">3-teilige Erklär-Spezial von Gizmodo</a>)

@@ -4,6 +4,7 @@ title: Linktipps zum Wochenende (2)
 wordpress_id: 228
 wordpress_url: http://ganz-sicher.net/blog/?p=228
 date: 2009-12-18 17:06:31.000000000 +01:00
+category: linktipps
 ---
 Geschenkideen
 =============

@@ -4,6 +4,7 @@ title: Ein Glück, dass es Facebook erst enige Jahre gibt...
 wordpress_id: 726
 wordpress_url: http://ganz-sicher.net/blog/?p=726
 date: 2010-10-05 21:52:55.000000000 +02:00
+category: fun
 ---
 Hmm sind die Lichter hier im Blog schon aus? Nein, es gibt doch noch Licht am Ende des Tunnels...
 \*neue (energiesparende) Glühbirne einschraub\*

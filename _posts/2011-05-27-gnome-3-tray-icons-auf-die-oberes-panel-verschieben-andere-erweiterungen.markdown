@@ -4,6 +4,7 @@ title: Gnome 3 - Tray Icons auf oberes Panel verschieben + andere Erweiterungen
 wordpress_id: 1312
 wordpress_url: http://ganz-sicher.net/blog/?p=1312
 date: 2011-05-27 09:41:30.000000000 +02:00
+category: linux-distributionen
 ---
 Das <a href="http://www.youtube.com/watch?v=lepXx1kDelo">neue Benachrichtigungssystem</a> von Gnome 3 ist schön, allerdings stört mich, dass die Nachrichten sich mit den Programm-Trayicons der Programme in der "Notification Area" rechts unten vermischen. Mitlerweile habe ich eine Möglichkeit gefunden, einzelne Trayicons - wie noch bei Gnome 2 - auf die obere Leiste zu verschieben.
 
