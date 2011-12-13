@@ -1,2 +1,4 @@
 markdown: maruku
 pygments: true
+permalink: /:categories/:title
+baseurl: /blog
