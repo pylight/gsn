@@ -21,8 +21,8 @@ Steuerung
 Screenshots
 ===========
 
-![](/wp-content/uploads/zombie-300x239.png)
+![]({{site.baseurl}}/wp-content/uploads/zombie-300x239.png)
 
-![](/wp-content/uploads/zombie1-300x217.png)
+![]({{site.baseurl}}/wp-content/uploads/zombie1-300x217.png)
 
-![](/wp-content/uploads/dazFinal-300x245.png)
+![]({{site.baseurl}}/wp-content/uploads/dazFinal-300x245.png)

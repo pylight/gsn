@@ -88,7 +88,6 @@ Mein erstes Script in Python
 	if __name__ == '__main__':
 			main()
 
-
 Die <a href="http://www.ganz-sicher.net/scripts/myscripts/justInTimer">gesamte Datei gibt's auch hier</a> zum direkten Herunterladen. Vielleicht kann ja jemand etwas damit anfangen, über sonstige Anregungen freue ich micht natürlich wie gesagt auch immer. =)
 
 Falls jemand z.B. einen guten ***Buchtipp*** zu Python haben sollte, wäre ich auch sehr dankbar wenn er das nicht verschweigen würde. :)
