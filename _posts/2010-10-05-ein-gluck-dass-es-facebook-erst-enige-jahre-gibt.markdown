@@ -13,8 +13,8 @@ Hmm sind die Lichter hier im Blog schon aus? Nein, es gibt doch noch Licht am En
 
 <!--more-->
 
-<img class="borderimg centered" title="Gott bei Facebook" src="/wp-content/uploads/God-FB.jpg" alt="" />
-<img class="borderimg centered" src="/wp-content/uploads/Asteroid-FB.jpg" alt="" />
+<img class="borderimg centered" title="Gott bei Facebook" src="{{site.baseurl}}/wp-content/uploads/God-FB.jpg" alt="" />
+<img class="borderimg centered" src="{{site.baseurl}}/wp-content/uploads/Asteroid-FB.jpg" alt="" />
 
 <div class="infobox">
 :D :p <a title="Facebook vor vielen Jahren" href="http://www.vinniev.com/if-facebook-existed-years-ago">mehr davon...</a>

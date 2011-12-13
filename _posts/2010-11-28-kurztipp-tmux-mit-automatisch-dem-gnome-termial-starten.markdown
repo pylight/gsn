@@ -6,8 +6,8 @@ wordpress_url: http://ganz-sicher.net/blog/?p=882
 date: 2010-11-28 10:13:49.000000000 +01:00
 category: tutorials-tipps
 ---
-<img class="lefticon" title="terminal_icon2" src="/wp-content/uploads/terminal_icon2.png" alt="Terminal Icon" width="48" height="48" />
-Vor 3 Artikeln hatte ich über <a href="http://ganz-sicher.net/blog/freeware/tmux-viele-terminals-in-einem-terminal-anzeigen/" target="_self">die Vorteile von Tmux</a> im Linux-Terminal gesprochen. Da ich das Tool als Must-Have bezeichnet habe, wäre es doch ganz sinnvoll, tmux jeweils immer automatisch mit dem Terminal zu starten.
+<img class="lefticon" title="terminal_icon2" src="{{site.baseurl}}/wp-content/uploads/terminal_icon2.png" alt="Terminal Icon" width="48" height="48" />
+Vor 3 Artikeln hatte ich über <a href="{{site.baseurl}}/software/tmux-viele-terminals-in-einem-terminal-anzeigen/" target="_self">die Vorteile von Tmux</a> im Linux-Terminal gesprochen. Da ich das Tool als Must-Have bezeichnet habe, wäre es doch ganz sinnvoll, tmux jeweils immer automatisch mit dem Terminal zu starten.
 
 <!--more-->
 Der nachfolgende Code sorgt dafür, dass immer eine neue tmux-Session gestartet wird, wenn ihr gnome-terminal öffnet, oder euch in einem Terminal einloggt. Fügt eurer .bashrc (Homeverzeichnis) hinzu:

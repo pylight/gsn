@@ -13,6 +13,6 @@ Wer Shortcuts mag, wird dieses Packet lieben. Die Seite <a href="http://www.7tut
 
 Screenshot:
 ==========
-<a href="/wp-content/uploads/win7-shortcut-pack-1024x705.jpg" target="_blank"><img class="borderimg" title="win7-shortcut-pack" src="{{site.baseurl}}/wp-content/uploads/win7-shortcut-pack-1024x705.jpg" alt="win7-shortcut-pack" width="582" height="329" /></a>
+<a href="{{site.baseurl}}/wp-content/uploads/win7-shortcut-pack-1024x705.jpg" target="_blank"><img class="borderimg" title="win7-shortcut-pack" src="{{site.baseurl}}/wp-content/uploads/win7-shortcut-pack-1024x705.jpg" alt="win7-shortcut-pack" width="582" height="329" /></a>
 
 Die aktuellste Version bekommt ihr natürlich immer auf der oben angegebenen Seite. Der Downloadlink ist dort etwas versteckt, direkt über den Kommentaren zu finden.

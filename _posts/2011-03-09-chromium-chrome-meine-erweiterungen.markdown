@@ -6,7 +6,7 @@ wordpress_url: http://ganz-sicher.net/blog/?p=1007
 date: 2011-03-09 12:05:00.000000000 +01:00
 category: software
 ---
-<img class="lefticon" title="chrome_icon" src="/wp-content/uploads/chrome_icon.png" alt="" width="48" height="48" />
+<img class="lefticon" title="chrome_icon" src="{{site.baseurl}}/wp-content/uploads/chrome_icon.png" alt="" width="48" height="48" />
 Googles Browser <a href="http://www.google.com/chrome">Chrome</a> gibt es mitlerweile in Version 10. Da ich festgestellt habe, dass ich mittlerweile fast komplett von Firefox auf Chrome umgestiegen bin (FF4 lässt ja noch auf sich warten.. :/ ), möchte ich auch mal meine Lieblingserweiterungen &amp; Hilfestellungen preisgeben.
 
 <!--more-->
@@ -128,6 +128,6 @@ Und sonst
 	<li>Statt  Xmarks unter Firefox nutze ich <strong>Google Sync</strong> (siehe Chrome-Einstellungen, funktioniert nicht nur mit Lesezeichen), was erschreckend reibungslos funktioniert.</li>
 	<li>Nützlich ist es auch, einige <a href="http://en.wikipedia.org/wiki/Google_Chrome#About_and_Chrome_URLs">Spezialseiten von Chrome</a> zu kennen, z.B. <code>chrome://extensions</code> für die Erweiterungen</li>
 	<li>Was ich lange nicht wusste: die Icons der Erweiterungen (rechts neben der Adressleiste) lassen sich - durch ziehen mit der Maus an der rot markierten Stelle - beliebig ausblenden:<br />
-<img src="/wp-content/uploads/hide_extensions.png" alt="" width="265" height="34" /></li>
+<img src="{{site.baseurl}}/wp-content/uploads/hide_extensions.png" alt="" width="265" height="34" /></li>
 	<li>ich warte gespannt auf eine finale Version von Firefox 4, da die Betaversionen bei mir noch nicht stabil laufen. Vielleicht kann ich dann ja wieder zurückwechseln. Google soll ja Gerüchten zufolge evil sein... komfortabel ist Chrome trotzdem!</li>
 </ul>

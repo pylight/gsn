@@ -18,9 +18,9 @@ P^2 Config Tool - Mein erstes Gtk-Programm
 ==========================================
 Das Ändern der Einstellungen des Gnome <a href="http://live.gnome.org/NetworkManager/SystemSettings">NetworkManagers</a> ist recht umständlich, daher habe ich ein kleines Tool erstellt, mit dem die Server von PP schneller gewechselt werden können und danach eine neue Verbindung zu einem anderen VPN-Server aufgebaut werden kann. Hier 2 Screenshots davon:
 
-<img class="borderimg centered" src="/wp-content/uploads/1.jpg" alt="" width="486" height="268" />
+<img class="borderimg centered" src="{{site.baseurl}}/wp-content/uploads/1.jpg" alt="" width="486" height="268" />
 
-<img class="borderimg centered" src="/wp-content/uploads/2.jpg" alt="" width="448" height="1058" />
+<img class="borderimg centered" src="{{site.baseurl}}/wp-content/uploads/2.jpg" alt="" width="448" height="1058" />
 
 Eine aktuelle Version sowie weitere Infos zum Tool gibt es auf <a href="https://github.com/pylight/P-2-Config-Tool">GitHub</a>. Über Verwesserungsvorschläge sowie Kommentare dazu (im Blog oder auf GitHub) freue ich mich immer.
 
@@ -29,7 +29,7 @@ Gnome 3 / Gnome Shell Networkmanager: "VPN-Icon-Workaround"
 ============================================================
 Unter Gnome 3 ist der Networkmanager leider noch nicht ganz ausgereift was die VPN-Unterstützung angeht. So wird beispielsweise kein anderes Icon angezeigt, wenn die VPN-Verbindung aktiv ist. Unter Gnome 2 war dies anders, aber mit einem kleinen Trick in Form einer Gnome Shell-Erweiterung kann man die alte Funktionsweise des Networkmanagers wieder erhalten: Durch das löschen des Network-Icons vom Gnome 3 Panel wird der Networkmanager aus dem Fallback-Modus benutzt. Dieser funktioniert wie in früheren Gnome-Versionen:
 
-<img class="borderimg centered" src="/wp-content/uploads/2.png" alt="" width="269" height="133" />
+<img class="borderimg centered" src="{{site.baseurl}}/wp-content/uploads/2.png" alt="" width="269" height="133" />
 
 Hier der Code für die extension.js-Datei:
 

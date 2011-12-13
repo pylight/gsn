@@ -6,7 +6,7 @@ wordpress_url: http://ganz-sicher.net/blog/?p=1683
 date: 2011-11-24 16:00:50.000000000 +01:00
 category: programmierung-scripting
 ---
-<img class="lefticon" title="unclean_code" src="/wp-content/uploads/unclean_code.png" alt="" width="48" height="48" />
+<img class="lefticon" title="unclean_code" src="{{site.baseurl}}/wp-content/uploads/unclean_code.png" alt="" width="48" height="48" />
 Da ich letztlich zum Thema "Clean Code" &amp; sauberer Programmierung einen Vortrag gehört habe, werde ich im Folgenden für mich und alle, die das sonst noch interessiert, die wichtigsten Punkte davon zusammenfassen. Ergänzungen oder Anmerkungen sind natürlich erlaubt/-wünscht. Ich habe die Überschriften zum Teil auf englisch belassen, weil man damit einfach einiges kürzer und konkreter ausdrücken kann. Ich hoffe, das stellt für Niemanden ein Problem dar. Falls doch: <a href="http://dict.leo.org/">leo</a> hilft!
 <!--more-->
 
@@ -22,7 +22,7 @@ Das Ziel eines Programmierer sollte stets sein, dass andere Menschen den eigenen
 
 Generelles (General)
 ======================
-<a href="http://www.xkcd.com/844/"><img class="righticon" src="/wp-content/uploads/good_code.png" alt="" width="325" height="445" /></a>
+<a href="http://www.xkcd.com/844/"><img class="righticon" src="{{site.baseurl}}/wp-content/uploads/good_code.png" alt="" width="325" height="445" /></a>
 
 Trust the code
 ----------------
@@ -127,7 +127,7 @@ Eine andere (und etwas ausgefeiltere) Taktik zur effektiven Programmierung nennt
 Weiterführendes
 ===============
 <a href="http://www.amazon.de/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?ie=UTF8&amp;qid=1322142781&amp;sr=8-1">
-<img class="lefticon" src="/wp-content/uploads/clean-code-cover.jpg" alt="" width="100" height="133" /></a>
+<img class="lefticon" src="{{site.baseurl}}/wp-content/uploads/clean-code-cover.jpg" alt="" width="100" height="133" /></a>
 Der Vortrag "Clean Code", den ich zu diesem Thema gesehen habe, war von dem Buch <a href="http://www.amazon.de/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?ie=UTF8&amp;qid=1322142781&amp;sr=8-1">Clean Code</a> von Robert C. Martin inspiriert. Ich selbst habe erst die ersten Seiten des Buchs gelesen, wollte es hier aber für Interessierte nicht unerwähnt lassen.
 
 Wie stet's mit euch? Haltet ihr sauberen Code für wichtig? An welche Prinzipen haltet ihr euch beim Programmieren und kennt ihr noch weitere gute Tipps um effektiver Code zu schreiben?

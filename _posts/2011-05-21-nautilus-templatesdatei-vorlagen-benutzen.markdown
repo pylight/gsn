@@ -6,7 +6,7 @@ wordpress_url: http://ganz-sicher.net/blog/ubuntu/nautilus-templatesdatei-vorlag
 date: 2011-05-21 23:30:58.000000000 +02:00
 category: linux-distributionen
 ---
-<img class="lefticon" src="/wp-content/uploads/nautilus.png" alt="" width="48" height="48" />
+<img class="lefticon" src="{{site.baseurl}}/wp-content/uploads/nautilus.png" alt="" width="48" height="48" />
 Eine Funktion, die ich bisher gar nicht weiter beachtet hatte, die mir beim Dateimanager Nautilus (Standard-Manager unter Ubuntu und Gnome) aber sehr gut gefällt, ist die Möglichkeit, auf einfache Weise Dateivorlagen anzulegen, die dann im Kontextmenü (Rechtsklick) beim Erstellen neuer Dateien ausgewählt werden können. Vor allem wenn man regelmäßig Scripts oder Programme in verschiedenen Programmiersprachen erstellt, spart man mit dieser Funktion auf jeden Fall einiges an Zeit.
 <!--more-->
 Neue (Datei-)Templates anlegen
@@ -14,7 +14,7 @@ Neue (Datei-)Templates anlegen
 Vorlagen werden angelegt, indem im Homeverzeichnis unter dem Ordner Templates neue Dateien erstellen werden.
 Die dort erstellen Vorlagen sind fortan über das Kontextmenü erreichbar:
 
-<img class="borderimg centered" src="/wp-content/uploads/Templates-verwenden.jpeg" alt="" />
+<img class="borderimg centered" src="{{site.baseurl}}/wp-content/uploads/Templates-verwenden.jpeg" alt="" />
 
 Wie man sieht, wird der Dateiname im Kontexmenü angezeigt. Der Dateiinhalt wird beim Anlegen neuer Dateien aus dem Templates-Verzeichnis kopiert. Besonders praktisch ist dies bei Scripts (z.B. Bashscripts), denn wenn die nötigen Ausführungsrechte für die Datei bereits im Templates-Ordner gesetzt wurden, muss dies dann bei den neuen Dateien nicht mehr extra gemacht werden.
 
@@ -25,4 +25,4 @@ Ich habe mal einige Dateivorlagen (siehe Screenshot unten) für häufig benötig
 Das Archiv mit den Templates findet ihr unter <a href="http://www.ganz-sicher.net/sonstiges/Nautilus-Templates.zip">http://www.ganz-sicher.net/sonstiges/Nautilus-Templates.zip</a>.
 
 
-<img class="borderimg centered" src="/wp-content/uploads/Screenshot-Templates.png" alt="" width="675" height="525" />
+<img class="borderimg centered" src="{{site.baseurl}}/wp-content/uploads/Screenshot-Templates.png" alt="" width="675" height="525" />

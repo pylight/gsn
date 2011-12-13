@@ -6,7 +6,7 @@ wordpress_url: http://ganz-sicher.net/blog/?p=1376
 date: 2011-06-13 15:57:00.000000000 +02:00
 category: kurz-notiert
 ---
-<img class="lefticon" src="/wp-content/uploads/libre_icon1.png" alt="" width="120" height="24" />
+<img class="lefticon" src="{{site.baseurl}}/wp-content/uploads/libre_icon1.png" alt="" width="120" height="24" />
 Ich benutze <a href="http://www.libreoffice.org/">LibreOffice</a> (früher OpenOffice) gerne zum Bearbeiten einfacher Texte oder für "Powerpoint" Präsentationen. Unter Archlinux (Gnome 3) habe ich jedoch kürzlich die Erfahrung gemacht, dass der PC nach einiger Zeit komplett einfriert, wenn Libre Office läuft. Nach genauerem Beobachten der Prozessliste stellte sich heraus, dass ein Prozess namens oosplash.bin nahezu 100% meiner Prozessorleistung verbraucht. Es handelt sich dabei wohl im einen Bug, mit dem ich scheinbar <a href="https://bbs.archlinux.org/viewtopic.php?pid=944567">nicht alleine dastehe</a>.
 
 Wie der Prozessname schon erkennen lässt, hängt der Fehler mit dem Spashscreen von LibreOffice zusammen, der beim Start angezeigt wird:

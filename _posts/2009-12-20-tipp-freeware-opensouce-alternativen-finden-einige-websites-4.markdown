@@ -10,7 +10,7 @@ category: linktipps
 
 alternativeto.net
 =================
-<a href="http://alternativeto.net/" target="_blank"><img style="max-width: 800px;" src="/wp-content/uploads/alternativeto_net.png" alt="" /></a>
+<a href="http://alternativeto.net/" target="_blank"><img style="max-width: 800px;" src="{{site.baseurl}}/wp-content/uploads/alternativeto_net.png" alt="" /></a>
 
 [Alternativeto.net](http://alternativeto.net/) unterteilt alle Programme nach den verschiedenen Plattformen (desktop/mobil ; Windows / Linux / Mac / Online-Anwendungen) und sortiert die Alternativen zudem nach der Beliebtheit der Benutzer - empfehlenswert!
 
@@ -18,7 +18,7 @@ alternativeto.net
 osalt.com
 =========
 
-<a href="http://www.osalt.com/" target="_blank"><img style="max-width: 800px;" src="/wp-content/uploads/osalt_com.png" alt="" /></a>
+<a href="http://www.osalt.com/" target="_blank"><img style="max-width: 800px;" src="{{site.baseurl}}/wp-content/uploads/osalt_com.png" alt="" /></a>
 
 
 [osalt.com](http://osalt.com) hat sich darauf spezialisiert, OpenSource-Alternativen zu kostenpflichtiger Software zu sammeln.
@@ -27,7 +27,7 @@ osalt.com
 wakoopa.com
 ===========
 
-<a href="http://wakoopa.com/" target="_blank"><img style="max-width: 800px;" src="/wp-content/uploads/wakcopa_com.png" alt="" /></a>
+<a href="http://wakoopa.com/" target="_blank"><img style="max-width: 800px;" src="{{site.baseurl}}/wp-content/uploads/wakcopa_com.png" alt="" /></a>
 
 
 [wakcopa.com](http://wakoopa.com/) ist eine Seite, die sehr von der Community-Mitarbeit geprägt ist. Neben Alternativvorschlägen bietet wakcopa auch viele Bewertungen, Infos &amp; Statistiken über die Programme.
@@ -36,7 +36,7 @@ wakoopa.com
 iusethis.com
 ============
 
-<a href="http://windows.iusethis.com/" target="_blank"><img style="max-width: 800px;" src="/wp-content/uploads/iusethis_com.png" alt="" /></a>
+<a href="http://windows.iusethis.com/" target="_blank"><img style="max-width: 800px;" src="{{site.baseurl}}/wp-content/uploads/iusethis_com.png" alt="" /></a>
 
 
 [iusethis.com](http://windows.iusethis.com/) ...bietet Infos zu Windows- / Mac- und iPhone-Programmen und zeigt rechts in der Seitenleiste alternative Software an.
@@ -45,7 +45,7 @@ iusethis.com
 Für Linux User
 ==============
 
-<img style="max-width: 800px;" src="/wp-content/uploads/linux_apps.png" alt="" />
+<img style="max-width: 800px;" src="{{site.baseurl}}/wp-content/uploads/linux_apps.png" alt="" />
 
 [linuxalt.com](http://www.linuxalt.com/) &amp; [linuxappfinder.com/alternatives](http://linuxappfinder.com/alternatives) sind zwei Listen, die Windows-Umsteigern helfen sollen, entsprechende Software auch für Linux-Distributionen zu finden.
 

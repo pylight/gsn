@@ -10,11 +10,11 @@ Die Zwischenablage von Windows eine sehr nützliche Funktion und wer sie häufig
 <!--more-->
 
 Glücklicherweise gibt es ein kleines Tool, das dem Anwender diese Aufgabe abnehmen kann! <a href="http://www.pastecopy.net/" target="_blank">PasteCopy.NET </a>ist ein kostenloses Programm, das allle kopierten Texte und Grafiken sammelt und übersichtlich auflistet. Über das Menü können diese dann nachträglich angewählt oder auch angepasst werden.
-<img class="borderimg centered" title="Pastecopy_screen" src="http://ganz-sicher.net/blog/wp-content/uploads/Pastecopy_screen.png" alt="" width="333" height="294" />
+<img class="borderimg centered" title="Pastecopy_screen" src="{{site.baseurl}}/wp-content/uploads/Pastecopy_screen.png" alt="" width="333" height="294" />
 
 Das Tool und dessen Funktionen sollten eigentlich selbsterklärend sein. Selbstverständlich kann es bei jedem Windows-Start automatisch gestartet werden. Außerdem kann eingestellt werden, dass die Einträge beim Beenden des Programms gespeichert werden, sodass der kopierte Text auch beim nächsten Mal noch verfügbar ist.
 
-<img class="borderimg centered" title="pastecopy_screen (2)" src="http://ganz-sicher.net/blog/wp-content/uploads/pastecopy_screen-2.png" alt="" width="389" height="284" />
+<img class="borderimg centered" title="pastecopy_screen (2)" src="{{site.baseurl}}/wp-content/uploads/pastecopy_screen-2.png" alt="" width="389" height="284" />
 
 <div class="infobox">
 <a href="http://www.pastecopy.net/" class="homelink" target="_blank">Homepage</a> | <a href="http://www.pastecopy.net/screenshots/" class="imagelink" target="_blank">Weitere Screenshots</a> | <a href="http://www.pastecopy.net/download/" class="packagelink" target="_blank">Downloadseite</a>

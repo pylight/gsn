@@ -6,8 +6,8 @@ wordpress_url: http://ganz-sicher.net/blog/?p=1515
 date: 2011-09-02 15:03:42.000000000 +02:00
 category: tutorials-tipps
 ---
-<img class="lefticon" src="/wp-content/uploads/logo1.png" alt="" width="100" height="66" />
-Über die alternative Suchmaschine <a href="http://duckduckgo.com/">Duckduckgo</a> hatte ich bereits <a href="http://ganz-sicher.net/blog/linktipps/3-interessante-suchmaschinen-abseits-von-google/">kurz geschrieben</a>. Die Hauptvorteile gegenüber Google liegen darin, dass mehr Wert auf Privatspäre (keine Suchstatistiken) gelegt wird und man durch kurze Befehle (<a href="http://duckduckgo.com/bang.html">!bang</a>) mit vorangestelltem Ausrufezeichen viele andere Suchdienste ansprechen kann, also beispielsweise auch nicht auf Google verzichten muss. Mitlerweile verwende ich Duckduckgo statt Google als Standardsuche in Chromium. Nach etwas Eingewöhnung komme ich damit deutlich schneller an's Ziel als mit Google!
+<img class="lefticon" src="{{site.baseurl}}/wp-content/uploads/logo1.png" alt="" width="100" height="66" />
+Über die alternative Suchmaschine <a href="http://duckduckgo.com/">Duckduckgo</a> hatte ich bereits <a href="{{site.baseurl}}/linktipps/3-interessante-suchmaschinen-abseits-von-google/">kurz geschrieben</a>. Die Hauptvorteile gegenüber Google liegen darin, dass mehr Wert auf Privatspäre (keine Suchstatistiken) gelegt wird und man durch kurze Befehle (<a href="http://duckduckgo.com/bang.html">!bang</a>) mit vorangestelltem Ausrufezeichen viele andere Suchdienste ansprechen kann, also beispielsweise auch nicht auf Google verzichten muss. Mitlerweile verwende ich Duckduckgo statt Google als Standardsuche in Chromium. Nach etwas Eingewöhnung komme ich damit deutlich schneller an's Ziel als mit Google!
 <!--more-->
 
 Was interessiert mich Privatsphäre?
@@ -18,11 +18,11 @@ Duckduckgo !bangs
 =================
 Eine Besonderheit von Duckduckgo sind die <a href="http://duckduckgo.com/bang.html">!bang-Befehle</a>, mit denen es möglich ist bestimmte Websites direkt durch die Suche anzu sprechen. Ist man sich sicher, dass das erste Ergebnis der Suche bereits das passende ist, kann man durch ein einfaches <strong>!</strong> neben dem Suchbegriff beispielsweise die "I'm feeling ducky"-Suche (funktioniert wie "I'm feeling lucky" bei Google) verwenden ohne extra die Suchergebnisseite aufrufen zu müssen:
 
-<a href="/wp-content/uploads/ducky.jpg"><img class="borderimg centered" src="/wp-content/uploads/ducky.jpg" alt="" width="350" height="320" /></a>
+<a href="{{site.baseurl}}/wp-content/uploads/ducky.jpg"><img class="borderimg centered" src="{{site.baseurl}}/wp-content/uploads/ducky.jpg" alt="" width="350" height="320" /></a>
 
 Kennt man die wichtigesten !bang-Befehle, so lässt sich mit der Duckduckgo-Suche sehr komfortabel auf anderen Seiten Suche, z.B. Google mit **!g**:
 
-<a href="/wp-content/uploads/google_search.jpeg"><img class="borderimg centered" src="/wp-content/uploads/google_search.jpeg" alt="" width="350" height="320" /></a>
+<a href="{{site.baseurl}}/wp-content/uploads/google_search.jpeg"><img class="borderimg centered" src="{{site.baseurl}}/wp-content/uploads/google_search.jpeg" alt="" width="350" height="320" /></a>
 
 
 Hier einige Beispiele für weitere Befehle, ich nützlich finde:
@@ -60,6 +60,6 @@ Dabei handelt es sich um die Suche ohne Einstellungen. Um persönliche Einstellu
 Um diese neuen Einstellungen auch in Chrome/Chromium zu verwenden, muss der gesamte Text hinter dem Fragezeichen (also z.B. *kj=w&amp;kl=de-de&amp;kp=-1*) kopiert werden und mit einem <strong>&amp;</strong> an die Suchadresse in den Chrome-Einstellungen angehängt werden. Bei mir lautet das Endergebnis dann:
 > http://duckduckgo.com/?q=%s&amp;kj=w&amp;kl=de-de&amp;kp=-1
 
-<img class="borderimg centered" src="/wp-content/uploads/chrome_settings.jpeg" width="600" height="250" />
+<img class="borderimg centered" src="{{site.baseurl}}/wp-content/uploads/chrome_settings.jpeg" width="600" height="250" />
 
 Fertig! Die <strong>magische Duckduckgo-Suche</strong> in Chrome kann beginnen. :-)

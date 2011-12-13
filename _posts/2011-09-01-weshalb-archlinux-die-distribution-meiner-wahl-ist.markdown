@@ -6,7 +6,7 @@ wordpress_url: http://ganz-sicher.net/blog/?p=1433
 date: 2011-09-01 13:05:00.000000000 +02:00
 category: linux-distributionen
 ---
-<img class="lefticon" src="/wp-content/uploads/archlinux_small.png" alt="" width="66" height="65" />
+<img class="lefticon" src="{{site.baseurl}}/wp-content/uploads/archlinux_small.png" alt="" width="66" height="65" />
 Wenn man sich für Linux entscheidet, steht man häufig vor der Frage "<em>Welche <a href="http://de.wikipedia.org/wiki/Distribution_(Software)">Distribution</a> verwende ich denn jetzt?</em>". Auf <a href="http://www.distrowatch.com/">Distrowatch</a> gibt es eine Übersicht der Linux-Distributionen. Es sind angeblich 312 aktive, was die Sache nicht gerade leichter macht...
 Deswegen habe ich in diesem Artikel die Gründe zusammengefasst, weshalb ich mich für <a href="http://www.archlinux.org/">Archlinux</a> entschieden habe. Archlinux gefällt mir sehr als Distribution, aber ich habe auch versucht, die Nachteile (die es bei <em>jeder</em> Distribution gibt) anzugeben, damit Niemand die falsche Wahl trifft. ;)
 <!--more-->
@@ -26,7 +26,7 @@ Riesige Software-Auswahl und immer neuste Versionen dank AUR
 Die offiziellen Paktequellen (sie werden mit dem Programm <a href="https://wiki.archlinux.org/index.php/Pacman">pacman</a> verwaltet) werden in Archlinux durch das sogenannte Arch User Repository, kurz <a href="https://aur.archlinux.org/">AUR</a> ergänzt. Dabei handelt es sich um von Benutzern eingestellte Pakete, die passende Kompilierungsinformationen (mit Abhängigkeiten) haben, um weitgehend automatisch aus dem Quellcode übersetzt werden zu können.
 Die Flags für die Verwaltung mit Pacman mögen zu Beginn verwirrend sein (<em>z.B. pacman -S zum installieren, pacman -Ss zum Suchen, pacman -R zum Entfernen, pacman -Syu für's Systemupdate</em>) sind dann aber schneller zu handhaben als z.B. bei <a href="http://www.ubuntu.com/">Ubuntu</a>/Aptitude (<em>dpki -i zum installieren, apt-cache search zum Suchen und apt-get install zum Installieren, apt-get update und apt-get upgrade für's Update</em>). Auch gibt es Paketmanager die sowohl die Pacman-Repositorys als auch das AUR verwalten können, wie z.B. <a href="https://wiki.archlinux.org/index.php/Yaourt">yaourt</a>. Das ist ein Hauptgrund weshalb ich Arch einsetze, denn die Paketverwaltung mit yaourt per Terminal ist einfach viel Praktischer als irgendwelche *.deb oder *.rpm-Pakete im Netz suchen zu müssen:
 
-<a href="/wp-content/uploads/terminal.jpg"><img src="/wp-content/uploads/terminal.jpg" alt="" width="470" height="470" /></a>
+<a href="{{site.baseurl}}/wp-content/uploads/terminal.jpg"><img src="{{site.baseurl}}/wp-content/uploads/terminal.jpg" alt="" width="470" height="470" /></a>
 
 Mit yaourt können natürlich auch AUR-Pakete mitaktualisiert (<em>yaourt -Syua</em>), oder nur die AUR-Pakete aktualisiert werden (<em>yaourt -Sbua</em>). Ein Blick in's <a href="https://wiki.archlinux.org/">Wiki</a> lohnt sich (wie so oft), beispielsweise kann man auch die installierten Pakete per <em>yaourt -Qm</em> (äquivalent bei pacman) auflisten.
 

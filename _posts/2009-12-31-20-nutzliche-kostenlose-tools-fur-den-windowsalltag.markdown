@@ -6,7 +6,7 @@ wordpress_url: http://ganz-sicher.net/blog/?p=403
 date: 2009-12-31 15:00:15.000000000 +01:00
 category: software
 ---
-Damit jeder im neuen Jahrzehnt effektiv mit Windows arbeiten kann (klingt wie ein Widerspruch? ;p), stelle ich hier ein paar meiner Lieblingstools vor, die das Arbeiten unter Windows meiner Meinung nach sehr erleichtern. <img style="float:left; margin-right: 15px;" title="windows tool" src="/wp-content/uploads/windows-tool.png" alt="" width="128" height="128" /> So eine Liste lässt sich natürlich immer beliebig ausbauen. Ich beschränke mich hier deswegen mal auf <em>kleinere Programme</em>, die sich zum Großteil auch gut für den USB-Stick eignen und gehe nicht auf spezifische Programme wie Browser oder FTP-Clienten usw. ein. Über Ergänzungen bin ich natürlich trotzdem immer dankbar. ;)
+Damit jeder im neuen Jahrzehnt effektiv mit Windows arbeiten kann (klingt wie ein Widerspruch? ;p), stelle ich hier ein paar meiner Lieblingstools vor, die das Arbeiten unter Windows meiner Meinung nach sehr erleichtern. <img style="float:left; margin-right: 15px;" title="windows tool" src="{{site.baseurl}}/wp-content/uploads/windows-tool.png" alt="" width="128" height="128" /> So eine Liste lässt sich natürlich immer beliebig ausbauen. Ich beschränke mich hier deswegen mal auf <em>kleinere Programme</em>, die sich zum Großteil auch gut für den USB-Stick eignen und gehe nicht auf spezifische Programme wie Browser oder FTP-Clienten usw. ein. Über Ergänzungen bin ich natürlich trotzdem immer dankbar. ;)
 <div id="clearer"></div>
 
 <!--more-->

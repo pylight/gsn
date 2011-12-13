@@ -6,7 +6,7 @@ wordpress_url: http://ganz-sicher.net/blog/?p=1109
 date: 2011-03-14 23:26:32.000000000 +01:00
 category: software
 ---
-<img class="lefticon" title="zim_icon" src="/wp-content/uploads/zim_icon.png" alt="" width="48" height="48" />
+<img class="lefticon" title="zim_icon" src="{{site.baseurl}}/wp-content/uploads/zim_icon.png" alt="" width="48" height="48" />
 Nachdem mir das Notizprogramm <a href="http://projects.gnome.org/tomboy/">tomboy</a> (evtl. auch als <a href="http://live.gnome.org/Gnote">Gnote</a> bekannt, wenn man kein mono einsetzen möchte) kürzlich alle meine Notizen nach dem Syncronisieren nicht mehr zeigen wollte und ich sie dann unständlich aus den <em>.notes</em>-Dateien raussuchen musste, war ich so begeistert, dass ich mich umbedingt nach mal nach einer Alternative umschauen wollte.
 <!--more-->
 
@@ -23,9 +23,9 @@ Entscheidende Vorteile für mich gegenüber Tomboy:
 	<li>einige weitere Funktionen dank Plugins (z.B. Latex-Unterstützung ;) )</li>
 </ul>
 
-<a href="/wp-content/uploads/zim_screenshot.png"><img class="borderimg centered" title="zim_screenshot" src="/wp-content/uploads/zim_screenshot.png" alt="" width="460" height="255" /></a>
+<a href="{{site.baseurl}}/wp-content/uploads/zim_screenshot.png"><img class="borderimg centered" title="zim_screenshot" src="{{site.baseurl}}/wp-content/uploads/zim_screenshot.png" alt="" width="460" height="255" /></a>
 
-<a href="/wp-content/uploads/zim_ordner.png"><img class="borderimg centered" title="zim_ordner" src="/wp-content/uploads/zim_ordner.png" alt="" width="650" height="270" /></a>
+<a href="{{site.baseurl}}/wp-content/uploads/zim_ordner.png"><img class="borderimg centered" title="zim_ordner" src="{{site.baseurl}}/wp-content/uploads/zim_ordner.png" alt="" width="650" height="270" /></a>
 
 
 Was noch fehlt

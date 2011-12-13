@@ -6,7 +6,7 @@ wordpress_url: http://ganz-sicher.net/blog/?p=1635
 date: 2011-10-03 12:27:38.000000000 +02:00
 category: linux-distributionen
 ---
-<img class="lefticon" title="backups" src="/wp-content/uploads/backups.png" alt="" width="32" height="32" />
+<img class="lefticon" title="backups" src="{{site.baseurl}}/wp-content/uploads/backups.png" alt="" width="32" height="32" />
 Ich geb's ja zu! Ich habe bisher höchstens manuelle Backups gemacht. Wiederkehrende Erfahrungen mit kaputten Festplatten, versehentlich gelöschten Daten oder <em>verschlimmbesserten</em> Konfigurationsdateien haben mich dann aber doch motiviert, mich etwas intensiver mit der Thematik zu befassen. Und es kann tatsächlich so einfach sein: In meinem Fall heißt die Antwort <a href="http://rsnapshot.org/">rsnapshot</a> - ein kleines Shelltool, mit dem man regelmäßige Backups machen kann.
 <!--more-->
 
@@ -49,7 +49,7 @@ Rsnapshot Backupscript (Backup auf gesonderte Platte)
 ========================================================
 Ich habe mir ein kleines Script geschrieben, damit meine Backuppartition (die ich zuvor in <em>/etc/fstab</em> eingetragen habe) automatisch gemountet wird und ich entsprechende <em>Notifications</em> über das Backup in Gnome bekomme. Außerdem erstellt das Script anschließen immer eine Liste der installierten Pakete (Pacman / Archlinux). Ich habe dieses Script unter <em>/etc/cron.daily</em> sowie (in angepasster Form) nach <em>/etc/cron.monthly</em> gepackt, damit regelmäßige Backups abgelegt werden können. Falls Fehler beim Backup auftreten, werden diese auf der Backupplatte in einer errors.log gespeichert und es erscheint passende Benachrichtigung auf dem Desktop.
 
-<img class="borderimg centered" src="/wp-content/uploads/backup_successful-300x36.png" alt="" />
+<img class="borderimg centered" src="{{site.baseurl}}/wp-content/uploads/backup_successful-300x36.png" alt="" />
 
 Wer Interesse hat, darf das Script natürlich nach Belieben an die eigenen Bedürfnisse anpassen:
 

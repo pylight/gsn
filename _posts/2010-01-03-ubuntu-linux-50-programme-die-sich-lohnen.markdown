@@ -6,7 +6,7 @@ wordpress_url: http://ganz-sicher.net/blog/?p=449
 date: 2010-01-03 16:25:53.000000000 +01:00
 category: linux-distributionen
 ---
-<img class="lefticon" title="linux" src="/wp-content/uploads/linux.png" alt="" width="128" height="128" />
+<img class="lefticon" title="linux" src="{{site.baseurl}}/wp-content/uploads/linux.png" alt="" width="128" height="128" />
 Ich habe bisher fast ausschließlich über Windows-Programme gebloggt, obwohl ich selbst auch [Ubuntu Linux](http://www.ubuntu.com/) (9.10) oft und gerne einsetze. Linux-Betriebsysteme (Distributionen) wurden in den letzen Jahren auch für Privatanwender immer interessanter und besonders Ubuntu möchte ja den Umstieg von Windows so leicht wie möglich machen. Interessierte Windowsuser finden im Netz jede Menge Tutorials über die Installation und erste Schritte. (z.B. beim <a href="http://wiki.ubuntuusers.de/" target="_self">Ubuntuusers-Wiki</a> oder dem <a href="http://www.gizmodo.de/2009/11/30/workshop-teil-1-linux-fur-jedermann-jetzt-auf-ubuntu-umsteigen.html" target="_blank">3-teilige Erklär-Spezial von Gizmodo</a>)
 
 
@@ -22,7 +22,7 @@ Webbrowser:
 ===============================
 [Mozilla Firefox](http://www.mozilla.com/firefox/) (bereits standardmäßig vorinstalliert). Seit Kurzem gibt es auch [Google Chrome](http://www.google.com/chrome) für Ubuntu. Ebenso gut kann man aber auch [Chromium](http://dev.chromium.org/Home) aus dem Paketmanager installieren. Die [Google-Erweiterungen](https://chrome.google.com/extensions) funktionieren auch damit problemlos.
 
-<img class="righticon" title="chrome" src="/wp-content/uploads/chrome.png" alt="" width="208" height="121" />
+<img class="righticon" title="chrome" src="{{site.baseurl}}/wp-content/uploads/chrome.png" alt="" width="208" height="121" />
 
 
 Internet: 
@@ -39,7 +39,7 @@ Instant-Messenger:
 ===============================
 [http://www.pidgin.im/](Pigdin) ist ein Chatclient für viele Protokolle (ICQ, MSN, IRC, Google Talk,...). Die Oberfläche ist schön schlicht gehalten und erfüllt ihren Zweck gut. Von der Bedienung und Übersicht her gefällt es mir besser, als das bereits vorinstallierte [Empathy](http://live.gnome.org/Empathy).
 
-<img class="borderimg centered" title="pidgin" src="/wp-content/uploads/pidgin.png" alt="" width="286" height="400" />
+<img class="borderimg centered" title="pidgin" src="{{site.baseurl}}/wp-content/uploads/pidgin.png" alt="" width="286" height="400" />
 
 
 Interessante Video-Podcasts:
@@ -51,7 +51,7 @@ Multimedia:
 ===============================
 [XMBC](http://xbmc.org/) ist eine tolle Mediacenter-Applikation für Musik, Filme und Bilder, die zudem auch noch gut aussieht (siehe unten). Wie man das Open-Source-Programm unter Ubuntu installiert, zeigt [diese ausführliche Anleitung](http://xbmc.org/wiki/?title=HOW-TO_install_XBMC_for_Linux_on_Ubuntu_with_a_minimal_installation_step-by-step).
 .
-<img class="borderimg centered" title="xmbc screenshot" src="/wp-content/uploads/xmbc-screenshot.png" alt="" width="411" height="286" />
+<img class="borderimg centered" title="xmbc screenshot" src="{{site.baseurl}}/wp-content/uploads/xmbc-screenshot.png" alt="" width="411" height="286" />
 
 
 Videos schauen: 
@@ -61,7 +61,7 @@ Videos schauen:
 
 Musik hören: 
 ===============================
-<img class="borderimg righticon" title="audacious" src="/wp-content/uploads/audacious151.png" alt="" width="275" height="116" />
+<img class="borderimg righticon" title="audacious" src="{{site.baseurl}}/wp-content/uploads/audacious151.png" alt="" width="275" height="116" />
 Musikplayer gibt es für Ubuntu einige (z.B. [Amarok](http://amarok.kde.org/), [Rhythmbox](http://projects.gnome.org/rhythmbox/), [Listen](http://www.listen-project.org), [Exaile](http://www.exaile.org/)). Ich habe mich für [Banshee](http://banshee-project.org/) entschieden, weil es meine Musik für mich am übersichtlichsten strukturiert und am zuverlässigsten abgespielt hat. Um mal eben ein paar MP3s abzuspielen, verwende ich aber [Audacious](http://audacious-media-player.org/).
 
 
@@ -81,7 +81,7 @@ Programmübersicht: 
 ===============================
 [Avant Window Navigator](https://launchpad.net/awn) ist ein schönes, Mac-ähnliches Dock für Ubuntu.
 
-<img class="borderimg centered" title="awn screenshot" src="/wp-content/uploads/awn-screenshot.jpg" alt="" width="336" height="193" />
+<img class="borderimg centered" title="awn screenshot" src="{{site.baseurl}}/wp-content/uploads/awn-screenshot.jpg" alt="" width="336" height="193" />
 
 
 PDF-Files im Griff: 
@@ -98,7 +98,7 @@ Grafik:
 ===============================
 Der Standardbildbetrachter unter Ubuntu bietet wenige Möglichkeiten zur schnellen Bearbeitung von Bilder (Größe ändern, Zuschneiden,...). Besser ist da meiner Meinung nach [gThumb](http://gthumb.sourceforge.net/). Ein weiterer guter Bildbetrachter ist [Gwenview](http://gwenview.sourceforge.net/). [Gimp](http://www.gimp.org) ist zwar etwas gewöhnungsbedürftig, aber dafür ein leistungsfähiges und komplett kostenloses Bildbearbeitungsprogramm. Viele Tutorials dafür finden sich z.B. [hier](http://www.gimp.org/tutorials/").
 
-<img class="borderimg centered" title="gimp_ubuntu" src="/wp-content/uploads/gimp_ubuntu.png" alt="" width="330" height="247" />
+<img class="borderimg centered" title="gimp_ubuntu" src="{{site.baseurl}}/wp-content/uploads/gimp_ubuntu.png" alt="" width="330" height="247" />
 
 Brennprogramme: 
 ===============================
@@ -120,14 +120,14 @@ Bildschirmaufnahmen:
 =======================
 [Shutter](http://shutter-project.org/) ist ein sehenswertes Tool zum Erstellen von Bildschirmfotos (Screenshots). Mit [gtk-recordmydesktop](http://recordmydesktop.sourceforge.net/) können relativ einfach Videos von deinem Bildschirm aufgenommen werden.
 
-<img class="borderimg centered" title="shutter screenshot" src="/wp-content/uploads/shutter-screenshot.png" alt="" width="342" height="307" />
+<img class="borderimg centered" title="shutter screenshot" src="{{site.baseurl}}/wp-content/uploads/shutter-screenshot.png" alt="" width="342" height="307" />
 
 
 Aus Windows bekannt:
 ====================
 Für [Skype](http://www.skype.com/intl/de/) (kostenlose Anrufe übers Internet, Download auf der Website) und [Picasa](http://picasa.google.com/linux/) (digitale Fotoverwaltung) gibt es jeweils eine Linux-Variante - wenn auch in etwas eingeschänkter Funktionalität. Auch die bekannte Verschlüsselungssoftware [TrueCrypt](http://www.truecrypt.org/) und die "Internetfestplatte" [Dropbox](https://www.dropbox.com/) gibt es (auf der Homepage) für Linux.
 
-<img class="borderimg centered" title="picasa screenshot" src="/wp-content/uploads/picasa-screenshot.png" alt="" width="297" height="205" />
+<img class="borderimg centered" title="picasa screenshot" src="{{site.baseurl}}/wp-content/uploads/picasa-screenshot.png" alt="" width="297" height="205" />
 
 
 MP3, Flash, Java &amp; Co. abspielen: 
@@ -140,6 +140,6 @@ Windows-Programme unter Ubuntu:
 Manchmal möchte man seine Windows-Programme einfach auch unter Ubuntu einsetzen. [Wine](http://www.winehq.org) hilft hier weiter und bringt viele Windows-Programme unter Ubuntu zum Laufen. In der [AppDB](http://appdb.winehq.org/) gibt es außerdem viele Tipps, für Programme, die nicht auf anhieb damit gestartet werden können. Eine weitere Möglichkeit, ist die Emulation eines Windowsbetriebsystems unter Ubuntu mithilfe von [VirtualBox](http://www.virtualbox.org/).
 Übrigens: Auch wenn einige Windows-Spiele mit den beiden Programmen funktionieren, so sind PC-Spiele unter Ubuntu/Linux noch immer eines der größten Probleme. Das kostenpflichtige [Cadega](http://de.wikipedia.org/wiki/Cedega) basiert auf Wine und hat es sich zur Aufgabe gemacht, Spiele auch auf Linux-Distributionen lauffähig zu machen.
 
-<img class="borderimg centered" title="virtualbox-ubuntu" src="/wp-content/uploads/virtualbox-ubuntu.jpg" alt="" width="391" height="244" />
+<img class="borderimg centered" title="virtualbox-ubuntu" src="{{site.baseurl}}/wp-content/uploads/virtualbox-ubuntu.jpg" alt="" width="391" height="244" />
 
 

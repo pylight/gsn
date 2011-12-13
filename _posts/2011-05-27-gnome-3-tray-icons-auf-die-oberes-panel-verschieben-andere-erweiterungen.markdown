@@ -11,7 +11,7 @@ Das <a href="http://www.youtube.com/watch?v=lepXx1kDelo">neue Benachrichtigungss
 <!--more-->
 Trayicons verschieben
 =====================
-<a href="/wp-content/uploads/Tray-Topbar.jpg"><img class="borderimg centered" title="Tray Topbar" src="/wp-content/uploads/Tray-Topbar.jpg" alt="" width="700" height="405" /></a>
+<a href="{{site.baseurl}}/wp-content/uploads/Tray-Topbar.jpg"><img class="borderimg centered" title="Tray Topbar" src="{{site.baseurl}}/wp-content/uploads/Tray-Topbar.jpg" alt="" width="700" height="405" /></a>
 
 Um die Tray-Icons von einzelnen Programmen auf die obere Leiste zu verschieben, kann man sich eine kleine Gnome Shell-Erweiterung erstellen. Wie schonmal angemerkt, basiert die Oberfläche von Gnome 3 zum Großteil auf Javascript und die Möglichkeiten der Erweiterung sind daher sehr vielfältig. Erstellen kann man neue Erweiterungen sehr einfach mit dem gnome-shell-extension-tool:
 	
@@ -62,4 +62,4 @@ Ich setze momentan folgende Erweiterungen ein:
 	<li>Für Laptops bietet sich die Erweiterung <a href="https://github.com/RaphaelKimmig/Gnome-Presentation-Mode">Presentation Mode</a> an. Dort werden im "Presentation Mode" die Energie-Sparfunktionen (z.B. Bildschirmschoner) deaktiviert:</li>
 </ul>
 
-<img class="borderimg centered" title="Screenshot-1" src="/wp-content/uploads/Screenshot-1.png" alt="" width="254" height="226" />
+<img class="borderimg centered" title="Screenshot-1" src="{{site.baseurl}}/wp-content/uploads/Screenshot-1.png" alt="" width="254" height="226" />

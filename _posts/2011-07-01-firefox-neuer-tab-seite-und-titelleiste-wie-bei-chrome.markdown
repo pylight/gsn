@@ -9,7 +9,7 @@ category: kurz-notiert
 Die "Neuer Tab"-Seite mit der Lesezeichenleiste und den häufig besuchten Seiten gefällt mir unter Chrome. Mit den folgenden beiden Addons bekommt man diese Funktion sowie die Tabs in der Fensterleiste auch beim <strong>Firefox</strong> spendiert:
 <!--more-->
 
-<a href="/wp-content/uploads/Screenshot.jpg"><img class="borderimg centered" src="/wp-content/uploads/Screenshot.jpg" alt="" width="700" height="400" /></a>
+<a href="{{site.baseurl}}/wp-content/uploads/Screenshot.jpg"><img class="borderimg centered" src="{{site.baseurl}}/wp-content/uploads/Screenshot.jpg" alt="" width="700" height="400" /></a>
 
 
 "Neuer Tab"-Seite mit Lesezeichenleiste

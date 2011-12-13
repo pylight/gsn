@@ -6,7 +6,7 @@ wordpress_url: http://ganz-sicher.net/blog/kurz-notiert/cyanogenmod-alternative-
 date: 2011-05-18 08:22:03.000000000 +02:00
 category: kurz-notiert
 ---
-<img class="lefticon" src="/wp-content/uploads/cyanogen_icon.png" alt="" width="48" height="48" />
+<img class="lefticon" src="{{site.baseurl}}/wp-content/uploads/cyanogen_icon.png" alt="" width="48" height="48" />
 Android ist mir in letzter Zeit nicht gerade durch positive Nachrichten aufgefallen. Zum Beispiel war da die <a href="http://derstandard.at/1304551914727/Interne-Dokumente-Wie-Google-strikte-Kontrolle-ueber-Android-ausuebt">mögliche Google-Kontrolle</a> oder die angebliche <a href="http://www.spiegel.de/netzwelt/web/0,1518,763176,00.html">Sicherheitslücke in 99% aller Andoid-Handys</a>. Mich persönlich stört aber vor allem, dass ich mit meinem kleinen Einsteigerhandy <em><a href="http://en.wikipedia.org/wiki/HTC_Tattoo">HTC Tattoo</a> (HTC Click)</em> nie ein Android-Update von 1.6 auf 2.x erhalten habe und dass dies wohl von offizieller Seite aus auch nie passieren wird.
 
 Aus diesem Grund läuft auf meinem Handy nun <a href="http://www.cyanogenmod.com/">CyanogenMod</a>: Eine stabile alternative Firmware, welche aktuell (v7.0) auf Android 2.3.3. basiert!

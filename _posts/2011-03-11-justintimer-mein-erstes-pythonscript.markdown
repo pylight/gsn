@@ -6,7 +6,7 @@ wordpress_url: http://ganz-sicher.net/blog/?p=1051
 date: 2011-03-11 15:37:55.000000000 +01:00
 category: programmierung-scripting
 ---
-<img class="lefticon" title="python_code" src="/wp-content/uploads/python_code.png" alt="" width="48" height="48" />
+<img class="lefticon" title="python_code" src="{{site.baseurl}}/wp-content/uploads/python_code.png" alt="" width="48" height="48" />
 Viel Gutes habe ich über die Scriptsprache Python gehört, beispielsweise dass es aufgrund des Aufbaus schwer ist,  damit überhaupt unübersichtlichen (und damit schwer wartbaren) Code zu erzeugen. Deswegen wollte ich mir die Sprache schon seit geraumer Zeit unbedingt mal ansehen. Den ersten Schritt habe ich heute gemacht, indem ich mein erstes kleines Script mit Python geschrieben habe.
 <!--more-->
 

@@ -8,9 +8,9 @@ category: fun
 ---
 Dem Designer der CDU <a href="http://tinyurl.com/4rzb9kr ">Wahlplakate</a> für die Landtagswahl in Baden-Würrtemberg sind ein paar inhaltliche Fehler unterlaufen. Ich habe dort mal leicht nachgebessert...
 (anklicken für größere Auflösung)
-<img class="borderimg centered" title="aufstieg_plagiat" src="/wp-content/uploads/aufstieg_plagiat.jpg" alt="" width="300" height="212" />
+<img class="borderimg centered" title="aufstieg_plagiat" src="{{site.baseurl}}/wp-content/uploads/aufstieg_plagiat.jpg" alt="" width="300" height="212" />
 <!--more-->
-<img class="borderimg centered" title="sicherheit_plagiat" src="/wp-content/uploads/sicherheit_plagiat.jpg" alt="" width="300" height="212" />
+<img class="borderimg centered" title="sicherheit_plagiat" src="{{site.baseurl}}/wp-content/uploads/sicherheit_plagiat.jpg" alt="" width="300" height="212" />
 
-<img class="borderimg centered" title="bildung2_plagiat" src="/wp-content/uploads/bildung2_plagiat.jpg" alt="" width="300" height="212" />
+<img class="borderimg centered" title="bildung2_plagiat" src="{{site.baseurl}}/wp-content/uploads/bildung2_plagiat.jpg" alt="" width="300" height="212" />
 scnr* ;)

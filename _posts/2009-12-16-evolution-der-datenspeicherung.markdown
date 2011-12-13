@@ -9,4 +9,4 @@ Eine interessante Infografik zum Thema Datenspeicherung gibt es im <a href="http
 
 Das Ergebnis (Bild anklicken für eine größere Version):
 
-<a href="http://www.flickr.com/photos/7979419@N02/4168425890/sizes/l/" target="_blank"><img class="borderimg" title="evolution of storage" src="/wp-content/uploads/evolution-of-storage.jpg" alt="evolution of storage" width="390" height="470" /></a>
+<a href="http://www.flickr.com/photos/7979419@N02/4168425890/sizes/l/" target="_blank"><img class="borderimg" title="evolution of storage" src="{{site.baseurl}}/wp-content/uploads/evolution-of-storage.jpg" alt="evolution of storage" width="390" height="470" /></a>

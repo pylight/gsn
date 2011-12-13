@@ -8,6 +8,6 @@ category: fun
 ---
 Hahaha ...sehr treffend auf den Punkt gebracht! :D
 
-<img class="borderimg centered" src="/wp-content/uploads/apple_iPride.png" alt="" />
+<img class="borderimg centered" src="{{site.baseurl}}/wp-content/uploads/apple_iPride.png" alt="" />
 
 (gefunden auf <a href="http://blogausgraz.wordpress.com/2011/03/04/ohne-worte-apple-ipride-2/">Blogausgraz</a>, thx!)

@@ -9,7 +9,7 @@ category: tutorials-tipps
 Wie schonmal geschrieben hatte, benutze ich <a href="http://conky.sourceforge.net/">Conky</a> um mein System zu überwachen. Nach dem Wechsel von Gnome 2 zu Gnome 3 war conky leider komplett vom Desktop verschwunden, nach einigen Änderungen verschwand es immer beim Klick auf den Desktop. Nach einigem Googlen und Herumprobieren habe ich es letztendlich doch wieder so hinbekommen, wie ich haben will:
 <!--more-->
 
-<img class="borderimg centered" title="conky_screen_gnome3" src="/wp-content/uploads/conky_screen_gnome3.jpg" alt="" width="500" height="300" />
+<img class="borderimg centered" title="conky_screen_gnome3" src="{{site.baseurl}}/wp-content/uploads/conky_screen_gnome3.jpg" alt="" width="500" height="300" />
 
 Hier meine neue Config (gehört in die Datei ~/.conkyrc):
 ---------------------------------------------------------

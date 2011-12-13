@@ -6,7 +6,7 @@ wordpress_url: http://ganz-sicher.net/blog/?p=1453
 date: 2011-08-30 23:05:22.000000000 +02:00
 category: software
 ---
-<img class="lefticon" title="zen_classic_logo" src="/wp-content/uploads/zen_classic_logo.png" alt="" width="48" height="48" />
+<img class="lefticon" title="zen_classic_logo" src="{{site.baseurl}}/wp-content/uploads/zen_classic_logo.png" alt="" width="48" height="48" />
 Moderne Betriebsysteme und Anwendungen erstellen häufig aus Performance- oder Statiskgründen (Cache)-Daten. Zum Problem wird dies, wenn solche Daten nicht temporär sind, sondern auch bestehen  bleiben, wenn sie eigentlich gar nicht mehr benötigt werden. Dieser Datenmüll belegt mit der Zeit nicht nur viel Platz auf der Festplatte, sondern kann zudem auch zum Sicherheitsrisiko werden - einige Browserdaten (besuchte Seiten,...) könnten beispielsweise von böswilligen Quellen ausgelesen werden. ;-) Das Tool <a href="http://bleachbit.sourceforge.net">Bleachbit</a> will dieses Problem anpacken und bereinigt deswegen Windows- und Linux-Systeme und -Programme von solchen Daten.
 <!--more-->
 
