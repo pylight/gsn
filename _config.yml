@@ -1,4 +1,8 @@
 markdown: maruku
 pygments: true
+
+name: Ganz-Sicher.Net Blog
+description: Linux, das Netz und der ganze Rest!
+url: http://ganz-sicher.net/blog
 permalink: /:categories/:title
 baseurl: /blog
