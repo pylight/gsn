@@ -11,7 +11,7 @@ Falls sich schon jemand gefragt haben sollte:
 
 Die Antwort lautet: <strong>JETZT</strong>!\*<br />
 
-<img class="borderimg centered" title="new year 2010" src="{{site.baseurl}}/wp-content/uploads/new-year-2010.jpg" alt="" width="480" height="360" />
+<img class="borderimg centered" title="new year 2010" src="{{site.url}}/wp-content/uploads/new-year-2010.jpg" alt="" width="480" height="360" />
 
 <center>
 *Zumindest für dieses Jahr. ;-)

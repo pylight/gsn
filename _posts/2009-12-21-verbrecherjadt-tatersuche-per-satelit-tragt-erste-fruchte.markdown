@@ -9,6 +9,6 @@ category: fun
 <strong>+++++Eilmeldung+++++:</strong>
 
 Endlich bahnbrechende Erfolge bei der Suche von Verbrechern per Satelit!
-<p style="text-align: center;"><a class="borderimg" href="http://nedroidcomics.livejournal.com/265654.html"><img class="aligncenter size-full wp-image-304" title="Comic demonstriert jüngste Erfolge bei Verbrecherjadt" src="{{site.baseurl}}/wp-content/uploads/2009-12-18-crimelab.gif" alt="" width="300" height="382" /></a></p>
+<p style="text-align: center;"><a class="borderimg" href="http://nedroidcomics.livejournal.com/265654.html"><img class="aligncenter size-full wp-image-304" title="Comic demonstriert jüngste Erfolge bei Verbrecherjadt" src="{{site.url}}/wp-content/uploads/2009-12-18-crimelab.gif" alt="" width="300" height="382" /></a></p>
 <p style="text-align: center;">;D</p>
 (<a href="http://nedroidcomics.livejournal.com/265654.html">via</a>)

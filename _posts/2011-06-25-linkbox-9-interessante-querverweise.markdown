@@ -6,7 +6,7 @@ wordpress_url: http://ganz-sicher.net/blog/?p=1383
 date: 2011-06-25 10:44:06.000000000 +02:00
 category: linktipps
 ---
-<img class="lefticon" src="{{site.baseurl}}/wp-content/uploads/links.png" alt="" width="32" height="32" />
+<img class="lefticon" src="{{site.url}}/wp-content/uploads/links.png" alt="" width="32" height="32" />
 Wer schon immer so stylish Programmieren wollte wie Hacker in gewissen Hollywoodfilmen sollte bei <a href="http://hackertyper.net/ ">http://hackertyper.net/</a> vorbeischauen, auf den "Hack!" button klicken und wild auf der Tastatur herumh&auml;mmern. :) Das ist zwar sinnlos, sieht daf&uuml;r aber gut aus.
 
 Sofern man 3 iPods &uuml;brig hat, kann man aber auch noch auf andere Art Eindruck schinden: 

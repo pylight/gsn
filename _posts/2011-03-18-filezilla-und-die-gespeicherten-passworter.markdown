@@ -6,7 +6,7 @@ wordpress_url: http://ganz-sicher.net/blog/?p=1131
 date: 2011-03-18 22:39:20.000000000 +01:00
 category: tutorials-tipps
 ---
-<img class="lefticon" src="{{site.baseurl}}/wp-content/uploads/filezilla.png" alt="" />
+<img class="lefticon" src="{{site.url}}/wp-content/uploads/filezilla.png" alt="" />
 [FileZilla](http://filezilla-project.org/) gefällt mir als FTP-Client sehr gut, gerade weil es Open Source und damit für mehrere verschiedene Plattformen verfügbar ist. Weniger gefällt mir, dass FileZilla immer die Passwörter meiner zuletzt benutzen FTP-Verbindungen als Klartext in einer XML-Datei speichert...
 <!--more-->
 
@@ -14,7 +14,7 @@ Das Problem
 ===========
 FileZilla legt im <span style="text-decoration: underline;">Konfigurationsordner</span> (<strong>Windows 7</strong>: <span style="font-family: arial, sans-serif; line-height: 15px; font-size: small;">C:\Users\<em>Benutzername</em>\AppData\Roaming\FileZilla | <strong>Linux</strong>: ~/.filezilla) standardmäßig immer die datei <em>recentservers.xml</em> für Quickconnects (Verbindungen über die Eingabefelder in der Toolbar) und eine <em>sitemanager.xml</em> für Verbindungen mit dem Servermanager (Datei -&gt; Servermanager bzw. File -&gt; Site-Manager) an. Schaut man sich diese Dateien genauer an, sieht man, dass die benutzen Passwörter dort im Klartext abgespeichert werden:</span>
 
-<img class="borderimg" src="{{site.baseurl}}/wp-content/uploads/sitemanager-xml.gif" alt="" width="436" height="360" />
+<img class="borderimg" src="{{site.url}}/wp-content/uploads/sitemanager-xml.gif" alt="" width="436" height="360" />
 
 Dies ist laut Entwickler angeblich so gewollt, im offiziellen FileZilla-Forum gab es <a href="http://forum.filezilla-project.org/viewtopic.php?f=2&amp;t=7800">auf eine Frage dazu</a> die Antwort:
 > "This is by design, it is the task of the operating system to protect your private data."

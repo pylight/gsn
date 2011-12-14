@@ -6,7 +6,7 @@ wordpress_url: http://ganz-sicher.net/blog/?p=1419
 date: 2011-07-01 08:56:31.000000000 +02:00
 category: fun
 ---
-<img class="borderimg centered" title="googleplus" src="{{site.baseurl}}/wp-content/uploads/googleplus.png" alt="" width="535" height="281" />
+<img class="borderimg centered" title="googleplus" src="{{site.url}}/wp-content/uploads/googleplus.png" alt="" width="535" height="281" />
 
 via <a href="http://xkcd.com/918/">xkcd</a>.
 

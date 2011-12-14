@@ -6,7 +6,7 @@ wordpress_url: http://ganz-sicher.net/blog/?p=1
 date: 2009-12-12 13:51:35.000000000 +01:00
 category: blognews
 ---
-<img title="Achtung Hirnarbeiten!" src="{{site.baseurl}}/wp-content/uploads/Brain.jpg" alt="Achtung Hirnarbeiten!" width="314" height="208" />
+<img title="Achtung Hirnarbeiten!" src="{{site.url}}/wp-content/uploads/Brain.jpg" alt="Achtung Hirnarbeiten!" width="314" height="208" />
 
 Hier entsteht gerade (m)ein <span style="color: #ff0000;">n</span><span style="color: #0000ff;">e</span><span style="color: #339966;">u</span><span style="color: #ff9900;">e</span><span style="color: #000000;">s</span> (und erstes) Blog!
 

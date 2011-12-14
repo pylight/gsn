@@ -10,8 +10,8 @@ Bei <a href="http://www.geeksucks.com/" target="_blank">geeksucks</a> gibt es e
 
 Hier mal zwei beeindruckende Beispiele:
 
-<a href="{{site.baseurl}}/wp-content/uploads/84.gif"><img class="borderimg" title="Straßenmalerei - Relalistischer Hai" src="{{site.baseurl}}/wp-content/uploads/84.gif" alt="" width="540" height="436" /></a>
-<a href="{{site.baseurl}}/wp-content/uploads/235.jpg"><img class="borderimg" title="Realistische Straßenmalerei - am Abgrund" src="{{site.baseurl}}/wp-content/uploads/235.jpg" alt="" width="540" height="346" /></a>
+<a href="{{site.url}}/wp-content/uploads/84.gif"><img class="borderimg" title="Straßenmalerei - Relalistischer Hai" src="{{site.url}}/wp-content/uploads/84.gif" alt="" width="540" height="436" /></a>
+<a href="{{site.url}}/wp-content/uploads/235.jpg"><img class="borderimg" title="Realistische Straßenmalerei - am Abgrund" src="{{site.url}}/wp-content/uploads/235.jpg" alt="" width="540" height="346" /></a>
 
 Weitere Bilder dieser Art
 =========================

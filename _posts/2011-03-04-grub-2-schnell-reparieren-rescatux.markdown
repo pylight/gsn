@@ -14,7 +14,7 @@ Ich kannte bisher nur <a href="http://www.supergrubdisk.org/super-grub-disk/">Su
 
 Nachdem ich jetzt mal wieder mein Grub 2 zerschossen hatte, bin ich auf <a href="http://www.supergrubdisk.org/rescatux/">Rescatux</a> auf der selben Seite aufmerksam geworden. Im Gegensatz zu den "Vorg&auml;ngern" basiert dies auf Debian und bietet die M&ouml;glichkeit, sowohl Grub 1, als auch Grub 2 mit grafischer Oberfl&auml;che wiederherzustellen. Au&szlig;erdem bietet das Tool die M&ouml;glichkeit an, ein Filesystem zu &uuml;berpr&uuml;fen.&nbsp;
 
-<img class="borderimg centered" src="{{site.baseurl}}/wp-content/uploads/rescatux_main_menu.png" alt="" width="607" height="425" />
+<img class="borderimg centered" src="{{site.url}}/wp-content/uploads/rescatux_main_menu.png" alt="" width="607" height="425" />
 
 Die Erkennung der installierten Distributionen klappte bei mir problemlos - Wer sich also unter Umst&auml;nden einige nervt&ouml;tende Momente ersparen m&ouml;chte, sollte vielleicht erstmal einen Blick darauf werfen.&nbsp;
 Ein weiteres n&uuml;tzliches Tool zum einfachen Anpassen (z.B. Festlegen eines Hintergrundbildes, &Auml;ndern der Eintr&auml;ge oder der Anzeigedauer) des Bootmanagers ist (mit grafischer Oberfl&auml;che) <a href="https://launchpad.net/grub-customizer">Grub Customizer</a>.&nbsp;

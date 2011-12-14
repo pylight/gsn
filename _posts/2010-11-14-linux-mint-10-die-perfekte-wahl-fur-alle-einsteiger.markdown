@@ -6,7 +6,7 @@ wordpress_url: http://ganz-sicher.net/blog/?p=835
 date: 2010-11-14 16:02:47.000000000 +01:00
 category: linux-distributionen
 ---
-<img class="lefticon" title="Minto Logo" src="{{site.baseurl}}/wp-content/uploads/mint_logo.png" alt="" width="48" height="48" />
+<img class="lefticon" title="Minto Logo" src="{{site.url}}/wp-content/uploads/mint_logo.png" alt="" width="48" height="48" />
 Vor Kurzem ist <a href="http://linuxmint.com/">Linux Mint</a> in einer neuen Version (Mint 10 "Julia") erschienen. Wenngleich die Distribution auf dem (sicherlich bekannteren) Ubuntu basiert, ist Linux Mint in der letzten Zeit mehr und mehr für mich zum "besseren Ubuntu" geworden.
 
 <!--more-->
@@ -18,8 +18,8 @@ Die (De)Installation von ist dank des kategorisierten Softwarecenters sehr simpe
 
 Screenshots
 ===========
-<a href="{{site.baseurl}}/wp-content/uploads/mint_screen1.png" title="Linux Mint Screenshot" target="_blank"><img class="borderimg centered" title="Mint Startmenü" src="{{site.baseurl}}/wp-content/uploads/mint_screen1.png" alt="" width="184" height="145" /></a>
-<a href="{{site.baseurl}}/wp-content/uploads/mint_screen2.png" title="Linux Mint Screenshot" target="_blank"><img class="borderimg centered" title="Mint Softwarecenter und Menüsuche" src="{{site.baseurl}}/wp-content/uploads/mint_screen2.png" alt="" width="182" height="144" /></a>
+<a href="{{site.url}}/wp-content/uploads/mint_screen1.png" title="Linux Mint Screenshot" target="_blank"><img class="borderimg centered" title="Mint Startmenü" src="{{site.url}}/wp-content/uploads/mint_screen1.png" alt="" width="184" height="145" /></a>
+<a href="{{site.url}}/wp-content/uploads/mint_screen2.png" title="Linux Mint Screenshot" target="_blank"><img class="borderimg centered" title="Mint Softwarecenter und Menüsuche" src="{{site.url}}/wp-content/uploads/mint_screen2.png" alt="" width="182" height="144" /></a>
 
 
 <div class="infobox"><a class="homelink" title="Linux Mint Homepage" href="http://www.linuxmint.com/">Homepage</a> | <a title="Linux Mint 10 Downloadseite" class="packagelink" href="http://www.linuxmint.com/download.php">Downloads</a> | <a class="imagelink" title="Weitere Screenshot auf Unixmen" href="http://www.unixmen.com/linux-distributions/29-linux-mint/1262-linuxmint-10-julia-screenshots-tour">Weitere Screenshots </a>| <a class="info" title="Mint 10 Testbericht auf Linuxcritic.com" href="http://www.linuxcritic.com/linux-mint-10-reviewed/">Weiterer Mint 10 Testbericht (englisch)</a></div>

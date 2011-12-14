@@ -6,7 +6,7 @@ wordpress_url: http://ganz-sicher.net/blog/?p=1249
 date: 2011-05-08 10:41:00.000000000 +02:00
 category: linux-distributionen
 ---
-<img class="lefticon" src="{{site.baseurl}}/wp-content/uploads/terminal1.png" alt="" width="48" height="48" />
+<img class="lefticon" src="{{site.url}}/wp-content/uploads/terminal1.png" alt="" width="48" height="48" />
 Nach einigen "Klickbunti"-Themen mal wieder ein kleiner Eintrag zur guten alten Shell ;-). Unter Linux kommt man ja fast nicht drum herum, mit dem Terminal und der Bash (Bourne-again shell) in Berührung zu kommen, deswegen ist man gut beraten, sich entsprechend zu wappnen. ;p
 Ein paar pfiffige Befehle, für das produktive Arbeiten mit der Bash, habe ich versucht hier zusammenzustellen...
 <!--more-->

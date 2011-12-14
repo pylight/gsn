@@ -6,7 +6,7 @@ wordpress_url: http://ganz-sicher.net/blog/?p=1148
 date: 2011-03-25 00:59:35.000000000 +01:00
 category: tutorials-tipps
 ---
-<img class="lefticon" title="firefox_icon" src="{{site.baseurl}}/wp-content/uploads/firefox_icon.png" alt="" width="48" height="48" />
+<img class="lefticon" title="firefox_icon" src="{{site.url}}/wp-content/uploads/firefox_icon.png" alt="" width="48" height="48" />
 Mozilla holt auf! Mit <a href="http://www.mozilla-europe.org/de/">Firefox 4</a> bin ich bis auf Kleinigkeiten (Flackern bei Flashobjekten, einige fehlende <a href="http://www.google.com/chrome?hl=de">Chrome</a>-Komforfunktionen) sehr zufrieden, vor allem in Sachen Geschwindigkeit legt der Browser im Vergleich zu Vorgängerversionen deutlich zu. Besonders der Seitenaufbau ist sehr zügig, häufig auch schneller als bei Googles Chrome.
 <!--more-->
 
@@ -15,7 +15,7 @@ Außerdem hat es beim neuen Firefox einige strukturelle Änderungen gegeben. So 
 Da Firefox selbst für die Benutzeroberfläche auch (bestimmte) CSS-Einstellungen verwendet, ist es mittels Addons wie <a href="https://addons.mozilla.org/de/firefox/addon/stylish/">Stylish</a>, welche den CSS-Code verändern, möglich dieses Verhalten und Aussehen recht individuell anzupassen. Auf <a href="http://userstyles.org/">Userstyles.org </a>habe ich bereits fertige Codes gefunden, die wenige Wünsche offen lassen:
 <em>Aufgeräumter Feuerfuchs:</em>
 
-<img class="borderimg centered" title="firefox_4" src="{{site.baseurl}}/wp-content/uploads/firefox_4.png" alt="" width="600" height="375" />
+<img class="borderimg centered" title="firefox_4" src="{{site.url}}/wp-content/uploads/firefox_4.png" alt="" width="600" height="375" />
 
 Code 1: Addonbar verkleinern und evtl. automatisch ausblenden
 ==============================================================
@@ -45,7 +45,7 @@ Dass bei Firefox die Hintergrundfarbe des Adressleisten-Dropdownmenüs immer vom
 
 Mein Ergebnis:
 
-<img class="borderimg centered" title="firefox_4_screen" src="{{site.baseurl}}/wp-content/uploads/firefox_4_screen.png" alt="" width="550" height="440" />
+<img class="borderimg centered" title="firefox_4_screen" src="{{site.url}}/wp-content/uploads/firefox_4_screen.png" alt="" width="550" height="440" />
 
 Code:
 -----

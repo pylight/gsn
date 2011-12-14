@@ -21,7 +21,7 @@ html, body
 
 body 
 {
-  background: white url(/blog/images/stripesbg.png);
+  background: white url(http://www.ganz-sicher.net/blog/images/stripesbg.png);
   font: 13.34px helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: center;
@@ -423,37 +423,37 @@ img.righticon:after
 a.homelink
 {
 	padding-left: 20px;
-	background: url(/blog/images/icons/homelink.png);
+	background: url(http://ganz-sicher.net/blog/images/icons/homelink.png);
 	background-repeat: no-repeat;
 }
 a.packagelink
 {
 	padding-left: 20px;
-	background: url(/blog/images/icons/packagelink.png);
+	background: url(http://ganz-sicher.net/blog/images/icons/packagelink.png);
 	background-repeat: no-repeat;
 }
 a.folderlink
 {
 	padding-left: 20px;
-	background: url(/blog/images/icons/folderlink.png);	
+	background: url(http://ganz-sicher.net/blog/images/icons/folderlink.png);	
 	background-repeat: no-repeat;
 }
 a.scriptlink
 {
 	padding-left: 20px;
-	background: url(/blog/images/icons/scriptlink.png);	
+	background: url(http://ganz-sicher.net/blog/images/icons/scriptlink.png);	
 	background-repeat: no-repeat;
 }
 a.imagelink
 {
 	padding-left: 20px;
-	background: url(/blog/images/icons/imagelink.png);	
+	background: url(http://ganz-sicher.net/blog/images/icons/imagelink.png);	
 	background-repeat: no-repeat;
 }
 .info
 {
 	padding-left: 20px;
-	background: url(/blog/images/icons/info.png);	
+	background: url(http://ganz-sicher.net/blog/images/icons/info.png);	
 	background-repeat: no-repeat;
 }
 	

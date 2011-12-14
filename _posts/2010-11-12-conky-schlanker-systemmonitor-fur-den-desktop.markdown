@@ -6,7 +6,7 @@ wordpress_url: http://ganz-sicher.net/blog/?p=787
 date: 2010-11-12 20:21:00.000000000 +01:00
 category: linux-distributionen
 ---
-<img class="lefticon" title="System-Monitoring" src="{{site.baseurl}}/wp-content/uploads/monitoring.png" alt="" width="63" height="63" /> 
+<img class="lefticon" title="System-Monitoring" src="{{site.url}}/wp-content/uploads/monitoring.png" alt="" width="63" height="63" /> 
 Applets für den Desktop sind oft nur eine Spielerei und verlangsamen den PC zusätzlich. Anders sieht der Ansatz bei dem Linux-Tool <a title="Conky" href="http://conky.sourceforge.net/">conky</a> aus: <a href="http://conky.sourceforge.net/">Conky</a> ist sehr schlank und - wie bei vielen Programmen unter Linux individuell anpassbar. Dadurch, dass man zum Beispiel die Augaben sämtlicher Befehle auf einfache Weise (nämlich mit dem ${execi}-Befehl) auf dem Desktop anzeigen lassen kann, sind der Fantasie wenig grenzen gesetzt. Dass es folglich viele Beispielkonfigurationen im Netz gibt, brauche ich wohl kaum erwähnen - ein paar Links für Interessierte habe ich im folgenden Abschnitt gesammelt...
 
 <!--more-->
@@ -32,7 +32,7 @@ Gute Anlaufstellen für Beispielkonfigurationen
 Meine Conky-Config
 ==================
 Natürlich konnte ich es mir nicht entgehen lassen, selbst ein wenig mit Conky herumexperimentieren ;), deswegen möchte ich auch mein <em>Zwischenergebnis</em> hier nicht verschweigen:
-Meine aktuelle Conky-Konfiguration: <a href="{{site.baseurl}}/wp-content/uploads/screen_conky.jpg">Klicke hier für einen Screenshot des gesamten Desktops.</a>
+Meine aktuelle Conky-Konfiguration: <a href="{{site.url}}/wp-content/uploads/screen_conky.jpg">Klicke hier für einen Screenshot des gesamten Desktops.</a>
 <img class="borderimg centered" src="http://ganz-sicher.net/blog/wp-content/uploads/conky_small.jpg" alt="Conky" />
 Meine .conkyrc (gehört in den Ordner /home/<em>DEINUSERNAME</em>):
 

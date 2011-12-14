@@ -15,7 +15,7 @@ Lösung
 =======
 Abhilfe schafft mal wieder der <a href="http://wiki.ubuntuusers.de/Gnome_Konfiguration">gconf-editor</a>. Startet man diesen und navigiert zu /apps/metacity/window_keybindings, so findet man dort einen passenden Eintrag namens "minimize". Setzt man dessen Wert auf "Escape" (ohne Anführungszeichen), kann man künftig alle Fenster auch mit der ESC-Taste minimieren lassen.
 
-<img class="borderimg centered" title="gconf_editor_screen" src="{{site.baseurl}}/wp-content/uploads/gconf_editor_screen.jpg" alt="" width="475" height="340" />
+<img class="borderimg centered" title="gconf_editor_screen" src="{{site.url}}/wp-content/uploads/gconf_editor_screen.jpg" alt="" width="475" height="340" />
 
 <div class="infobox">Übrigens gibt es zu den Tastenbelegungen hier noch einen kleinen Spickzettel von Gnome:<br />
 - <a href="http://live.gnome.org/GnomeShell/CheatSheet">http://live.gnome.org/GnomeShell/CheatSheet</a><br />

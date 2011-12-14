@@ -28,8 +28,8 @@ Zudem ist das Tweak-Tool für einige andere (eigentlich selbstverständliche) Ei
 Panel anpassen und Applets hinzufügen
 ---------------------------------------
 Obwohl im ersten Moment der Eindruck entstehen kann, dass die aus Gnome 2 bekannten Panel-Einstellungen und die Möglichkeit, Elemente zum Panel hinzuzufügen in Gnome 3 Fallback nicht mehr existieren, hat sich lediglich der Shortcut für diese Funktion geändert. Anpassungen können nun nur noch bei gedrückter <strong>Alt-Taste + Rechtsklick</strong> auf das Panel vorgenommen werden, die Konfiguration erinnert sonst aber stark an Gnome 2.
-<a href="{{site.baseurl}}/wp-content/uploads/gnome_screen_2.jpeg"><img class="borderimg centered" title="gnome_screen_2" src="{{site.baseurl}}/wp-content/uploads/gnome_screen_2.jpeg" alt="" width="500" height="250" /></a>
-<a href="{{site.baseurl}}/wp-content/uploads/gnome_fallback_screen.jpeg"><img class="borderimg centered" title="gnome_fallback_screen" src="{{site.baseurl}}/wp-content/uploads/gnome_fallback_screen.jpeg" alt="" width="500" height="250" /></a>
+<a href="{{site.url}}/wp-content/uploads/gnome_screen_2.jpeg"><img class="borderimg centered" title="gnome_screen_2" src="{{site.url}}/wp-content/uploads/gnome_screen_2.jpeg" alt="" width="500" height="250" /></a>
+<a href="{{site.url}}/wp-content/uploads/gnome_fallback_screen.jpeg"><img class="borderimg centered" title="gnome_fallback_screen" src="{{site.url}}/wp-content/uploads/gnome_fallback_screen.jpeg" alt="" width="500" height="250" /></a>
 <center>(﻿das Theme auf den Screenshots ist <a href="http://grvrulz.deviantart.com/art/Hope-gtk3-206207315">Hope/Hope_old</a>)</center>
 
 Die Panelfarbe kann natürlich auch über Themes angepasst werden. Beispiel aus einer gtk.css (befindet sich normalerweise unter ~/.themes/&lt;themename&gt;/gtk-3/):
@@ -65,7 +65,7 @@ Auch nervt, dass Gnome bei der Installation neuer Programme von Zeit zu Zeit die
 Tiling Windows
 --------------
 Leider Besitzt der Fallback-Modus nicht wie Gnome Shell oder Ubuntu 11.04 die Möglichkeit, Fenster durch einfaches Verschieben an den Rand ("Snap"-Funktion), schnell auszurichten. Ein kleines Tool (mit einigen weiteren Ausrichtungsmöglichkeiten) kann aber hier Abhilfe  verschaffen. <a href="https://github.com/TheWanderer/stiler">Stiller</a> ist ein python-Script, mit dem einige Parameter zur Verfügung stehen, um Fenster bei Window-Managern wie Gnome auszurichten. Natürlich kann man den verschiedenen Einstellungen auch Tastenkombinationen in den Gnome-Einstellungen zuweisen, um das Ausrichten leichter zu machen. Das könnte dann beispielsweise so aussehen:
-<a href="{{site.baseurl}}/wp-content/uploads/tiling.jpeg"><img class="borderimg centered" title="tiling" src="{{site.baseurl}}/wp-content/uploads/tiling.jpeg" alt="" width="500" height="300" /></a>
+<a href="{{site.url}}/wp-content/uploads/tiling.jpeg"><img class="borderimg centered" title="tiling" src="{{site.url}}/wp-content/uploads/tiling.jpeg" alt="" width="500" height="300" /></a>
 Mir gefällt diese Lösung besser als ein expliziter Tiling Window-Manager, denn so werden die Fenster nur auf Wunsch angeordnet und das sonstige Desktoperlebnis bleibt das selbe. Eine andere Möglichkeit, die Snapping-Windows-Funktion im Fallback-Modus zu bekomen, ist das Nutzen von Compiz, welches auch ein entsprechendes Plugin besitzt.</p>
 
 Compiz

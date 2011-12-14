@@ -11,9 +11,9 @@ In meiner Liste "<a href="http://ganz-sicher.net/blog/ubuntu/ubuntu-linux-50-pro
 Ein weiterer interessanter <em>Mediacenter</em> für Ubuntu ist <a href="http://enna.geexbox.org/" target="_blank">Enna</a>. Derzeit lautet die Versionsnummer v0.4.0, das Programm ist also noch in einem recht frühen Stadium. Bei meinen Tests lief Enna dennoch immer flüssig.
 <!--more-->
 
-<img class="borderimg centered" src="{{site.baseurl}}/wp-content/uploads/enna1.png" alt="" />
+<img class="borderimg centered" src="{{site.url}}/wp-content/uploads/enna1.png" alt="" />
 
-<img class="borderimg centered" src="{{site.baseurl}}/wp-content/uploads/enna2.png" alt="" />
+<img class="borderimg centered" src="{{site.url}}/wp-content/uploads/enna2.png" alt="" />
 
 Das eher schlicht gehaltene Programmmenü kann sich auch durchaus sehen lassen und die von mir getesteten Medien wurden alle problemlos angezeigt beziehungsweise abgespielt. Neben Musik, Videos und Bildern kann man sich mit Enna auch Comics von <a href="http://www.gocomics.com/" target="_blank">Gocomics</a> und <a href="http://www.onemanga.com/" target="_blank">Onemanga</a> ansehen.
 Schön finde ich, dass das Programm im Fenstermodus läuft und man es dadurch auch bequem neben dem normalen PC-Betrieb benutzen kann.

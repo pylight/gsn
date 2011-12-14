@@ -10,7 +10,7 @@ Wen der vorige Beitrag über das <a href="http://ganz-sicher.net/blog/?p=102">Wi
 
 Screenshot
 ==========
-<a title="Hotkeyz Screenshot - Anklicken für Originalgröße" href="{{site.baseurl}}/wp-content/uploads/Hotkeyz_screenshot.png" target="_blank"><img class="borderimg" title="Hotkeyz_screenshot" src="{{site.baseurl}}/wp-content/uploads/Hotkeyz_screenshot1.png" alt="Hotkeyz_screenshot" width="623" height="352" /></a>
+<a title="Hotkeyz Screenshot - Anklicken für Originalgröße" href="{{site.url}}/wp-content/uploads/Hotkeyz_screenshot.png" target="_blank"><img class="borderimg" title="Hotkeyz_screenshot" src="{{site.url}}/wp-content/uploads/Hotkeyz_screenshot1.png" alt="Hotkeyz_screenshot" width="623" height="352" /></a>
 
 * [Mehr Screenshots](http://www.skynergy.com/hotkeyz/help/index.html?screenshots.html)
 * [Homepage & Download](http://www.skynergy.com/hotkeyz.html)

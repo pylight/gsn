@@ -88,4 +88,4 @@ Andere Kürzel, die ich sehr hilfreich finde:
 
 Mehr Platz für den eigentlichen Websiteinhalt - <a href="https://addons.mozilla.org/en-US/firefox/addon/prospector-lessChrome-HD/">Lesschrome HD</a>:
 
-<a href="{{site.baseurl}}/wp-content/uploads/Lesschrome-Firefox.jpeg"><img class="borderimg centered" src="{{site.baseurl}}/wp-content/uploads/Lesschrome-Firefox.jpeg" alt="" width="634" height="356" /></a>
+<a href="{{site.url}}/wp-content/uploads/Lesschrome-Firefox.jpeg"><img class="borderimg centered" src="{{site.url}}/wp-content/uploads/Lesschrome-Firefox.jpeg" alt="" width="634" height="356" /></a>

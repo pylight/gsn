@@ -6,7 +6,7 @@ wordpress_url: http://ganz-sicher.net/blog/?p=988
 date: 2011-03-06 20:21:07.000000000 +01:00
 category: tutorials-tipps
 ---
-<img class="lefticon" title="keys" src="{{site.baseurl}}/wp-content/uploads/keys.png" alt="" width="48" height="48" />
+<img class="lefticon" title="keys" src="{{site.url}}/wp-content/uploads/keys.png" alt="" width="48" height="48" />
 Wenn es um IT Sicherheit geht, ist jeder Schutz nur so gut, wie das schwächste Glied im System. Nicht selten ist das schwächste Glied dabei das eigene Passwort: Viele verwenden aus reiner Bequemlichkeit simple Kennwörter (eine mindestens gleich große Todsünde) überall ein und das selbe Passwort. Die Folgen können dann natürlich verheerend sein, denn eine Schwachstelle in einer Website oder Anwendung bedeutet dann den möglichen Zugriff auf alle Konten eines betroffenen Benutzers.Google hat sich zu dieser Problematik kürzlich etwas einfallen lassen: Neuerdings gibt es ein Sicherheitsfeature, das den Account mit einem zusätzlichen - sich ständig ändernden - PinCode absichert. Besonders für GMail-Benutzer eine interessante neue Funktion, denn mit den Mailaccount hat man ja meist auch wieder Zugriff auf viele Webdienste.
 <!--more-->
 

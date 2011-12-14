@@ -11,9 +11,9 @@ category: kurz-notiert
 Abgesehen davon, dass Kurzlinks sicherlich ihre Vorteile haben (einfach zu notieren, übersichtlicher und wirkt sich nicht negativ auf das Websitedesign aus), ist es aber oft ziemlich nervig, nicht zu wissen, wohin man weitergeleitet wird - und außerdem ist es auch ein Sicherheitsrisiko.
 Abhilfe schafft <a href="http://www.longurlplease.com/">LongUrlPlease</a>. Die Website wandelt Kurzurls wieder in Originaladressen um. Dabei werden die gängigsten Dienste unterstützt:
 
-<img class="borderimg" title="longurlplease screenshot" src="{{site.baseurl}}/wp-content/uploads/shorturlplease-screenshot.jpg" alt="longurlplease screenshot" width="608" height="393" />
+<img class="borderimg" title="longurlplease screenshot" src="{{site.url}}/wp-content/uploads/shorturlplease-screenshot.jpg" alt="longurlplease screenshot" width="608" height="393" />
 
 Wer Firefox nutzt, kann sich direkt das dazugehörige <a href="https://addons.mozilla.org/en-US/firefox/addon/9549?version=0.4.1" target="_blank">Addon installieren</a>. Aber auch alle anderen kommen in den Genuss der Funktion, indem sie sich den Link auf der Seite einfach in die Lesezeichen-Leiste ziehen:
 
-<img class="borderimg" title="longurl" src="{{site.baseurl}}/wp-content/uploads/longurl.jpg" alt="longurl" width="543" height="208" />
+<img class="borderimg" title="longurl" src="{{site.url}}/wp-content/uploads/longurl.jpg" alt="longurl" width="543" height="208" />
 ...ein Klick auf das Lesezeichen genügt dann, um auf der aktuellen Website die Links umwandeln zu lassen. ;)

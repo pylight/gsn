@@ -8,7 +8,7 @@ category: kurz-notiert
 ---
 Silvester [erfolgreich überstanden](http://2.media.tumblr.com/tumblr_kvkqe1mB3D1qzpwi0o1_500.jpg)? =] Dann wird es jetzt mal wieder Zeit für einen kleinen Snack...
 
-<img class="borderimg centered" src="{{site.baseurl}}/wp-content/uploads/tall-hamburger.jpg" alt="" width="569" height="300" />
+<img class="borderimg centered" src="{{site.url}}/wp-content/uploads/tall-hamburger.jpg" alt="" width="569" height="300" />
 
 Da gibt es nur ein kleines Problem: Die Burger aus der Werbung sehen immer viel saftiger und leckerer aus als auf dem eigenen Teller! Der folgende Clip zeigt, wie tief dafür in die Trickkiste gegriffen wird:
 

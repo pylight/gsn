@@ -8,7 +8,7 @@ category: linktipps
 ---
 Meine 10 Links der Woche zu interessanten, unterhaltsamen oder nützlichen Websites:
 
-<img class="borderimg" style="float:right; margin-left: 25px;" title="hirnoffensive linktipps" src="{{site.baseurl}}/wp-content/uploads/hirnoffensive-linktipps.jpg" alt="" width="173" height="173" />
+<img class="borderimg" style="float:right; margin-left: 25px;" title="hirnoffensive linktipps" src="{{site.url}}/wp-content/uploads/hirnoffensive-linktipps.jpg" alt="" width="173" height="173" />
 
 <ul>
 	<li style="text-align: justify;"><a href="http://www.smashingapps.com/2009/12/31/breathtaking-new-years-fireworks-shows-for-celebrating-2010.html" target="_self">Smashingapps</a> ...hat eine Sammlung toller Silvesterfeuerwerke aus Großstädten der Welt zusammengestellt</li>

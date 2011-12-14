@@ -6,7 +6,7 @@ wordpress_url: http://ganz-sicher.net/blog/?p=903
 date: 2011-02-16 19:34:09.000000000 +01:00
 category: linktipps
 ---
-<img class="lefticon" title="showfoto" src="{{site.baseurl}}/wp-content/uploads/showfoto.png" alt="" width="61" height="61" />
+<img class="lefticon" title="showfoto" src="{{site.url}}/wp-content/uploads/showfoto.png" alt="" width="61" height="61" />
 Gerade bei historischen Ereignissen in der Welt, wie zur Zeit zum Beispiel bei der Entwicklung im nahen Osten und zuletzt in [Ägypten](http://totallycoolpix.com/2011/02/the-egypt-protests-from-start-to-finish)
 sagen Bilder oft mehr als Worte.
 

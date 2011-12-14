@@ -7,12 +7,12 @@ date: 2009-12-28 01:46:28.000000000 +01:00
 category: software
 ---
 <p style="text-align: justify;"><a href="http://getsongbird.com/">Songbird</a> ist <a href="http://blog.songbirdnest.com/2009/12/22/songbird-1-4-2-is-posted/" target="_blank">vor kurzem in der neuen Version 1.4.2 erschienen</a> und da ich den Player selbst gerne einsetze, möchte ich in diesem Beitrag kurz die Vor- &amp; Nachteile des Programms vorstellen.</p>
-<img style="float:right; margin-left: 20px;" title="songbird logo" src="{{site.baseurl}}/wp-content/uploads/songbird_logo.png" alt="songbird logo" width="208" height="68" />
+<img style="float:right; margin-left: 20px;" title="songbird logo" src="{{site.url}}/wp-content/uploads/songbird_logo.png" alt="songbird logo" width="208" height="68" />
 <p style="text-align: justify;"><!--more-->Vorneweg: Der Player ist noch <em>vergleichsweise jung</em>: Die erste Version (v0.1) des <em>Singvogels</em> erschien Anfang 2006, die Finale Version 1.0 gibt es seit Ende 2008. Das Programm ist dementsprechend nach wie vor an einigen Stellen verbesserungswürdig und wird auch noch aktiv weiterentwickelt.</p>
 Trotzdem ist das Ziel der Entwickler, <em>nur</em> die Plattform für einen durch Plugins individuell anpassbaren Mediaplayer zu bieten. Da die Software auf <a href="http://de.wikipedia.org/wiki/XML_User_Interface_Language" target="_blank">Mozillas XUL</a> (wie z.B. auch der Mozilla Firefox) basiert und Plugins leicht integrierbar sind, könnte das klappen.
 
 <div style="text-align: center">
-	<img class="borderimg" title="songbird player screen" src="{{site.baseurl}}/wp-content/uploads/songbird-player-screen.jpg" alt=""  />
+	<img class="borderimg" title="songbird player screen" src="{{site.url}}/wp-content/uploads/songbird-player-screen.jpg" alt=""  />
 </div>
 
 
@@ -28,7 +28,7 @@ Auch für diejenigen, die bereits frühere Versionen von Songbird genutzt haben,
 </ul>
 
 <div style="text-align: center">
-<img class="borderimg" title="cds rippen mit songbird" src="{{site.baseurl}}/wp-content/uploads/cds-rippen-mit-songbird.png" alt="" />
+<img class="borderimg" title="cds rippen mit songbird" src="{{site.url}}/wp-content/uploads/cds-rippen-mit-songbird.png" alt="" />
 </div>
 
 Schön und gut - aber was macht Songbird aber besser als vergleichbare Mediaplayer ,wie [iTunes](http://www.apple.com/itunes/) oder [MediaMonkey](http://www.mediamonkey.com/)?
@@ -59,7 +59,7 @@ Interessante Songbird-Addons:
 	<li style="text-align: justify;"><a href="http://addons.songbirdnest.com/addon/1205" target="_blank">Shoutcast Radio</a>: viele Radiosender nach Genre unterteilt, per <em>Herz-Button </em>können auch eigene Radiosender hinzugefügt werden</li>
 	<li style="text-align: justify;"><a href="http://addons.songbirdnest.com/addon/238" target="_blank">Mediaflow</a>: nette Album-Art-Vorschau:</li>
 </ul>
-<img class="borderimg" title="songbird mediaflow addon" src="{{site.baseurl}}/wp-content/uploads/songbird-mediaflow-addon.png" alt="" />
+<img class="borderimg" title="songbird mediaflow addon" src="{{site.url}}/wp-content/uploads/songbird-mediaflow-addon.png" alt="" />
 <ul>
 	<li><a href="http://addons.songbirdnest.com/addon/73" target="_blank">mashTape</a>: zeigt interessante Infos/Fotos/Videos zum aktuell abgespielten Lied/zur Band unter der Trackliste an.</li>
 	<li><a href="http://addons.songbirdnest.com/addon/1230" target="_blank">LyricMaster</a>: zeigt die Lyrics zum abgespielten Lied an</li>

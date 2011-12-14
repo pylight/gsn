@@ -6,7 +6,7 @@ wordpress_url: http://ganz-sicher.net/blog/?p=1553
 date: 2011-09-05 23:49:12.000000000 +02:00
 category: linktipps
 ---
-<img class="righticon" src="{{site.baseurl}}/wp-content/uploads/gnome-logo.jpg" alt="" width="80" height="91" />
+<img class="righticon" src="{{site.url}}/wp-content/uploads/gnome-logo.jpg" alt="" width="80" height="91" />
 Über <a href="http://gnome3.org/">Gnome 3 / Gnome Shell</a> hatte ich bereits mehrfach geschrieben. Ende des Monats soll Gnome 3.2 erscheinen, was vieles in Sachen Performance verbessern will, aber auch <a href="http://mygeekopinions.blogspot.com/2011/07/gnome-32-news-few-major-upcoming.html">neue Features</a> bringen soll. Die Gnome Shell Extensions solllen beispielsweise auch eine eigene Website erhalten, über die man diese einfacher Einbinden kann. Neben den im Blog schon vorgestellten Erweiterungen habe ich noch weitere 3 interessante gefunden:
 <ul>
 	<li><a href="http://www.o2net.cl/gnome/windowlist.html">WindowList</a> zeigt die offenen Fenster des aktuellen Desktops im oberen Panel an</li>
@@ -15,14 +15,14 @@ category: linktipps
 </ul>
 *Und BTW:* Dass Gnome 3 in der Linux-Community sehr umstritten ist, war klar. Dass Hitler aber auch nicht erfreut darüber war, habe ich <a href="http://www.youtube.com/watch?v=Z-moXUALZtw">erst kürzlich erfahren müssen</a>.
 
-<img class="lefticon" src="{{site.baseurl}}/wp-content/uploads/ssd.png" alt="" width="64" height="64" />
+<img class="lefticon" src="{{site.url}}/wp-content/uploads/ssd.png" alt="" width="64" height="64" />
 [SSDs](http://de.wikipedia.org/wiki/Solid-State-Drive)http://de.wikipedia.org/wiki/Solid-State-Drive beschleunigen das System wirklich merklich, gerade was System- und Programmstarts und das Kopieren von Daten angeht. Ich habe mir nach einigen Überlegungen eine <a href="http://www.amazon.de/gp/product/B0039SM0AS/">Crucial SSD</a> für meinen Desktop-PC geleistet und habe es nicht bereut! Das Problem bei SSDs ist, dass die Anzahl der möglichen Schreibvorgänge pro Zelle begrenzt ist und daher mit der Zeit Zellen unbrauchbar werden und auf längere Sicht auch die SSD ausgetauscht werden muss. Deshalb sollte man darauf achten, die Schreibvorgänge zu minimieren. Der <a href="https://wiki.archlinux.org/index.php/SSD">ArchWiki-Artikel zum Thema SSD</a> ist sicher nicht nur für Archlinux-User lesenswert, denn er behandelt allgemeine Tipps zum SSD-Einsatz unter Linux. Übrigens kann ich auch <a href="https://wiki.archlinux.org/index.php/Maximizing_Performance">Maximizing Performace</a> aus dem Wiki empfehlen.
 
-<img class="righticon" src="{{site.baseurl}}/wp-content/uploads/restaurant_food.png" alt="" width="64" height="64" />
+<img class="righticon" src="{{site.url}}/wp-content/uploads/restaurant_food.png" alt="" width="64" height="64" />
 *Und nun zu etwas komplett Anderem*: Kochen! <a title="http://www.chefkoch.de" href="http://www.chefkoch.de">Chefkoch.de</a> ist zwar eine ganz nette Anlaufstellt, <a title="http://www.kochbar.de" href="http://www.kochbar.de">Kochbar.de</a> ist auch nicht zu verachten....und dann gibt es da noch <a href="http://www.blogtotal.de/netzwelt/stoppt-den-abmahnwahn-von-marions-kochbuch/">Marions Kochbuch</a>. Nur Leider hilft das alles nichts, wenn man keine Ideen hat, was man denn nun schon wieder kochen will.
 Das Internet wäre nicht das Internet, wenn es dafür keine Lösung parat hätte: <a title="http://www.scheissewaskocheichheute.de/" href="http://www.scheissewaskocheichheute.de/">Sch**ssewaskocheichheute.de</a> führt in vielen Fällen am Schnellsten zum Ziel beziehungsweise Essen, denn hier bekommt man auf charmante Art Zufallsrezepte von vielen verschiedenen Seiten serviert.<span style="font-size: x-small;"> (gefunden auf <a href="https://dbudwm.wordpress.com/">https://dbudwm.wordpress.com/</a>)</span>
 
-<img class="lefticon" src="{{site.baseurl}}/wp-content/uploads/img.png" alt="" width="64" height="64" />
+<img class="lefticon" src="{{site.url}}/wp-content/uploads/img.png" alt="" width="64" height="64" />
 Bei <a href="http://picomol.de/2011/09/03/bewegte-bilder-cinemagraph/">Picomol</a> habe ich 2 schöne Links zu Cinegraphs (\*schöne\* Gifbilder/Kurzanimationen) gefunden: <a title="http://www.hongkiat.com/blog/cinemagraph/" href="http://www.hongkiat.com/blog/cinemagraph/">http://www.hongkiat.com/blog/cinemagraph/</a> und <a title="http://www.photoshop-plus.co.uk/2011/08/31/inspiration-52-stunning-cinemagraphs/" href="http://www.photoshop-plus.co.uk/2011/08/31/inspiration-52-stunning-cinemagraphs/">http://www.photoshop-plus.co.uk/2011/08/31/inspiration-52-stunning-cinemagraphs/</a>. Ich kannte das bisher von einem Blog, auf dem es Cinegraphs von bekannten Filmen zu sehen gibt: <a title="http://iwdrm.tumblr.com/" href="http://iwdrm.tumblr.com/">http://iwdrm.tumblr.com</a> ist meiner Meinung nach auch sehr schön gemacht.
 
 *Außerdem, in eigener Sache*: Ich habe mitlerweile eine <a href="/blogroll">Blogroll</a>-Seite, auf der ich einige Blogs aufgelistet habe, die ich gerne lese! :)

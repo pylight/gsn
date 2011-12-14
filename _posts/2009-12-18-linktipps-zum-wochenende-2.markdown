@@ -26,4 +26,4 @@ Immer noch nicht alle Geschenke für Weihnachten? Vielleicht helfen ja diese Vor
 	<li><a href="http://www.web20badges.com/" target="_blank">http://www.web20badges.com/</a> - Online-Generator, mit dem man solche Web 2.0-Grafiken machen kann:</li>
 </ul>
 
-<img src="{{site.baseurl}}/wp-content/uploads/hoff.jpg" alt="" />
+<img src="{{site.url}}/wp-content/uploads/hoff.jpg" alt="" />
