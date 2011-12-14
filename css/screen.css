@@ -69,6 +69,11 @@ table
   font: 100%;
 }
 
+img a
+{
+   border: none;
+}
+
 #egobox {
 	position: absolute;
 	top: 5px;
@@ -468,3 +473,12 @@ div.imageinfo
 	font-size: xx-small;
 }
 
+#socialbuttons
+{
+   float: right;
+   margin-bottom: 5px;
+   margin-top: 5px;
+}
+#soctialbuttons:after{
+   clear:right;
+}

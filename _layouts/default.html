@@ -16,12 +16,22 @@
 
 	<!-- Scripts -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
-		
+        {% include js/flattr.html %} 
+
 </head>
 <body>
 	<!-- Tool- & Egobox :) -->
-	<div id="toolbox"><a href="#" title="hide everything but content" id="cleanup">clean layout</a> <a href="#" title="show a random blogpost" id="random">random</a> <span id="toolboxnote"> &lt;---- Toolbox!</span></div>
-	<div id="egobox"><span id="stalknote">stalk me here ----&gt; </span> <a href="https://github.com/pylight/" title="see my projects on github" id="githublink"><img src="{{site.baseurl}}/images/icons/egobox/github.png" alt="github"/></a> <a href="https://twitter.com/#!/GanzSicherNet" title="follow me on twitter" id="twitterlink"><img src="{{site.baseurl}}/images/icons/egobox/twitter.png" alt="twitter"/></a> <a href="http://feeds.feedburner.com/GanzSicherNet" title="get blog RSS-Feed" id="rsslink"><img src="{{site.baseurl}}/images/icons/egobox/rss.png" alt="rss"/></a>  <a href="http://gsn.idea.informer.com/" title="give me feedback!" id="feedbacklink">Feedback</a> </div>
+	<div id="toolbox"><a href="javascript:void(0)" title="hide everything but content" id="cleanup">clean layout</a> <a href="javascript:void(0)" title="show a random blogpost" id="random">random</a> 
+		  <span id="toolboxnote"> &lt;---- Toolbox!</span>
+	 </div>
+
+	<div id="egobox">
+		<span id="stalknote">stalk me here ----&gt;</span> 
+		<a href="https://github.com/pylight/" title="see my projects on github" id="githublink"><img src="{{site.baseurl}}/images/icons/egobox/github.png" alt="github"/></a> 
+		<a href="https://twitter.com/#!/GanzSicherNet" title="follow me on twitter" id="twitterlink"><img src="{{site.baseurl}}/images/icons/egobox/twitter.png" alt="twitter"/></a> 
+		<a href="http://feeds.feedburner.com/GanzSicherNet" title="get blog RSS-Feed" id="rsslink"><img src="{{site.baseurl}}/images/icons/egobox/rss.png" alt="rss"/></a>  
+		<a href="http://gsn.idea.informer.com/" title="give me feedback!" id="feedbacklink">Feedback</a> 
+	</div>
 
 <div class="site">
 <header>
@@ -31,8 +41,8 @@
 
     <!-- Header links -->
     <nav>
-			<a class="extra" href="{{site.baseurl}}/">/home</a> · <a class="extra" href="/enter/impressum.html">impress</a> · <a class="extra" href="/">about</a>
-		</nav>
+      <a class="extra" href="{{site.baseurl}}/">/home</a> · <a class="extra" href="/enter/impressum.html">impress</a> · <a class="extra" href="/">about</a>
+   </nav>
 		    
     <!-- Slogan -->
     <span id="slogan">/* TODO: Blog Slogan goes here */</span>
@@ -48,33 +58,9 @@
   </div>
 </div>
 
-<!-- Google Analytics -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-12030431-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-<!-- Google Analytics end -->
-
-	<!-- jquery event handler -->
-	<script	 type="text/javascript">
-		/* cleanup-button: hide everything but content */
-		$('#cleanup').click(function() {
-			$("#egobox").hide();
-			$("#toolbox").hide();
-			$(".site").css("border", "none");
-			$(".site").css("box-shadow", "none");
-			$("body").css("background", "white");
-			$("#commentarea").hide();
-			$("#slogan").hide();
-			$("nav").hide();
-			$(".footer").hide();
-		});
-	</script>
+   {% include js/ganalytics.html %}
+   
+   {% include js/cleanup.html %}
 
 </body>
 </html>
