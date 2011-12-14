@@ -1,9 +1,15 @@
 ---
 layout: default
 ---
+<div id="socialbuttons">
+   {% include js/twitter.html %}
+   {% include js/gplus.html %}
+   {% include flattr.html %}
+</div>
 
 <div id="prepost">
 <h1>{{ page.title }}</h1>
+
 </div>
 <div id="post">
 {{ content }}
@@ -16,12 +22,6 @@ layout: default
       <li><span>{{ site.time }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
-</div>
-
-<div id="socialbuttons">
-   {% include js/twitter.html %}
-   {% include js/gplus.html %}
-   {% include flattr.html %}
 </div>
 
 <div id="commentarea">

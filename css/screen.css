@@ -475,10 +475,9 @@ div.imageinfo
 
 #socialbuttons
 {
-   float: right;
-   margin-bottom: 15px;
-   margin-top: 5px;
-   padding: 5px;
+   position: absolute;
+   right:15px;
+   top: 55px;
 }
 #soctialbuttons:after{
    clear:right;
