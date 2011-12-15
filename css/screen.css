@@ -74,6 +74,11 @@ img a
    border: none;
 }
 
+ul
+{
+   margin-left: 15px;
+}
+
 #egobox {
 	position: absolute;
 	top: 5px;
@@ -289,7 +294,7 @@ ul.posts
 	
 	/* headings*/
 	
-	#prepost h1 
+	#prepost h1, .bighead
 	{
 		font-size: 34px;
 		line-height: 1.2;
@@ -297,7 +302,10 @@ ul.posts
 		text-shadow: silver 2px 2px 4px;
 		text-align: left;
 	}
-	
+         .bighead{
+            font-size: 24px;
+         }
+
 	#post h1	
 	{
 		font-size: 24px;

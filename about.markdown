@@ -1,0 +1,38 @@
+---
+layout: default
+title: About Ganz-Sicher!net
+---
+
+<div class="bighead">Was zum Teufel ist Ganz-Sicher.net?</div>
+Ganz-Sicher.net ist ein privates Blog (oder sind Blogs doch [männlich](http://www.scilogs.de/wblogs/blog/sprachlog/sprachgebrauch/2011-08-25/das-blog-ist-tot-es-lebe-der-blog)...?) zu verschiedenen – hauptsächlich digitalen und netz-relevanten – Themen.
+
+Hier blogge &amp; sammle ich (Sven aus DE, zur Zeit Student – Technische Informatik, Bachelor in Process) Themen, die mich persönlich interessieren oder die ich für erwähnenswert halte.
+
+Mach mit!
+---------
+Das Netz ist ein *aktives Medium* – Anregungen und [Feedback](http://gsn.idea.informer.com) sind daher auch bei mir jederzeit willkommen! Wenn du etwas zu einem bestimmten Artikel im Blog beitragen möchtest, findest du deshalb auch eine Kommentarfunktion unter jedem Artikel.
+
+<div class="bighead">About me – iLike³</div>
+* **IT:** Programmierung (C++/Python), Linux &amp; OpenSource
+* **Musik:** Drum and Bass, Indie-Rock, gute Musik die sich vom MainStream-Zeugs abhebt :]
+* **Sport:** Moutain-Biking
+
+<div class="bighead">Warum blogge ich? Oder: Interview mit mir selbst über den Grund dieses Blogs</div>
+<blockquote style="line-height: 1.2;">
+<pre>-- Chatlog BEGIN --</pre>
+<pre><strong>&lt;anonymerFragesteller&gt;</strong> also wieso genau bloggst du?
+<strong>&lt;GSN_Blogger&gt;</strong> eigentlich aus reinem Interesse am Bloggen und Texten!
+<strong>&lt;anonymerFragesteller&gt;</strong> also Gier nach Aufmerksamkeit?
+<strong>&lt;GSN_Blogger&gt;</strong> hmh auch. Das Internet und die Welt da draußen ist einfach voller interessanter Dinge. Hier im Blog kann ich dieses Chaos festhalten und/oder weitergeben!
+<strong>&lt;anoniymerFragesteller&gt;</strong> klingt ein wenig nach <a href="http://de.wikipedia.org/wiki/Principia_Discordia">Principia Discordia</a>...
+<strong>&lt;GSN_Blogger&gt;</strong> mag sein. Aber Jeder der heutzutage etwas auf sich hält, muss nunmal eine eigene Website im WehWehWeh haben!
+<strong>&lt;anonymerFragesteller&gt;</strong> stimmt, keine Homepage haben ist soo 90s! ;-)</pre>
+<pre>-- Chatlog END --</pre>
+</blockquote>
+
+<div class="bighead">Mit welchen Themen beschäftigt sich dieses Blog?</div>
+* Linktipps, Video-Clips, interessantes, lustiges, satirisches,…
+* diverse Tutorials rund um Web &amp; IT&nbsp; (hauptsächlich für Linux-Systeme)
+* empfehlenswerte Freeware/Software &amp; Tipps dazu
+* Coding, Scripting und Webdesign
+* … (Dinge, die mir sonst so über den Weg laufen)
