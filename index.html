@@ -4,29 +4,24 @@ title: Ganz-Sicher.net Blog!
 ---
 
 <div id="home">
-  <h1>Blog Posts (German)</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
+  <div class="nicehead"><span class="nice">Recent Blog Posts</span> <span class="niceinfo">(German)</span></div>
+
+    {% for post in site.posts limit:5 %}
+    <div class="blogexcerpt">
+    <div><a class="bighead" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></div>
+      {{ post.content | postmorefilter }}
+      <div><a class="readmore" href="{{ site.baseurl }}{{ post.url }}">weiterlesen...</a></div>
+      </div> 
+    {% endfor %}
+
+	<div class="nicehead"><span class="nice">Die letzen 25</span> <span class="niceinfo">(Textlinks)</span></div>
+	<ul class="posts">
+    {% for post in site.posts limit:25 %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
-  </ul>
-
-  <h1>Linux Blogroll  (mostly German)</h1>
-  <ul class="posts">
-	<li><span>DSIW</span> &raquo; <a href="http://blog.dsiw-it.de/">Blog über Linux, Programmierung, Datenschutz & Medien</a></li>
-	<li><span>Picolom</span> &raquo; <a href="http://picomol.de/">Internet- und OpenSource-Weblog</a></li>
-	<li><span>Linuxundich</span> &raquo; <a href="http://linuxundich.de/">Ein Blog über Ubuntu, Linux, Android und IT</a></li>
-	<li><span>Webupd8</span> &raquo; <a href="http://www.webupd8.org/">Great Blog with news about Linux Desktop (Ubuntu, Gnome,..)</a>
 	
-	<!-- TODO: Non-Linux Blogroll Page -->
-	</li>
+	<div id="archivehighlight"><span>Blog-Archiv</span> &raquo; <a href="archive.html" style="color: darkblue;">Alle Blogbeiträge zeigen</a></div>
+	</ul>
+		
 
-
-  </ul>
-
-  <h1>Current Projects</h1>
-  <ul class="enums">
-    <li><a href="https://github.com/pylight/P-2-Config-Tool">P&sup2; Config Tool</a> Config tool for Perfect Privacy / Gnome NetworkManager to switch between PP-VPN servers quickly (Python3 & GTK3+)</li>
-   <li>Customizing this blog. ;) (static blog based on jekyll)</li>
- </ul>
 </div>

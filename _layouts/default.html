@@ -12,11 +12,10 @@
 	<!-- CSS -->
 	<link rel="stylesheet" href="{{site.baseurl}}/css/syntax.css" type="text/css" />
 	<link rel="stylesheet" href="{{site.baseurl}}/css/screen.css" type="text/css" media="screen, projection" />
-	<link href="http://fonts.googleapis.com/css?family=Reenie+Beanie&amp;subset=latin" rel="stylesheet" type="text/css">
 
 	<!-- Scripts -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
-        {% include js/flattr.html %} 
+    {% include js/flattr.html %} 
 
 </head>
 <body>
@@ -41,7 +40,10 @@
 
     <!-- Header links -->
     <nav>
-    <a class="extra" href="{{site.baseurl}}/">/home</a> · <a class="extra" href="/enter/impressum.html">impress</a> · <a class="extra" href="{{site.baseurl}}/about.html">about</a>
+    <a class="extra" href="{{site.baseurl}}/">/home</a> · 
+    <a class="extra" href="{{site.baseurl}}/archive.html">archive</a> ·
+    <a class="extra" href="/enter/impressum.html">impress</a> · 
+    <a class="extra" href="{{site.baseurl}}/about.html">about</a>
    </nav>
 		    
     <!-- Slogan -->
@@ -57,6 +59,8 @@
 	  
   </div>
 </div>
+
+   {% include bottomnotes.html %}
 
    {% include js/ganalytics.html %}
    

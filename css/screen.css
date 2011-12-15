@@ -4,10 +4,12 @@
 /*
 /*****************************************************************************/
 
-
+/* google fonts */
+@import url(http://fonts.googleapis.com/css?family=Muli);
+@import url(http://fonts.googleapis.com/css?family=Reenie+Beanie);
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans);
 
 /* Global Reset */
-
 * 
 {
   margin: 0;
@@ -177,7 +179,7 @@ ul.posts
   font-size: 110%;
   text-align: justify;
   width: 60em;
-  margin: 3em auto 2em auto;
+  margin: 3em auto 25px auto;
   line-height: 1.5em;
   background-color: white;
   padding: 20px;
@@ -227,7 +229,48 @@ ul.posts
       {
         color: #8085C1;
       }
+      
 
+	/*  blog homepage */
+      .nice
+      {
+		font-family: 'Muli', sans-serif;		
+      }
+	  .nicehead
+	  {
+		margin: 15px 0;
+		padding: 3px;
+		background: #f5f5f5;
+		border-bottom: 1px dotted #666;
+	  }
+	  .niceinfo
+	  {
+		font-style: italic;
+		color: #aaa;
+		margin-left: 0.5em;
+		
+	  }
+
+	.blogexcerpt
+	{
+		margin-bottom: 25px;
+	}
+	#home .bighead
+	{
+		line-height: 1.2;
+		margin: 0.3em 0 5px;
+		text-shadow: none !important;
+		color: black;
+		text-decoration: none;
+		font-size: 22px;
+	}
+	
+	#archivehighlight 
+	{
+		border: 1px dashed #E6E6E6;
+		border-left: none;
+		border-right: none;
+	}
 
 /*****************************************************************************/
 /*
@@ -301,6 +344,7 @@ ul.posts
 		margin: 0.3em 0 5px;
 		text-shadow: silver 2px 2px 4px;
 		text-align: left;
+		font-family: 'Droid Sans', sans-serif;
 	}
          .bighead{
             font-size: 24px;
@@ -406,7 +450,7 @@ img.righticon:after
 	header #slogan
 	{
 		position: relative;
-		left: -172px;
+		left: -238px;
 		top: -25px;
 		padding: 0;
 		margin: 0;
@@ -489,4 +533,40 @@ div.imageinfo
 }
 #soctialbuttons:after{
    clear:right;
+}
+
+/* bottom of page */
+#bottomnotes {
+    position: relative;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: black;
+    height: 110px;
+    opacity: 0.6;
+    border-top: 3px solid grey;
+    font-family: 'Muli', sans-serif;
+	overflow: hidden;
+}
+#projektbox {
+    float: left;
+    color: white;
+    text-align: left;
+    padding: 5px;
+    margin-left: 45px;
+}
+
+#projektbox h1 {
+    -moz-transform: rotate(-85deg);            
+    -webkit-transform: rotate(-85deg);   
+    -o-transform: rotate(-85deg);   
+    -ms-transform: rotate(-85deg);
+    display: inline-table;
+    position: relative;
+    right: 75px;
+    top: 43px;
+    font-size: 12px;
+}
+#projektbox a {
+    color: white;
 }
