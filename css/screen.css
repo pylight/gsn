@@ -71,7 +71,7 @@ table
   font: 100%;
 }
 
-img a
+img a, img a:link, img a:visited;
 {
    border: none;
 }
@@ -149,10 +149,14 @@ ul
 /*
 /*****************************************************************************/
 
-ul.posts 
+ul.posts
 {
   list-style-type: none;
   margin-bottom: 2em;
+}
+#home ul.posts
+{
+	margin:0;
 }
 
   ul.posts li 
@@ -160,7 +164,7 @@ ul.posts
     line-height: 1.75em;
   }
 
-  ul.posts span 
+  ul.posts span, #archivehighlight span
   {
     color: #aaa;
     font-family: Monaco, "Courier New", monospace;
@@ -270,6 +274,8 @@ ul.posts
 		border: 1px dashed #E6E6E6;
 		border-left: none;
 		border-right: none;
+		margin: 0;
+		padding: 0;
 	}
 
 /*****************************************************************************/
