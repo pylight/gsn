@@ -30,6 +30,7 @@ Mein erstes Script in Python
 ============================
 *justInTimer*, mein erste Script erfüllt einen Zweck, der schnell erklärt ist: Das Script soll mir am Abend dabei helfen, rechtzeitig den PC auszuschalten, damit ich am nächsten Tag nicht zu müde bin, weil es im Netz noch so viele interessante Dinge zu sehen gab. ;D Dementsprechend verschwindet das Script nach dem Aufruf (und der Frage nach der verbleibenden Dauer) wieder aus dem Terminal &amp; die Möglichkeit die Funktion vorzeitig abzubrechen wurde bewusst nicht implementiert. Da das <strong>Script für Gnome</strong> gedacht ist, werden 10, 5, und eine Minute vor ablauf der Zeit entsprechende Gnome-Notifications angezeigt.
 
+	{% highlight python %}
 	#!/usr/bin/env python
 	# -*- coding: utf-8 -*-
 	#       Simple shutdown timer-script for gnome to actually shut the computer down sometimes ;p
@@ -87,6 +88,7 @@ Mein erstes Script in Python
 
 	if __name__ == '__main__':
 			main()
+	{% endhighlight %}
 
 Die <a href="http://www.ganz-sicher.net/scripts/myscripts/justInTimer">gesamte Datei gibt's auch hier</a> zum direkten Herunterladen. Vielleicht kann ja jemand etwas damit anfangen, über sonstige Anregungen freue ich micht natürlich wie gesagt auch immer. =)
 

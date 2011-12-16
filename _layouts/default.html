@@ -15,7 +15,9 @@
 
 	<!-- Scripts -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+    <script src="{{site.baseurl}}/random.js" type="text/javascript"></script>
     {% include js/flattr.html %} 
+    
 
 </head>
 <body>
@@ -36,7 +38,7 @@
 <header>
     
     <!-- Logo -->
-    <a href="{{site.baseurl}}/"><img id="logo" alt="Ganz-Sicher.net Blog" src="{{site.baseurl}}/images/logo.png" /></a>
+    <a href="{{site.baseurl}}/"><img id="logo" style="border:none;" alt="Ganz-Sicher.net Blog" src="{{site.baseurl}}/images/logo.png" /></a>
 
     <!-- Header links -->
     <nav>
@@ -47,7 +49,7 @@
    </nav>
 		    
     <!-- Slogan -->
-    <span id="slogan">/* TODO: Blog Slogan goes here */</span>
+    <span id="slogan"></span>
    
 </header>
 
@@ -62,9 +64,16 @@
 
    {% include bottomnotes.html %}
 
+	<!-- Bottom scripts-->
    {% include js/ganalytics.html %}
    
    {% include js/cleanup.html %}
+   
+   <script>
+   $(document).ready(function() {
+		getRandomSlogan();
+   });
+   </script>
 
 </body>
 </html>
