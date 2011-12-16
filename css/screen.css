@@ -277,6 +277,37 @@ ul.posts
 		margin: 0;
 		padding: 0;
 	}
+	
+	.date 
+	{
+		font-size: 12px;
+		font-style: italic;
+		border-top: 2px solid #CCC;
+		padding-left: 3px;
+		margin-left: 10px;
+		float: right;
+		background-color: whiteSmoke;
+		color: #555;
+	}
+	.date:after
+	{
+		clear: right;
+	}
+
+	#articleinfo 
+	{
+		font-family: 'Muli', sans-serif;
+		font-size: 11px;
+		padding: 2px 15px 2px 35px;
+		margin: 0;
+		-moz-border-radius: 2px; /* Firefox */       
+		-webkit-border-radius: 2px; /* Safari, Chrome */       
+		-khtml-border-radius: 2px; /* Konqueror */;  
+		border-radius: 2px /* opera */;
+		background: #F8F8F8 url(http://ganz-sicher.net/blog/images/icons/arrow_right.png);
+		background-repeat: no-repeat;
+		background-position: 10px 0px;
+	}
 
 /*****************************************************************************/
 /*

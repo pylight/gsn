@@ -7,8 +7,8 @@ function getRandomSlogan()
 	/* fill the new array */
 	slogans =   
 	[
-		"Everything that matters - and a little bit more. ;)",
-		"About Problems, solutions and new problems produced by solutions",
+		"everything that matters - and a little bit more. ;)",
+		"about problems, solutions and new problems produced by solutions",
 		"Über die Welt, das Universum und den ganzen Rest...",
 		"...aus 100%ig recyclebaren Pixeln zusammengesetzt.",
 		"Beim Aufruf dieses Blogs werden keine Tiere gefährdet!",
@@ -17,7 +17,7 @@ function getRandomSlogan()
 		"...ist immerhin nicht für den Klimawandel verantwortlich.",
 		"Völliger Blödsinn. Aber konsequent.",
 		"Sinnlose Blogslogans sind doof!",
-		"Linux, Freeware, Coding & der ganze Rest.. :)",
+		"Linux, Freeware, Coding und der ganze Rest.. :)",
 		"Bekleben Verboten!",
 		"0101010",
 		"// Normal funktioniert's aber!",

@@ -8,9 +8,10 @@ layout: default
 </div>
 
 <div id="prepost">
-<h1>{{ page.title }}</h1>
-
+<h1>{{ page.title }}</h1> 
+<span id="articleinfo">Artikel vom {{ page.date | date:"%d.%m.%Y" }}, <b>Bereich</b>: {{ page.category }}</span>
 </div>
+
 <div id="post">
 {{ content }}
 </div>
