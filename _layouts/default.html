@@ -30,7 +30,7 @@
 		<span id="stalknote">stalk me here ----&gt;</span> 
 		<a href="https://github.com/pylight/" title="see my projects on github" id="githublink"><img src="{{site.baseurl}}/images/icons/egobox/github.png" alt="github"/></a> 
 		<a href="https://twitter.com/#!/GanzSicherNet" title="follow me on twitter" id="twitterlink"><img src="{{site.baseurl}}/images/icons/egobox/twitter.png" alt="twitter"/></a> 
-		<a href="http://feeds.feedburner.com/GanzSicherNet" title="get blog RSS-Feed" id="rsslink"><img src="{{site.baseurl}}/images/icons/egobox/rss.png" alt="rss"/></a>  
+		<a href="http://feeds.feedburner.com/GanzSicherNet" title="subscribe my RSS-Feed" id="rsslink"><img src="{{site.baseurl}}/images/icons/egobox/rss.png" alt="rss"/></a>  
 		<a href="http://gsn.idea.informer.com/" title="give me feedback!" id="feedbacklink">Feedback</a> 
 	</div>
 
@@ -44,6 +44,7 @@
     <nav>
     <a class="extra" href="{{site.baseurl}}/">/home</a> · 
     <a class="extra" href="{{site.baseurl}}/archive.html">archive</a> ·
+    <a class="extra" href="{{site.baseurl}}/licence.html">licence</a> · 
     <a class="extra" href="/enter/impressum.html">impress</a> · 
     <a class="extra" href="{{site.baseurl}}/about.html">about</a>
    </nav>
@@ -56,7 +57,7 @@
   {{ content }}
   
   <div class="footer">
-     &copy; 2009 - 2011 <a href="/">Ganz-Sicher.Net Blog</a> · proudly powered by <a href="http://jekyllrb.com/">jekyll</a> & <a href="http://validator.w3.org/check/referer">optimized</a> for HTML5<br />
+     &copy; 2009 - {{ site.time | date:"%Y" }} <a href="/">Ganz-Sicher.Net Blog</a> · proudly powered by <a href="http://jekyllrb.com/">jekyll</a> & <a href="http://validator.w3.org/check/referer">optimized</a> for HTML5<br />
 	  my blog content is licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/3.0" target="_blank">creative commons license</a>
 	  
   </div>
