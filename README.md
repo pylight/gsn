@@ -7,15 +7,12 @@ I was tired of having my blog posts end up in a database off on some remote serv
 
 ToDos (Wordpress migration)
 ============================
-* article categories + permalinks like wordpress
-* index page: article previews (using <!-- more --> tag)
-* create pages: impress, contact, blogroll, licence info, top/recommended articles, about page, sitemap/archive, stats page
-* maybe a "tags"-feature
+* article category overview + better archive page
+* create pages: contact, blogroll, top/recommended articles, sitemap, stats page
 * improve css settings (fonts, tables etc.)
 * media plugin to embed videos from youtube or vimeo more easily (maybe [https://gist.github.com/1455726](https://gist.github.com/1455726))
 * open extern links in a new tab (e.g. [http://blog.jodet.com/jekyll-and-node/](http://blog.jodet.com/jekyll-and-node/))
-* blog search-function
-* random slogan
+* blog search-function (using [https://github.com/PascalW/jekyll_indextank](https://github.com/PascalW/jekyll_indextank))
 
 License
 =======
