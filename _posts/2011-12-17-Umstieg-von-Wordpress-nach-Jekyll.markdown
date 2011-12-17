@@ -48,7 +48,8 @@ Da das sehr unterschiedliche Dinge waren, musste ich die Posts nachträglich als
 "Baseurl"-Probleme
 ------------------
 Mein Blog liegt nicht im Hauptverzeichnis des Webservers sondern im Unterordner /blog/. Wenn das der Fall ist, muss das bei jekyll konkret angegeben werden, daher verwende ich in meiner jekyll Konfigurationsdatei (_config.yml) die Einstellung 
-> baseurl: /blog
+> baseurl: /blog 
+>
 > url: http://ganz-sicher.net/blog
 Bei allen Adressen (z.B. beim href-Attribut von Links) muss zusätzlich ein <code>&#123;&#123;site.baseurl&#125;&#125;</code> vorangestellt werden. Bei Bilder in Artikeln verwende ich die direkte Adresse (also mit vorangestelltem <code>&#123;&#123;site.url&#125;&#125;</code>, damit diese auch mit dem RSS-Feed ([Feedburner](http://feeds.feedburner.com/GanzSicherNet), [siehe auch](http://www.slightlytallerthanaverageman.com/2010/02/22/jekyll-feedburner-and-global-urls/)) funktionieren. Diese Einstellungen hatte ich beim Ersten durchgehen der Artikel nicht bedacht. Glücklicherweise kann man bekannte Linuxtools verwenden um die Dateien zu verändern, also konnte ich das auch nachträglich lösen per:
 
