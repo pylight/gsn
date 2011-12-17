@@ -1,12 +1,12 @@
 ---
-Layout: post
+layout: post
 title: Umstieg von Wordpress nach Jekyll
 date: 2011-12-17
 category: blognews
 ---
-
 Mein Blog hat sich in den letzten Tagen ziemlich verändert. Der dafür Grund ist, dass ich [Wordpress](http://wpde.org/) verlasse und hier in Zukunft auf ein neues Tool mit dem schönen Namen [jekyll](http://jekyllrb.com/) setzen werde! :) Dieser Artikel fasst meine Beweggründe und Erfahrungen bisher zusammen.
 <!--more-->
+
 Was ist Jekyll?
 ===============
 Oh richtig, das hatte ich ja noch gar nicht gesagt. Jekyll ist ein in Ruby geschriebener Postgenerator von Tom Preston-Werner (github.com cofounder):
@@ -104,4 +104,3 @@ Artikel, die mir beim Umstieg geholfen haben
 Interesse geweckt?
 ==================
 Für Fragen bezüglich Jekyll stehe ich natürlich gerne zur Verfügung. Außerdem freue ich mich über eure Reaktionen: Wie gefällt euch der neue Blog?
-
