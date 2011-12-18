@@ -3,21 +3,21 @@ layout: default
 title: About Ganz-Sicher!net
 ---
 
-<div class="bighead">Was zum Teufel ist Ganz-Sicher.net?</div>
+<div class="nicehead"><span class="nice">About this Blog</span> <span class="niceinfo">(German)</span></div>
 Ganz-Sicher.net ist ein privates Blog (oder sind Blogs doch [männlich](http://www.scilogs.de/wblogs/blog/sprachlog/sprachgebrauch/2011-08-25/das-blog-ist-tot-es-lebe-der-blog)...?) zu verschiedenen – hauptsächlich digitalen und netz-relevanten – Themen.
 
-Hier blogge &amp; sammle ich (Sven aus DE, zur Zeit Student – Technische Informatik, Bachelor in Process) Themen, die mich persönlich interessieren oder die ich für erwähnenswert halte.
+Hier blogge &amp; sammle ich (Sven aus DE, zur Zeit Student – Technische Informatik, Bachelor in process) Themen, die mich persönlich interessieren oder die ich für erwähnenswert halte.
 
-Mach mit!
----------
+<div class="bighead">Mach mit!</div>
 Das Netz ist ein *aktives Medium* – Anregungen und [Feedback](http://gsn.idea.informer.com) sind daher auch bei mir jederzeit willkommen! Wenn du etwas zu einem bestimmten Artikel im Blog beitragen möchtest, findest du deshalb auch eine Kommentarfunktion unter jedem Artikel.
 
-<div class="bighead">About me – iLike³</div>
-* **IT:** Programmierung (C++/Python), Linux &amp; OpenSource
-* **Musik:** Drum and Bass, Indie-Rock, gute Musik die sich vom MainStream-Zeugs abhebt :]
-* **Sport:** Moutain-Biking
+<div class="nicehead"><span class="nice">About me – iLike³</span> </div>
+* What I like:
+	* **IT:** Programmierung (C++/Python), Linux &amp; OpenSource
+	* **Musik:** Drum and Bass, Indie-Rock, gute Musik die sich vom MainStream-Zeugs abhebt :]
+	* **Sport:** Moutain-Biking
 
-<div class="bighead">Warum blogge ich? Oder: Interview mit mir selbst über den Grund dieses Blogs</div>
+<div class="nicehead"><span class="nice">Warum blogge ich? Oder: Interview mit mir selbst über den Grund dieses Blogs!</span></div>
 <blockquote style="line-height: 1.2;">
 <pre>-- Chatlog BEGIN --</pre>
 <pre><strong>&lt;anonymerFragesteller&gt;</strong> also wieso genau bloggst du?
@@ -30,9 +30,10 @@ Das Netz ist ein *aktives Medium* – Anregungen und [Feedback](http://gsn.idea.
 <pre>-- Chatlog END --</pre>
 </blockquote>
 
-<div class="bighead">Mit welchen Themen beschäftigt sich dieses Blog?</div>
-* Linktipps, Video-Clips, interessantes, lustiges, satirisches,…
-* diverse Tutorials rund um Web &amp; IT&nbsp; (hauptsächlich für Linux-Systeme)
-* empfehlenswerte Freeware/Software &amp; Tipps dazu
-* Coding, Scripting und Webdesign
-* … (Dinge, die mir sonst so über den Weg laufen)
+<div class="nicehead"><span class="nice">about:Blog - Themen</span></div>
+* Diese Blog enthält Spuren von:
+	* Linktipps, Video-Clips, interessantes, lustiges, satirisches,…
+	* diverse Tutorials rund um Web, Technik, Linux und OpenSource
+	* Softwaretipps & -tricks
+	* Coding, Scripting und Webdesign
+	* … (Dinge, die mir sonst so über den Weg laufen)

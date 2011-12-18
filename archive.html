@@ -4,7 +4,9 @@ title: Ganz-Sicher.net Blog!
 ---
 
 <div id="home">
-  <h1>Blog Posts (German)</h1>
+
+  <div class="nicehead"><span class="nice">Blog Archive</span> <span class="niceinfo">(all posts)</span></div>
+
   <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>

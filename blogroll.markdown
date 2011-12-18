@@ -3,7 +3,7 @@ layout: default
 title: Ganz-Sicher!net Blog - Licence
 ---
 
-<div class="bighead">Ganz-Sicher.net Blogroll</div>
+<div class="nicehead"><span class="nice">Blogroll</span> <span class="niceinfo">(German blog linklist)</span></div>
 
 Meine Linktipps
 ----------------
@@ -59,13 +59,11 @@ Linux und OpenSource
 *	[maroony.de][33]
 *   [Picomol.de][34]
 *   [Suckup IT-Blog][35]
-*   [Webupd8][36]
  [31]: http://blog.dsiw-it.de/
  [32]: http://linuxundich.de/
  [33]: http://maroony.de/
  [34]: http://picomol.de/
  [35]: http://suckup.de/
- [36]: http://www.webupd8.org/
 
 
 Eventuell interessieren dich auch meine Podcasttipps?
