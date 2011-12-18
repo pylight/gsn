@@ -11,12 +11,12 @@ function getRandomSlogan()
 		"...über das WehWehWeh und mehr!",
 		"Web 2.0 von seiner unmenschlichsten Seite.",
 		"Völliger Blödsinn. Aber konsequent.",
-		"Linux && OpenSource && Coding == Fun",
+		"Linux + OpenSource + Coding == Fun",
 		"Bekleben Verboten!",
 		"0101010",
 		"// Normal funktioniert's aber!",
 		"Relax, its only ONES and ZEROS!",
-		"Any fool can use a computer. Many do...",
+		"Almost as good as beer.",
 		"Ein weiteres Blog über Pinguin-Fetisch"
 	];
 	
