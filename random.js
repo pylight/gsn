@@ -7,7 +7,7 @@ function getRandomSlogan()
 	/* fill the new array */
 	slogans =   
 	[
-		"...aus 100%ig recyclebaren Pixeln zusammengesetzt.",
+		"...aus 100%ig recyclebaren Pixeln!.",
 		"...über das WehWehWeh und mehr!",
 		"Web 2.0 von seiner unmenschlichsten Seite.",
 		"Völliger Blödsinn. Aber konsequent.",
