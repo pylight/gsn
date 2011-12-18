@@ -7,13 +7,11 @@ function getRandomSlogan()
 	/* fill the new array */
 	slogans =   
 	[
-		"everything that matters - and a little bit more. ;)",
-		"Über die Welt, das Universum und den ganzen Rest...",
 		"...aus 100%ig recyclebaren Pixeln zusammengesetzt.",
 		"...über das WehWehWeh und mehr!",
 		"Web 2.0 von seiner unmenschlichsten Seite.",
 		"Völliger Blödsinn. Aber konsequent.",
-		"Linux, Freeware, Coding und der ganze Rest.. :)",
+		"Linux && OpenSource && Coding == Fun",
 		"Bekleben Verboten!",
 		"0101010",
 		"// Normal funktioniert's aber!",
