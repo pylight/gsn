@@ -584,6 +584,7 @@ div.imageinfo
     height: 110px;
     opacity: 0.6;
     border-top: 3px solid grey;
+    border-bottom: 3px solid grey;
     font-family: 'Muli', sans-serif;
 	overflow: hidden;
 }

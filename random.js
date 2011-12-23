@@ -18,7 +18,8 @@ function getRandomSlogan()
 		"Relax, its only ONES and ZEROS!",
 		"Almost as good as beer.",
 		"it works! ...without apache :]",
-		"Ein weiteres Blog mit Pinguin-Fetisch"
+		"Ein weiteres Blog mit Pinguin-Fetisch",
+		"21 is only half of the truth!"
 	];
 	
 	/* get one random element */

@@ -17,7 +17,7 @@ Das Netz ist ein *aktives Medium* – Anregungen und [Feedback](http://gsn.idea.
 	* **Musik:** Drum and Bass, Indie-Rock, gute Musik die sich vom MainStream-Zeugs abhebt :]
 	* **Sport:** Moutain-Biking
 
-<div class="nicehead"><span class="nice">Warum blogge ich? Oder: Interview mit mir selbst über den Grund dieses Blogs!</span></div>
+<div class="nicehead"><span class="nice">Warum blogge ich?</span>  <span class="niceinfo">Oder: Interview mit mir selbst über den Grund dieses Blogs!</span></div>
 <blockquote style="line-height: 1.2;">
 <pre>-- Chatlog BEGIN --</pre>
 <pre><strong>&lt;anonymerFragesteller&gt;</strong> also wieso genau bloggst du?
@@ -31,7 +31,7 @@ Das Netz ist ein *aktives Medium* – Anregungen und [Feedback](http://gsn.idea.
 </blockquote>
 
 <div class="nicehead"><span class="nice">about:Blog - Themen</span></div>
-* Diese Blog enthält Spuren von:
+* Dieses Blog enthält Spuren von:
 	* Linktipps, Video-Clips, interessantes, lustiges, satirisches,…
 	* diverse Tutorials rund um Web, Technik, Linux und OpenSource
 	* Softwaretipps & -tricks
