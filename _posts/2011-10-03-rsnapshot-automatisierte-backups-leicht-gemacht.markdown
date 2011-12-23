@@ -53,6 +53,6 @@ Ich habe mir ein kleines Script geschrieben, damit meine Backuppartition (die ic
 
 Wer Interesse hat, darf das Script natürlich nach Belieben an die eigenen Bedürfnisse anpassen:
 
-* [Mein Backupscript auf Github](https://github.com/pylight/scripthub/blob/master/bash/dailybak.sh)
+* [Mein Backupscript auf Github](https://github.com/pylight/scripthub/tree/master/bash/dailybackup)
 
 Garantie, dass das Script immer funktioniert, gibt's natürlich nicht - Verbesserungsvorschläge sind immer willkommen! ;)
