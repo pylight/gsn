@@ -19,7 +19,7 @@ module Jekyll
 	
 		# find out provider and prepare url
 		def render(context)	
-			provider = URI.parse(@url).host
+			provider = URI.parse(URI.encode(@url)).host
 			
 			if provider == 'vimeo.com' || provider == 'www.vimeo.com'
 				vimeo_regexp = /^(?:http:\/\/)?(?:www\.)?vimeo\.com\/(\d+)/
