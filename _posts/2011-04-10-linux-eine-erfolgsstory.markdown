@@ -8,13 +8,7 @@ category: linux-distributionen
 ---
 Angesichts des baldigen 20. Geburtstags von Linux gibt es ein schönes Video von der <a href="http://www.linuxfoundation.org/20th/">Linux Foundation</a>:
 
-<object width="425" height="344">
-  <param name="movie" value="http://www.youtube.com/v/5ocq6_3-nEw"></param>
-  <param name="allowFullScreen" value="true"></param>
-  <embed src="http://www.youtube.com/v/5ocq6_3-nEw"
-  type="application/x-shockwave-flash" allowfullscreen="true"
-  width="425" height="344"></embed>
-</object>
+{% embed http://www.youtube.com/watch?v=5ocq6_3-nEw %}
 
 Da Linux erst am 26. August offiziell 20 Jahre alt wird, gratuliere ich mal <em>noch</em> nicht. (im Voraus bringt ja bekanntlich Unglück)
 Trotzdem danke für die Software, die heute <em>fast Jeder</em> unbewusst, ich im Speziellen bewusst &amp; gerne benutze. :)

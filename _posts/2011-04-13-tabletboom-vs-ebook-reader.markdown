@@ -10,7 +10,8 @@ Ich hatte ja in den letzten 2 Jahren immer mal mit dem Gedanken gespielt, mir ei
 <!--more-->
 
 Obwohl es zu Weihnachten 2010 erste Geräte unter 100€ gab, scheint es nach wie vor so, dass man für "anständige" Lesegeräte wie den <a href="http://www.amazon.com/Kindle-Wireless-Reader-Wifi-Graphite/dp/B003DZ1Y8Q">Amazon Kindle</a> oder der <a href="http://www.sony.de/product/rd-reader-ebook/prs650b.cew">Sony PRS 650</a> etwas mehr hinlegen muss. Nachdem ich jetzt aber die vielen positiven Bewertungen zum <a href="http://www.sony.de/product/rd-reader-ebook/prs650b.cew"><em>PRS 650</em></a> gelesen habe (im Vergleich zum Kindle mit TouchScreen für Notizen, Speicherkartenslots &amp; unterstützt mehr Formate), bin ich soweit, dass ich mir vorstellen kann, doch etwas mehr für den Spaß auszugeben.
-<object width="640" height="390"><param name="movie" value="http://www.youtube.com/v/23oN4YIPaPg&amp;rel=0&amp;hl=de_DE&amp;feature=player_embedded&amp;version=3" /><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><embed type="application/x-shockwave-flash" width="640" height="390" src="http://www.youtube.com/v/23oN4YIPaPg&amp;rel=0&amp;hl=de_DE&amp;feature=player_embedded&amp;version=3" allowfullscreen="true" allowscriptaccess="always"></embed></object>
+
+{% embed http://www.youtube.com/watch?v=23oN4YIPaPg %}
 
 (<a href="http://www.lesen.net/ereader/sony-reader-prs-650-touch-edition-im-test-4272/">Link zum Review auf lesen.net</a>)
 

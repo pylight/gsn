@@ -330,6 +330,10 @@ ul.posts
     padding: 0 .4em;
     overflow: auto;
     margin-bottom: 15px;
+	-moz-border-radius: 2px; /* Firefox */       
+	-webkit-border-radius: 2px; /* Safari, Chrome */       
+	-khtml-border-radius: 2px; /* Konqueror */;  
+	border-radius: 2px /* opera */;
   }
 
   #post ul,

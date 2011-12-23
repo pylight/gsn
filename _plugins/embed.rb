@@ -1,3 +1,10 @@
+# this litte jekyll plugin takes links from video sites and embeds these videos as html5 valid code in the posts
+# i found the html code (thanks!) here: http://www.brucelawson.co.uk/2009/html-5-flash-embedding-and-other-validation-erors/ 
+#
+# supported sites:
+#	- youtube.com
+#	- vimeo.com
+
 require 'uri'
 
 module Jekyll

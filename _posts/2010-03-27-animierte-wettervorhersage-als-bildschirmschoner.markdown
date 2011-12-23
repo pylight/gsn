@@ -11,7 +11,8 @@ Optisch schön animiert gibt das Programm Informationen über das aktuelle und k
 <!--more-->  
  
 Was ich mit “optisch schön” meine? Dieser Clip gibt einen recht guten Überblick: <br />
-<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/QItLw-0LFOE&amp;hl=en"></param><embed src="http://www.youtube.com/v/QItLw-0LFOE&amp;hl=en" type="application/x-shockwave-flash" width="425" height="355"></embed></object>
+
+{% embed http://www.youtube.com/watch?v=QItLw-0LFOE %}
 
 Das Programm kann normal gestartet oder auch als Bildschirmschoner festgelegt werden.
 

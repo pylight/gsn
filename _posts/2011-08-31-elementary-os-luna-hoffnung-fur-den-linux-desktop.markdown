@@ -19,26 +19,13 @@ Ehrgeizige Ziele
 ================
 Mitlerweile gehen die ehrgeizigen Pläne weiter: Die nächste Version 0.2 der Distribution "Elementary Luna" befindet sich noch im Alpha-Stadium, jedoch sehen erste <a href="http://www.youtube.com/watch?v=3kvmyDR7FCo&amp;feature=related">Performance-Videos</a> vielversprechend aus. Die Standard-Desktopanwendungen (beispielsweise auch der Dateimanager) werden von den Entwicklern selbst (neu) geschrieben und statt Gnome 3 wird die eigene Desktopumgebung Pantheon zum Einsatz kommen. Das folgende Video zeigt einige Features der kommenden Version:
 
-<object width="425" height="344">
-  <param name="movie" value="http://www.youtube.com/v/8o96Swc0PeA"></param>
-  <param name="allowFullScreen" value="true"></param>
-  <embed src="http://www.youtube.com/v/8o96Swc0PeA"
-  type="application/x-shockwave-flash" allowfullscreen="true"
-  width="425" height="344"></embed>
-</object>
-
+{% embed http://www.youtube.com/watch?v=8o96Swc0PeA %}
 
 Mehr Einstellungsmöglichkeiten als bei Gnome 3
 ===============================================
 Eine der häufigsten Kritikpunkte bei Gnome 3 sind die spartanischen Systemeinstellungen. Vieles muss über externe Tools wie das <a href="http://live.gnome.org/GnomeTweakTool">Gnome Tweak Tool</a> oder den gconf-editor eingestellt werden. Das Elementary-Team scheint einen anderen Ansatz zu vertreten und hat kürzlich ein System vorgestellt, mit dem es für Jeden einfach möglich sein soll, Elementarys Einstellungscenter "Switchboard" zu mit sogenannten Plugs zu erweitern:
 
-<object width="425" height="344">
-  <param name="movie" value="http://www.youtube.com/v/JF37THZoNsA"></param>
-  <param name="allowFullScreen" value="true"></param>
-  <embed src="http://www.youtube.com/v/JF37THZoNsA"
-  type="application/x-shockwave-flash" allowfullscreen="true"
-  width="425" height="344"></embed>
-</object>
+{% embed http://www.youtube.com/watch?v=JF37THZoNsA %}
 
 
 Im Blog <a href="http://elementaryos.org/journal/">Elementary Journal</a> gibt es bereits viele schöne Mockups, wie dies dann aussehen kann, 2 Beispiele:

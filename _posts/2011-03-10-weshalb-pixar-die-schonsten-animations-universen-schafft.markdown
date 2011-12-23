@@ -6,13 +6,7 @@ wordpress_url: http://ganz-sicher.net/blog/?p=1040
 date: 2011-03-10 10:37:20.000000000 +01:00
 category: fun
 ---
-<object width="425" height="344">
-  <param name="movie" value="http://www.youtube.com/v/UwoPtQevOTE"></param>
-  <param name="allowFullScreen" value="true"></param>
-  <embed src="http://www.youtube.com/v/UwoPtQevOTE"
-  type="application/x-shockwave-flash" allowfullscreen="true"
-  width="425" height="344"></embed>
-</object>
+{% embed http://www.youtube.com/watch?v=UwoPtQevOTE %}
 
 (via <a href="http://www.nerdtalk.de/2011/03/10/nerdtalk-episode-193/">nerdtalk</a>, thx!)
 
