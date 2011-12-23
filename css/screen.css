@@ -607,3 +607,15 @@ div.imageinfo
 #projektbox a {
     color: white;
 }
+
+#jswarning
+{
+	position: absolute;
+	left: 8px;
+	top: 10px;
+	color: red;
+	font-size: 15px;
+	padding: 3px;
+	border: 2px solid #ccc;
+	opacity: 0.6;
+}
