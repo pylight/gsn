@@ -8,10 +8,4 @@ category: fun
 ---
 Ein netter Werbespot &uuml;ber Apple-Fanboys, ganz gut auf den Punkt gebracht wie ich finde. ;)
 
-<object width="520" height="260">
-  <param name="movie" value="http://www.youtube.com/v/X4VHzNEWIqA"></param>
-  <param name="allowFullScreen" value="true"></param>
-  <embed src="http://www.youtube.com/v/X4VHzNEWIqA"
-  type="application/x-shockwave-flash" allowfullscreen="true"
-  width="520" height="260"></embed>
-</object>
+{% embed http://www.youtube.com/watch?v=X4VHzNEWIqA %}

@@ -9,4 +9,4 @@ title: Ganz-Sicher!net - 404 - Not Found
 * Make sure the adress is correct or try one of these links:
 	* [Blog Homepage]({{site.baseurl}})
 	* [Article Archive (German Blogposts)]({{site.baseurl}}/archive.html)
-	
+
