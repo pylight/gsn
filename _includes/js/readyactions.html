@@ -8,7 +8,7 @@
 		// open extenal links in a new tab            
 		var domain_root = document.location.protocol+'//'+document.location.host;
 		var all_links = $('a').each(function(index,element){
-		if(element.href.substr(0,domain_root.length) !== domain_root && element.href.substr(0,7) == 'http://')
+		if(element.href.substr(0,domain_root.length) !== domain_root && element.href.substr(0,4) == 'http')
 				element.target = '_blank';
 		});
 	});
