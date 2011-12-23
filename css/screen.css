@@ -553,6 +553,11 @@ a.imagelink
 	background-repeat: no-repeat;
 }
 	
+.video
+{
+	margin: 5px;
+}
+	
 #clearer
 {
 	clear: both;

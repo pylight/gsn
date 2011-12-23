@@ -9,12 +9,12 @@ module Jekyll
 	
 		# generate the html to embed the flash object
 		def makehtml(embedurl)
-		  html = 	"<object width=\"560\" height=\"344\" data=\"#{embedurl}\">
+		  html = 	"<div class=\"video\"><object width=\"560\" height=\"344\" data=\"#{embedurl}\">
 					<param name=\"movie\" value=\"#{embedurl}\" />
 					<param name=\"allowFullScreen\" value=\"true\" />
 					<param name=\"allowscriptaccess\" value=\"always\" />
 					<embed src=\"#{embedurl}\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"560\" height=\"344\" />
-					</object>"		
+					</object></div>"		
 		end
 	
 		# find out provider and prepare url
