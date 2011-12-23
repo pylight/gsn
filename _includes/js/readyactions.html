@@ -1,7 +1,16 @@
 <!-- doc. ready actions -->
 <script  type="text/javascript">
 	$('document').ready(function() {
-                $('#toolbox').fadeIn('slow');
-      });
+
+		// show the toolbox (left top area)
+		$('#toolbox').fadeIn('slow');
+		
+		// open extenal links in a new tab            
+		var domain_root = document.location.protocol+'//'+document.location.host;
+		var all_links = $('a').each(function(index,element){
+		if(element.href.substr(0,domain_root.length) !== domain_root)
+				element.target = '_blank';
+		});
+	});
 </script>
 
