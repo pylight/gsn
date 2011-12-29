@@ -4,7 +4,7 @@ title: Umstieg von Wordpress nach Jekyll
 date: 2011-12-17
 category: blognews
 ---
-Mein Blog hat sich in den letzten Tagen ziemlich verändert. Der dafür Grund ist, dass ich [Wordpress](http://wpde.org/) verlasse und hier in Zukunft auf ein neues Tool mit dem schönen Namen [jekyll](http://jekyllrb.com/) setzen werde! :) Dieser Artikel fasst meine Beweggründe und Erfahrungen bisher zusammen.
+Mein Blog hat sich in den letzten Tagen ziemlich verändert. Der Grund dafür ist, dass ich [Wordpress](http://wpde.org/) verlasse und hier in Zukunft auf ein neues Tool mit dem schönen Namen [jekyll](http://jekyllrb.com/) setzen werde! :) Dieser Artikel fasst meine Beweggründe und Erfahrungen bisher zusammen.
 <!--more-->
 
 Was ist Jekyll?

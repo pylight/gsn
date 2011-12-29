@@ -15,7 +15,7 @@ Das Netz ist ein *aktives Medium* – Anregungen und [Feedback](http://gsn.idea.
 * What I like:
 	* **IT:** Programmierung (C++/Python), Linux &amp; OpenSource
 	* **Musik:** Drum and Bass, Indie-Rock, gute Musik die sich vom MainStream-Zeugs abhebt :]
-	* **Sport:** Moutain-Biking
+	* **Sport:** Mountain-Biking
 
 <div class="nicehead"><span class="nice">Warum blogge ich?</span>  <span class="niceinfo">Oder: Interview mit mir selbst über den Grund dieses Blogs!</span></div>
 <blockquote style="line-height: 1.2;">

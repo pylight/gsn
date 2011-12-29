@@ -17,7 +17,7 @@ title: Ganz-Sicher.net Blog!
 	<div class="nicehead"><span class="nice">Die letzen 25 Artikel</span> <span class="niceinfo">(Textlinks)</span></div>
 	<ul class="posts">
     {% for post in site.posts limit:25 %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a> <span class="niceinfo" style="color: #dedede;">#{{ post.category }}</span></li>
     {% endfor %}
 	</ul>
 	<div id="archivehighlight"><span>Blog-Archiv</span> &raquo; <a href="archive.html" style="color: darkblue;">Alle Blogbeiträge zeigen</a></div>		
