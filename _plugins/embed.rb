@@ -46,4 +46,3 @@ module Jekyll
 end
 
 Liquid::Template.register_tag('embed', Jekyll::EmbedTag)
-

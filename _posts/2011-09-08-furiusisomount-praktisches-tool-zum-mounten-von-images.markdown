@@ -20,4 +20,4 @@ Installation
 
 **Archlinux (AUR):**
 	
-	yaourt -S furiusisomount</blockquote>
+	yaourt -S furiusisomount

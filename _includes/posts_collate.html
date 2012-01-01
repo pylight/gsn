@@ -1,0 +1,35 @@
+<!-- snippet is taken from http://jekyllbootstrap.com (https://github.com/plusjade/jekyll-bootstrap/blob/gh-pages/_includes/posts_collate.html) - thanks! -->
+
+{% for post in posts_collate %}
+  {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+  {% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
+  {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+  {% capture next_month %}{{ post.previous.date | date: "%B" }}{% endcapture %}
+  
+  {% if forloop.first %}
+  <div class="nicehead"><span class="nice">{{this_year}}</span></div>
+    <span class="bighead">{{this_month}}</span>
+    <ul class="posts">
+  {% endif %}
+  
+  <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a> <span class="niceinfo" style="color: #dedede;">#{{ post.category }}</span> </li>
+
+  {% if forloop.last %}
+    </ul>
+  {% else %}
+    {% if this_year != next_year %}
+      </ul>
+      <div class="nicehead"><span class="nice">{{next_year}}</span></div>
+      <span class="bighead">{{next_month}}</span>
+      <ul class="posts">
+    {% else %}
+      {% if this_month != next_month %}
+        </ul>
+        <span class="bighead">{{next_month}}</span>
+        <ul class="posts">
+      {% endif %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% assign posts_collate = null %}

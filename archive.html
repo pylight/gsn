@@ -4,12 +4,9 @@ title: Ganz-Sicher.net Blog!
 ---
 
 <div id="home">
+   <div class="nicehead"><span class="nice">Blog Archive</span> <span class="niceinfo">(all posts, German)</span></div>
+   Diese Seite enthält alle Artikel, die ich in meinem Blog geschrieben habe. Die Links sind absteigend nach Datum der Veröffentlichung sortiert.
 
-  <div class="nicehead"><span class="nice">Blog Archive</span> <span class="niceinfo">(all posts)</span></div>
-
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+   {% assign posts_collate = site.posts %}
+   {% include posts_collate.html %}
 </div>
