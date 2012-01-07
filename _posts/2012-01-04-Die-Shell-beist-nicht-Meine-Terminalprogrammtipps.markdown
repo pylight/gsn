@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Die Shell beißt nicht - Programmtipps
-date: 2012-01-07
+date: 2012-01-07 19:00:00
 category: linux-distributionen
 ---
 <img src="{{site.url}}/wp-content/uploads/terminal1.png " class="lefticon" />
