@@ -238,13 +238,17 @@ Zum Einstieg ist es wichtig zu wissen, dass es im Wesentlichen 2 Modi gibt: eine
 Speicherprobleme lösen
 ======================
 
-<em>Für die aktuelle Datei fehlen die nötigen Schreibrechte:</em>
-<blockquote>:shell     # wechseln in die Shell, ohne vim zu beenden
-chmod u+w filename.txt     # gibt dem aktuellen benutzer schreibrechte
-exit     # kehrt zu vim zurück
-:w!     # Dateiänderungen speichern</blockquote>
-<em>Für die Aktuelle Datei fehlen die Rootrechte (Konfigurationsdateien usw.):</em>
-<blockquote>:w !sudo tee %</blockquote>
+Für die aktuelle Datei fehlen die nötigen Schreibrechte:
+
+      :shell     # wechseln in die Shell, ohne vim zu beenden
+      chmod u+w filename.txt     # gibt dem aktuellen benutzer Schreibrechte
+      exit     # kehrt zu vim zurück
+      :w!     # Dateiänderungen speichern
+
+Für die Aktuelle Datei fehlen die Rootrechte (Konfigurationsdateien usw.):
+
+      :w !sudo tee %
+
 (tee schreibt standardausgabe in eine datei, in diesem Fall die aktuelle (%), alternativ kann nach dem tee befehl natürlich auch ein anderer Befehl angegeben werden)
 
 <em>Weiterführendes zu vim:</em>

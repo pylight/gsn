@@ -427,6 +427,7 @@ img.borderimg
 	padding: 7px;
 	margin: 5px;
 	background: white;
+	max-width: 750px;
 }
 
 img.centered

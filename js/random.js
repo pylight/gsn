@@ -19,8 +19,15 @@ function getRandomSlogan()
 		"Almost as good as beer.",
 		"it works! ...without apache :]",
 		"Ein weiteres Blog mit Pinguin-Fetisch",
-		"21 is only half of the truth!"
-	];
+		"21 is only half of the truth!",
+                "..is the world ready for this??",
+                "now without evil ads!",
+                "Only 45% obsolete",
+                "Generating slogans since 2009!",
+                "KISS my Arch",
+                "...feels like 127.0.0.1",
+                "Makepkg, not war!"
+         ];
 	
 	/* get one random element */
 	var randValue = Math.floor(Math.random() * slogans.length );

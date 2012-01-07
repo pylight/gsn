@@ -86,6 +86,7 @@ Weitere Links
 =============
 * [Eventseite des 28. Chaos Communication Congress (28c3)](http://events.ccc.de/congress/2011/wiki/Main_Page)
 * [YouTube-Kanal mit fast allen Vorträgen des 28c3](http://www.youtube.com/user/28c3)
+* [Aufnahmne auf dem CCC-Server zum Download](http://ftp.ccc.de/congress/2011/)
 * [Congress-Fahrplan (mit Übersicht der Vorträge)](http://events.ccc.de/congress/2011/Fahrplan/)
 
 Eure Empfehlungen?
