@@ -88,7 +88,7 @@ Powertop (2)
 ------------
 [Powertop](http://www.lesswatts.org/projects/powertop/) bietet einige Tipps und Tweaks, um den Energieverbrauch unter Linux zu reduzieren. Besonders Laptop-Nutzer sollten dieses Tool auf der Liste haben. Die stable-Version von Powertop ist bereits recht alt, die Beta von Powertop 2 funktioniert bei mir jedoch reibungslos und hat sich auch in Sachen Übersichtlichkeit verbessert.
 
-lof 
+lsof 
 -----
 [lsof](http://wiki.ubuntuusers.de/lsof) listet die geöffneten Dateien aller Prozesse auf, kann aber auch verwendet werden, um offene Netzwerkverbindungen anzuzeigen. Beispielsweise zeigt der nachfolgende Befehl die offenen Verbindungen des Benutzers http (der Benutzer des Apache Webservers unter Archlinux) an:
 
