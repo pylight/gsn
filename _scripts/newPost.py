@@ -18,7 +18,7 @@ from subprocess import Popen
 # globals
 version = "0.1"
 useCategories = True
-defaultEditor = "geany"
+defaultEditor = "gedit"
 postsDir = "/srv/http/jekyll/_posts/"
 fileType = "markdown"
 
@@ -68,7 +68,8 @@ def main():
 	
 	# Date
 	curdate = datetime.now()
-	postdate = rlinput("NewPost Date: ", curdate.strftime("%Y-%m-%d"))
+	postdate = rlinput("NewPost Date: ", curdate.strftime("%Y-%m-%d %H:%M"))
+	fileDate = postdate[:10] # don't include time in filename 
 	
 	# Category
 	if useCategories:
@@ -79,7 +80,7 @@ def main():
 	postContent = generatePost(title, postdate, category)
 
 	# create the file
-	filename = prepareFilename(postdate, title)
+	filename = prepareFilename(fileDate, title)
 
 	path = postsDir + filename + "." + fileType
 	print("creating " + path)
