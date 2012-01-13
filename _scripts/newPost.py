@@ -69,8 +69,10 @@ def main():
 	# Date
 	curdate = datetime.now()
 	postdate = rlinput("NewPost Date: ", curdate.strftime("%Y-%m-%d %H:%M"))
-	fileDate = postdate[:10] # don't include time in filename 
-	
+	# don't include time in filename 
+	splitName = postdate.split(" ", 1)
+	fileDate = splitName[0]
+
 	# Category
 	if useCategories:
 		category = input("NewPost Category: ")

@@ -179,7 +179,9 @@ Netzwerkanalyse: tcpdump, nmap
 ------------------------------
 Mit [Tcpdump](http://www.tcpdump.org/) lässt sich - ählich wie mit dem GUI-Tool [Wireshark](http://www.wireshark.org/) der Netzwerkverkehr ausgeben und analysieren. Dank der Konsole kann man hier die Ergebnisse auf einfach Weise filtern. Beispielsweise könnte man den Verkehr auf Port 80 (HTTP Protokoll) überwachen mit:
 
-	tcpdump -i eth0 'port 80'
+{% highlight bash %}
+tcpdump -i eth0 'port 80'
+{% endhighlight %}
 
 Mit [nmap](http://nmap.org/) steht auf der Konsole ein guter Portscanner zur Verfügung.
 
@@ -211,7 +213,9 @@ logger
 ------
 Will man für eigene Scripts Logs nach /var/log schreiben, so ist das mit dem Befehl logger sehr einfach möglich. Durch ein simples 
 
-	logger "Script xy war erfolgreich."
+{% highlight bash %}
+logger "Script xy war erfolgreich."
+{% endhighlight %}
 
 Wird z.B. eine passende Meldung mit der Nennung des aktuellen Benutzers an die /var/log/messages.log angehängt.
 
@@ -220,24 +224,28 @@ w3m
 ---
 Bei [w3m](http://w3m.sourceforge.net/) handelt es sich um einen sehr simplen Webbrowser, mit dem man sich z.B. den Text einer Website auf der Konsole ausgeben lassen kann. Beispiel:
 
-	$ w3m -dump istwulffnochimamt.de | head -3
-	Ist Wulff noch im Amt?
+{% highlight bash %}
+$ w3m -dump istwulffnochimamt.de | head -3
+Ist Wulff noch im Amt?
 
-	Ja.
+Ja.
+{% endhighlight %}
 
 Damit lassen sich aber natürlich auch sehr viel sinnvollere Dinge anstellen. Eine interessante Idee habe ich z.B. bei [Natenom´s Blog](http://natenom.name/tag/worterbuch/) gefunden, nämlich die Umsetzung von  Wörterbuchabfragen über die Konsole mittels w3m. Dafür habe ich folgende Funktionen in meine ~/.zshrc (benutzt man Bash als Shell wäre es die ~/.bashrc) eingetragen:
 
-	function dict() {
-	 w3m -dump "http://pocket.dict.cc?s=\"$*\"" | sed -r -e '/^([ ]{5,}.*)$/d' -e '1,2d' -e '/^$/d' -e '/^\[/d'
-	}
+{% highlight bash %}
+function dict() {
+ w3m -dump "http://pocket.dict.cc?s=\"$*\"" | sed -r -e '/^([ ]{5,}.*)$/d' -e '1,2d' -e '/^$/d' -e '/^\[/d'
+}
 
-	function leo() {
-	 w3m -dump "http://pda.leo.org/?search=\"$*\"" | sed -n -e :a -e '1,9!{P;N;D;};N;ba' | sed -e '1,14d'
-	}
-	
-	function leofr(){
-	 w3m -dump "http://pda.leo.org/?lp=frde&search=\"$*\"" | sed -n -e :a -e '1,9!{P;N;D;};N;ba' | sed -e '1,14d'
-	}
+function leo() {
+ w3m -dump "http://pda.leo.org/?search=\"$*\"" | sed -n -e :a -e '1,9!{P;N;D;};N;ba' | sed -e '1,14d'
+}
+
+function leofr(){
+ w3m -dump "http://pda.leo.org/?lp=frde&search=\"$*\"" | sed -n -e :a -e '1,9!{P;N;D;};N;ba' | sed -e '1,14d'
+}
+{% endhighlight %}
 
 Somit kann ich nun komfortabel und schnell nach Begriffen suchen, ohne extra die jeweilige Seite im Browser ansteuern zu müssen: 
 
