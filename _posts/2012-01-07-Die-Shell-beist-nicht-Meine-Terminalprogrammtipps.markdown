@@ -34,11 +34,15 @@ Seit einiger Zeit benutze ich nicht mehr das Standardterminal von Gnome, sondern
 
 Installation - Archlinux:
 ---------------------------
-	pacman -S rxvt-unicode
+{% highlight bash %}
+$ sudo pacman -S rxvt-unicode
+{% endhighlight %}
 
 Installation - Ubuntu/Debian (universe):
 ----------------------------------------
-	apt-get install rxvt-unicode-256color
+{% highlight bash %}
+$ sudo apt-get install rxvt-unicode-256color
+{% endhighlight %}
 
 zsh - die bessere Shell
 -----------------------
@@ -92,7 +96,9 @@ lsof
 -----
 [lsof](http://wiki.ubuntuusers.de/lsof) listet die geöffneten Dateien aller Prozesse auf, kann aber auch verwendet werden, um offene Netzwerkverbindungen anzuzeigen. Beispielsweise zeigt der nachfolgende Befehl die offenen Verbindungen des Benutzers http (der Benutzer des Apache Webservers unter Archlinux) an:
 
-	sudo lsof -a -i -u http    
+{% highlight bash %}
+$ sudo lsof -a -i -u http    
+{% endhighlight %}
 
 pmap
 ----
@@ -119,7 +125,9 @@ PDF-Dateien: pdfjam & pdftk
 -----------------------------
 Wer wie ich in einer von Windows beherrschten Welt unbeirrrt Linux als Hauptsystem einsetzt, hat bei Worddokumenten das Problem, dass diese auf jedem System verschieden aussehen können. Glücklicherweise kann mit Dateien im PDF-Format nicht viel schief gehen, weshalb das mein beforzugtes Format ist, wenn ich Dokumente an andere Personen schicke. Das Bearbeiten oder Zusammenstellen von PDFs geht oft über die Kommandozeile am schnellsten. Ich benutze dabei [pdfjam](http://freecode.com/projects/pdfjam) und [pdftk](http://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/), wobei sich pdfjam sehr gut eignet, um aus Bilddateien eine PDF zu bauen:
 
-	pdfjam *.jpg --outfile test.pdf
+{% highlight bash %}
+$ pdfjam *.jpg --outfile test.pdf
+{% endhighlight %}
 
 Das oben genannte imagemagick kann solche Dinge zwar auch, allerdings war bei mir Dateigröße und Qualität nie so zufriedenstellend wie bei pdfjam. pdftk ist ein recht umfangreiches Toolkit für typische Anwendungsfälle mit PDFs. (weitere Infos gibt's auf der [Homepage](http://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/))
 
@@ -180,7 +188,7 @@ Netzwerkanalyse: tcpdump, nmap
 Mit [Tcpdump](http://www.tcpdump.org/) lässt sich - ählich wie mit dem GUI-Tool [Wireshark](http://www.wireshark.org/) der Netzwerkverkehr ausgeben und analysieren. Dank der Konsole kann man hier die Ergebnisse auf einfach Weise filtern. Beispielsweise könnte man den Verkehr auf Port 80 (HTTP Protokoll) überwachen mit:
 
 {% highlight bash %}
-tcpdump -i eth0 'port 80'
+$ tcpdump -i eth0 'port 80'
 {% endhighlight %}
 
 Mit [nmap](http://nmap.org/) steht auf der Konsole ein guter Portscanner zur Verfügung.
@@ -205,7 +213,9 @@ autojump
 Einer der häufigsten Befehle die man auf der Kommandozeile eintippt, dürfte der cd-Befehl zum Wechseln von Verzeichnissen sein. Oft arbeitet man aber dennoch in den gleichen Unterverzeichnissen. [Autojump](https://github.com/joelthelion/autojump/wiki) ist eine super Sache, denn das Tool merkt sich die benutzen Verzeichnisse beim cd-Befehl. (<code>jumpstat</code> zeigt die gespeicherten Pfade an) 
 Die Verzeichnisse erreicht man anschließend direkt ein einziges Schlüsselwort, das in dem Pfad vorkommt. Beispiel: Um neue Beiträge für dieses Blog zu schreiben, muss ich häufig in den Ordner <code>/srv/http/jekyll/_posts</code> wechseln. Nachdem ich das ein paar Mal getan habe, kennt autojump diesen Pfad und ich kann künftig einfach per 
 
-	j posts
+{% highlight bash %}
+$ j posts
+{% endhighlight %}
 
 in diesen Ordner springen.
 

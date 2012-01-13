@@ -33,16 +33,17 @@ Unter Gnome 3 ist der Networkmanager leider noch nicht ganz ausgereift was die V
 
 Hier der Code für die extension.js-Datei:
 
-	const Panel = imports.ui.panel;
-	function main() {
-		let i = Panel.STANDARD_TRAY_ICON_ORDER.indexOf('network');
-		
-		if (i == 0) 
-		{
-			Panel.STANDARD_TRAY_ICON_ORDER.splice(i,1);
-		}
-		
-		delete Panel.STANDARD_TRAY_ICON_
-		SHELL_IMPLEMENTATION['network'];
+{% highlight javascript %}
+const Panel = imports.ui.panel;
+function main() {
+	let i = Panel.STANDARD_TRAY_ICON_ORDER.indexOf('network');
+	
+	if (i == 0) 
+	{
+		Panel.STANDARD_TRAY_ICON_ORDER.splice(i,1);
 	}
-
+	
+	delete Panel.STANDARD_TRAY_ICON_
+	SHELL_IMPLEMENTATION['network'];
+}
+{% endhighlight %}

@@ -41,7 +41,9 @@ Import
 -------
 Das Importieren alter Wordpress-Artikel ist sehr gut [im Wiki beschrieben](https://github.com/mojombo/jekyll/wiki/blog-migrations) und funktionierte soweit auch gut. Leider hat der WYSIWYG-Editor von Wordpress häufig unnötigen HTML-Code erzeugt, also Dinge wie:
 
-	<p style="text-align: justify;"></p>
+{% highlight html %}
+<p style="text-align: justify;"></p>
+{% endhighlight %}
 
 Da das sehr unterschiedliche Dinge waren, musste ich die Posts nachträglich also doch noch von Hand bearbeiten. Teilweise hat mir dabei [Markdownify](http://milianw.de/projects/markdownify/demo.php) geholfen, das HTML-Text in Markdown-Markup umwandelt.
 
@@ -53,9 +55,11 @@ Mein Blog liegt nicht im Hauptverzeichnis des Webservers sondern im Unterordner 
 > url: http://ganz-sicher.net/blog
 Bei allen Adressen (z.B. beim href-Attribut von Links) muss zusätzlich ein <code>&#123;&#123;site.baseurl&#125;&#125;</code> vorangestellt werden. Bei Bilder in Artikeln verwende ich die direkte Adresse (also mit vorangestelltem <code>&#123;&#123;site.url&#125;&#125;</code>, damit diese auch mit dem RSS-Feed ([Feedburner](http://feeds.feedburner.com/GanzSicherNet), [siehe auch](http://www.slightlytallerthanaverageman.com/2010/02/22/jekyll-feedburner-and-global-urls/)) funktionieren. Diese Einstellungen hatte ich beim Ersten durchgehen der Artikel nicht bedacht. Glücklicherweise kann man bekannte Linuxtools verwenden um die Dateien zu verändern, also konnte ich das auch nachträglich lösen per:
 
-	cd _posts
-	sed -i 's/="\/wp-content/="{{site.url}}\/wp-content/g' *
-	
+{% highlight bash %}
+cd _posts
+sed -i 's/="\/wp-content/="{{site.url}}\/wp-content/g' *
+{% endhighlight %}
+
 Sehr zu Hilfe kommt mir auch die verbesserte Tab Completion bei [zsh](https://wiki.archlinux.org/index.php/Zsh) (ich benutze die alternative Shell zusammen mit [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)), denn nun kann ich im \_posts-Ordner einfach einen beliebigen Begriff aus dem Beitragstitel eingeben und die Tabtaste drücken und kann so sehr schnell die gesuchte Datei finden und bearbeiten.
 
 Kommentare nun mit disqus
