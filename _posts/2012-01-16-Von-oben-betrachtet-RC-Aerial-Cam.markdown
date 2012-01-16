@@ -8,4 +8,4 @@ Ein sehr sehenswertes Demo-Video von der fliegenden [RC Aerial Cam](http://www.r
 
 {% embed http://vimeo.com/30474274 %}
 
-Gefunden beim [technikblog](http://www.technikblog.ch/2011/11/geniale-luftaufnahmen-mit-rc-aerial-cam/#comments). [Update]: Wo wir schon bei schönen (Natur)aufnahmen sind: diese [Island-Videos](http://www.dertagundich.de/shutter-island-von-team-nine/) sind auch was für's Auge. 
+Gefunden beim [technikblog](http://www.technikblog.ch/2011/11/geniale-luftaufnahmen-mit-rc-aerial-cam/#comments). // Update: Wo wir schon bei schönen (Natur)aufnahmen sind: diese [Island-Videos](http://www.dertagundich.de/shutter-island-von-team-nine/) sind auch was für's Auge. 
