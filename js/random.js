@@ -26,7 +26,10 @@ function getRandomSlogan()
                 "Generating slogans since 2009!",
                 "KISS my Arch",
                 "...feels like 127.0.0.1",
-                "Makepkg, not war!"
+                "Makepkg, not war!",
+                "One day, this will feature a sane slogan",
+                "think different, use linux you must!",
+                "/* i'm going to fix this later */"
          ];
 	
 	/* get one random element */
