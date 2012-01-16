@@ -9,8 +9,7 @@ title: Ganz-Sicher.net Blog!
     {% for post in site.posts limit:5 %}
     <div class="blogexcerpt">
     <div><a class="bighead" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span class="date">{{post.date | date:"%d.%m.%Y"}}</span></div>
-      {{ post.content | postmorefilter }}
-      <div><a class="readmore" href="{{ site.baseurl }}{{ post.url }}">weiterlesen...</a></div>
+      {{ post.content | postmorefilter: post.url }}
       </div> 
     {% endfor %}
 

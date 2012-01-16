@@ -169,13 +169,13 @@ def main():
 		subprocess.check_output(addCmd, shell=True)
 
 	# git commit
-	print("Customize the git commit msg (leave empty to skip commit):")
+	print("\nCustomize the git commit msg (leave empty to skip commit):")
 	commitMsg = rlinput("", "A new Post! (" + fileName + ")")
 	if commitMsg != "":
 		subprocess.check_output(commitCmd + "\"" + commitMsg + "\"", shell=True)
 
 	# git push
-	confirmPush = input("Git push (origin/master) [Y/n] ")
+	confirmPush = input("\nGit push (origin/master) [Y/n] ")
 	if confirmPush not in ('n', 'no', 'N', 'No', 'NO'):
 		subprocess.check_output(pushCmd, shell=True)
 		print("\nDone. :) Now log in to your remote machine and run 'git pull' and 'jekyll' there!\n")
