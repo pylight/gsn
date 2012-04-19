@@ -7,15 +7,17 @@
   {% capture next_month %}{{ post.previous.date | date: "%B" }}{% endcapture %}
   
   {% if forloop.first %}
+  <div id="archive">  
   <div class="nicehead"><span class="nice">{{this_year}}</span></div>
     <span class="bighead">{{this_month}}</span>
     <ul class="posts">
   {% endif %}
   
-  <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a> <span class="niceinfo" style="color: #dedede;">#{{ post.category }}</span> </li>
+  <li><span class="archiveDate">{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a> <span class="niceinfo archiveTag" style="color: #dedede;">#{{ post.category }}</span> </li>
 
   {% if forloop.last %}
-    </ul>
+    </ul>    
+    </div>
   {% else %}
     {% if this_year != next_year %}
       </ul>
@@ -24,7 +26,7 @@
       <ul class="posts">
     {% else %}
       {% if this_month != next_month %}
-        </ul>
+        </ul>        
         <span class="bighead">{{next_month}}</span>
         <ul class="posts">
       {% endif %}

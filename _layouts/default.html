@@ -14,54 +14,52 @@
 	<link rel="stylesheet" href="{{site.baseurl}}/css/screen.css" type="text/css" media="screen, projection" />
 
 	<!-- Scripts -->
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
-    <script src="{{site.baseurl}}/js/random.js" type="text/javascript"></script>
-    <script src="{{site.baseurl}}/js/randomPost.js" type="text/javascript"></script>
-    {% include js/flattr.html %} 
-    
+	<script src="{{site.baseurl}}/js/jquery.min.js" type="text/javascript"></script>
+  <script src="{{site.baseurl}}/js/random.js" type="text/javascript"></script>
+  <script src="{{site.baseurl}}/js/randomPost.js" type="text/javascript"></script>
+  <script src="{{site.baseurl}}/js/jquery.bbq.min.js" type="text/javascript"></script>  
+  {% include js/flattr.html %} 
 
 </head>
 <body>
-	<!-- Tool- & Egobox :) -->
-	<div id="toolbox"><a href="javascript:void(0)" title="hide everything but content" id="cleanup">clean layout</a> <a href="javascript:void(0)" title="show a random blogpost" onclick="javascript:getRandomPost();" id="random">random post</a> 
-		  <span id="toolboxnote"> &lt;---- Toolbox!</span>
-	 </div>
 	 <noscript><span id="jswarning">You should activate JavaScript to enjoy this blog! ...orly? ya rly!</span></noscript>
-	 
 
-	<div id="egobox">
+<div class="site">
+<header>
+    <div id="egobox">
 		<span id="stalknote">stalk me here ----&gt;</span> 
 		<a href="https://github.com/pylight/" title="see my projects on github" id="githublink"><img src="{{site.baseurl}}/images/icons/egobox/github.png" alt="github"/></a> 
 		<a href="https://twitter.com/#!/GanzSicherNet" title="follow me on twitter" id="twitterlink"><img src="{{site.baseurl}}/images/icons/egobox/twitter.png" alt="twitter"/></a> 
 		<a href="http://feeds.feedburner.com/GanzSicherNet" title="subscribe my RSS-Feed" id="rsslink"><img src="{{site.baseurl}}/images/icons/egobox/rss.png" alt="rss"/></a>  
 		<a href="http://gsn.idea.informer.com/" title="give me feedback!" id="feedbacklink">Feedback</a> 
 	</div>
-
-<div class="site">
-<header>
-    
+	
     <!-- Logo -->
-    <a href="{{site.baseurl}}/"><img id="logo" style="border:none;" alt="Ganz-Sicher.net Blog" src="{{site.baseurl}}/images/logo.png" /></a>
+    <a href="{{site.baseurl}}/" id="logolink"><img id="logo" style="border:none;" alt="Ganz-Sicher.net Blog" src="{{site.baseurl}}/images/logo.png" /></a>
 
-    <!-- Header links -->
-    <nav>
-    <a class="extra" href="{{site.baseurl}}/">/home</a> · 
-    <a class="extra" href="{{site.baseurl}}/archive.html">archive</a> ·
-    <a class="extra" href="{{site.baseurl}}/licence.html">licence</a> · 
-    <a class="extra" href="{{site.baseurl}}/blogroll.html">blogroll</a> · 
-    <a class="extra" href="/enter/impressum.html">impress</a> · 
-    <a class="extra" href="{{site.baseurl}}/about.html">about</a>
-   </nav>
-		    
-    <!-- Slogan -->
-    <span id="slogan"></span>
+	<div>
+		<span id="slogan"></span>
+
+		<!-- Header links -->
+		<nav>
+		<a class="extra" href="{{site.baseurl}}/archive.html" style="border: none;">archive</a>
+		<a class="extra" href="{{site.baseurl}}/licence.html">licence</a> 
+		<a class="extra" href="{{site.baseurl}}/blogroll.html">blogroll</a> 
+		 <a href="javascript:void(0)" title="show a random blogpost" onclick="javascript:getRandomPost();" class="extra">random!</a>
+		<a class="extra" href="javascript:void(0)" title="hide everything but content" id="cleanup">clean layout</a>
+		<a class="extra" href="/enter/impressum.html">impress</a>
+		<a class="extra" href="{{site.baseurl}}/about.html">about</a>
+	   </nav>    
+    </div>
+   
+   <input type="search" name="query" id="query" placeholder="Search me!">
    
 </header>
 
   {{ content }}
   
   <div class="footer">
-     &copy; 2009 - {{ site.time | date:"%Y" }} <a href="/">Ganz-Sicher.Net Blog</a> · proudly powered by <a href="http://jekyllrb.com/">jekyll</a> & <a href="http://validator.w3.org/check/referer">optimized</a> for HTML5
+     &copy; 2009 - {{ site.time | date:"%Y" }} <a href="/">Ganz-Sicher.Net Blog</a> · proudly powered by <a href="http://jekyllrb.com/">jekyll</a> &amp; <a href="http://validator.w3.org/check/referer">optimized</a> for HTML5
 	  
 	  
   </div>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Libre Office - Start beschleunigen & Spashscreen deaktiveren
+title: Libre Office - Start beschleunigen &amp; Spashscreen deaktiveren
 wordpress_id: 1376
 wordpress_url: http://ganz-sicher.net/blog/?p=1376
 date: 2011-06-13 15:57:00.000000000 +02:00

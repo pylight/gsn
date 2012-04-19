@@ -29,7 +29,8 @@ function getRandomSlogan()
                 "Makepkg, not war!",
                 "One day, this will feature a sane slogan",
                 "think different, use linux you must!",
-                "/* i'm going to fix this later */"
+               "/* i'm going to fix this later */",
+               "The following sentence is false. The preceding sentence is true."
          ];
 	
 	/* get one random element */

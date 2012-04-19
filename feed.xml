@@ -7,9 +7,9 @@ layout: rss-feed
 		<title>{{ site.name }}</title>
 		<description>{{ site.description }}</description>
 		<link>{{ site.url }}</link>
-		{% for post in site.posts limit:15 %}
+		{% for post in site.posts %}
 			<item>
-				<title>{{ post.title }}</title>
+				<title>{{ post.title | xml_escape }}</title>
 				<description>{{ post.content | xml_escape }}</description>
 				<published>{{ post.date }}</published>
 				<link>{{ site.url }}{{ post.url }}</link>
