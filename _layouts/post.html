@@ -3,7 +3,9 @@ layout: default
 ---
 <!-- Jquery Site-Search -->
 <script src="{{site.baseurl}}/js/search.js" type="text/javascript"></script>
-<script>$(document).ready(function(){ $('#query').show(); $(window).trigger( 'hashchange' ); });</script>
+<script>$(document).ready(function(){ $('#query').show(); $(window).trigger( 'hashchange' ); 
+if(location.hash.indexOf("#disqus_thread") >= 0) {$('html, body').animate({scrollTop:$("#disqus_thread").offset().top}, 500);}
+});</script>
 
 <div id="searchresults">
 	<h3 id="searchtitle">Suchergebnis</h3>

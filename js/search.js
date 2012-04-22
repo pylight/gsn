@@ -80,7 +80,7 @@ function findEntries(q) {
 	// show the hidden result-div
 	$('#results').html(resultString);
 	$('#searchresults').show();
-
+	$('#query').focus();
 }
 
 
