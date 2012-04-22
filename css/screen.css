@@ -89,6 +89,7 @@ ul
 	top: 5px;
 	right: 15px;    
 	opacity: 0.5;
+	display: none;
 }
 
 #toolbox
@@ -695,10 +696,7 @@ div.imageinfo
 .spch-bub-inside {
   position: relative;
   float: right;
-}
-a.spch-bub-inside {
-  color: #ccc;
-  text-decoration: none;
+  display: none;
 }
 .spch-bub-inside em {
   font-style: normal;
