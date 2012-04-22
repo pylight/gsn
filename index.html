@@ -22,6 +22,7 @@ title: Ganz-Sicher.net Blog!
 	<!-- Jquery Site-Search -->
 	<script src="{{site.baseurl}}/js/search.js" type="text/javascript"></script>
 	<script>$(document).ready(function(){ $('#query').show(); $(window).trigger( 'hashchange' ); });</script>
+	
 
 	<div id="searchresults">
 		<h3 id="searchtitle">Suchergebnis</h3>
@@ -31,7 +32,7 @@ title: Ganz-Sicher.net Blog!
 
     {% for post in site.posts limit:5 %}
     <div class="blogexcerpt">
-    <div><a class="bighead" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span class="date">{{post.date | date:"%d.%m.%Y"}}</span></div>
+    <div><a class="bighead" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span class="date">{{post.date | date:"%d.%m.%Y"}}</span> <span class="spch-bub-inside"><span class="point"></span>  <em><a href="{{ site.url }}{{ post.url }}/#disqus_thread"></a></em></span></div>
       {{ post.content | postmorefilter: post.url }}
       </div> 
     {% endfor %}
@@ -45,3 +46,17 @@ title: Ganz-Sicher.net Blog!
 	<div id="archivehighlight"><span>Blog-Archiv</span> &raquo; <a href="archive.html" style="color: darkblue;">Alle Blogbeiträge zeigen</a></div>		
 
 </div>
+
+<!-- Disqus Count -->
+<script type="text/javascript">var disqus_shortname = 'ganzsichernet';
+
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+
+
+

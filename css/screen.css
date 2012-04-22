@@ -688,3 +688,44 @@ div.imageinfo
   -moz-border-radius: 3px;
   border-radius: 3px;    
 }
+
+/**** Speech Bubble Icons *****/
+/* from goo.gl/rOGBe - thanks! */
+
+.spch-bub-inside {
+  position: relative;
+  float: right;
+}
+a.spch-bub-inside {
+  color: #ccc;
+  text-decoration: none;
+}
+.spch-bub-inside em {
+  font-style: normal;
+}
+.spch-bub-inside em {
+  background: #ccc;
+  color: #FFF;
+  padding: 0 0.4em;
+  -moz-border-radius: 0.25em;
+  -webkit-border-radius: 0.25em;
+  border-radius: 0.25em;
+  position: relative;
+}
+.spch-bub-inside em a, .spch-bub-inside em a:link, .spch-bub-inside em a:hover, .spch-bub-inside em a:visited
+{
+	color: white;
+}
+.spch-bub-inside .point {
+  width: 0;
+  height: 0;
+  position: absolute;
+  top: 1.1em;
+  left: 0.4em;
+  display: block;
+  border-left: 0.45em solid #ccc; 
+  border-bottom: 0.45em solid #FFF; /* IE fix */
+  border-bottom: 0.45em solid rgba(0,0,0,0); 
+  overflow: hidden; /* IE fix */
+}
+
