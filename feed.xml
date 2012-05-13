@@ -11,7 +11,7 @@ layout: rss-feed
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
 				<description>{{ post.content | xml_escape }}</description>
-				<published>{{ post.date }}</published>
+				<published>{{ post.date | date: "%Y-%m-%d %H:%M:%S" }}</published>
 				<link>{{ site.url }}{{ post.url }}</link>
 			</item>
 		{% endfor %}
