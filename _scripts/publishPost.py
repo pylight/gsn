@@ -146,14 +146,16 @@ def main():
 		fileNameEnd = splitOldName[3]
 
 		# build new filename
-		newFileName = newFileDate + fileNameEnd
+		newFileName = newFileDate + "-" + fileNameEnd
 
 		# optional: rename file		
 		if newFileDate != oldFileDate:
 			print("The day of the post has changed (old: " + oldFileDate + ", new: " + newFileDate + ")")
+
 			confirmRename = input("Rename the filename to " + newFileName + "? [Y/n] ")
 			if confirmRename not in ('n', 'no', 'N', 'No', 'NO'):
 				os.rename(fileName, newFileName)
+				fileName = newFileName				
 
   # git status
 	print("\nGit status:")
