@@ -22,20 +22,18 @@ Installation
 =============
 Wenn ihr das Spiel per git laden wollt, wären die Befehle also:
 
-	apt-get install git                               # optional: git installieren falls nicht vorhanden
+	sudo apt-get install git                          # optional: git installieren falls nicht vorhanden
 	git clone git://github.com/chlange/jeopardy.git   # das Projekt herunterladen
 	cd jeopardy                                       # in das Spielverzeichnis wechseln
 	
-Zum Übersetzen des Quellcodes benötigt ihr g++ und qtcreator, z.B. unter Ubuntu/Linux Mint installierbar per:
+Zum Übersetzen des Quellcodes benötigt ihr g++, phonon und qtcreator, z.B. unter Ubuntu/Linux Mint installierbar per:
 
-	apt-get install qtcreator g++
+	apt-get install qtcreator g++ libphonon-dev
 	
 Ihr könnt das Project dann über das Terminal übersetzen mit:
 
 	qmake
 	make
-	
-*(bei Moc-fehlermeldungen eventuell die removeMocErrors.sh ausführen und die beiden letzten Schritte wiederholen)*
 
 Und die grafische Oberfläche starten mit:
 
