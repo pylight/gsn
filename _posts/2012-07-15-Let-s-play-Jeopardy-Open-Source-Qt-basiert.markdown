@@ -28,7 +28,7 @@ Wenn ihr das Spiel per git laden wollt, wären die Befehle also:
 	
 Zum Übersetzen des Quellcodes benötigt ihr g++, phonon und qtcreator, z.B. unter Ubuntu/Linux Mint installierbar per:
 
-	apt-get install qtcreator g++ libphonon-dev
+	sudo apt-get install qtcreator g++ libphonon-dev
 	
 Ihr könnt das Project dann über das Terminal übersetzen mit:
 
