@@ -13,10 +13,35 @@ Für alle die das Spiel/die Show nicht kennen, es ist schnell erklärt: Es gibt 
 Das Spiel macht natürlich mit mehreren Leuten am meisten Spaß - und im Idealfall lernt man sogar noch etwas beim Spielen. ;]
 
 Download
-==========
+========
 Das Spiel findet ihr (zusammen mit der zugehörigen Dokumentation im Wiki) auf Github:
 [https://github.com/chlange/jeopardy](https://github.com/chlange/jeopardy)
 Dort kann es als Git-Version oder [Zip-Archiv](https://github.com/chlange/jeopardy/tags) geladen werden. Das Spiel hat mittlerweile einen stabilen Status erreicht und wurde auch auf einer [Konferenz in Paris](http://www.youtube.com/watch?v=y6qF6n3erRY) schon erfolgreich getestet. Falls ihr trotzdem Probleme oder Fragen haben solltet, dürft ihr euch gerne hier im Kommentarbereich oder auf Github melden.
+
+Installation
+=============
+Wenn ihr das Spiel per git laden wollt, wären die Befehle also:
+
+	apt-get install git                               # optional: git installieren falls nicht vorhanden
+	git clone git://github.com/chlange/jeopardy.git   # das Projekt herunterladen
+	cd jeopardy                                       # in das Spielverzeichnis wechseln
+	
+Zum Übersetzen des Quellcodes benötigt ihr g++ und qtcreator, z.B. unter Ubuntu/Linux Mint installierbar per:
+
+	apt-get install qtcreator g++
+	
+Ihr könnt das Project dann über das Terminal übersetzen mit:
+
+	qmake
+	make
+	
+*(bei Moc-fehlermeldungen eventuell die removeMocErrors.sh ausführen und die beiden letzten Schritte wiederholen)*
+
+Und die grafische Oberfläche starten mit:
+
+	./jeopardy
+
+Alternativ könnt ihr das Projekt auch mit dem grafischen *qtcreator* übersetzen, indem ihr *qtcreator* startet und das Projekt über die Datei jeopardy.pro ladet.
 
 
 Jeopardy-Runden bauen
