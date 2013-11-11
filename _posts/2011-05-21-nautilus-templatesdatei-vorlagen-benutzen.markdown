@@ -22,7 +22,7 @@ Wie man sieht, wird der Dateiname im Kontexmenü angezeigt. Der Dateiinhalt wird
 Ein paar Template-Beispiele
 ============================
 Ich habe mal einige Dateivorlagen (siehe Screenshot unten) für häufig benötigte Dateitypen erstellt. Die Dateien müssen wie oben beschrieben in das Verzeichnis <strong>~/Templates</strong> entpackt werden.
-Das Archiv mit den Templates findet ihr unter [http://www.ganz-sicher.net/files/public/config/Nautilus-Templates.zip].
+Das Archiv mit den Templates findet ihr unter [http://www.ganz-sicher.net/files/public/config/Nautilus-Templates.zip](http://www.ganz-sicher.net/files/public/config/Nautilus-Templates.zip).
 
 
 <img class="borderimg centered" src="{{site.url}}/wp-content/uploads/Screenshot-Templates.png" alt="" width="675" height="525" />
