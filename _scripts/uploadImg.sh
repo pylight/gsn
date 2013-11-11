@@ -9,7 +9,7 @@
 ################
 # Variables
 ################
-sshArgs="gsn"			       # arguments for ssh/scp command to connect to the remote machine
+sshArgs="me-server@5.45.98.50"	       # arguments for ssh/scp command to connect to the remote machine
 uploadPath="jekyll/images/blog"	       # relative image path on remote machine (e.g. for cd command)
 jekyllDir="jekyll"		       # relative jekyll path on the remote machine
 finalPath="jekyll/_site/images/blog"   # the path where images should be after (re)generating the blog with jekyll
