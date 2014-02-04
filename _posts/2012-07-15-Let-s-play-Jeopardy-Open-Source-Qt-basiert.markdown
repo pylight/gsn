@@ -5,7 +5,7 @@ date: 2012-07-15 00:15
 category: linux-distributionen
 ---
 <img src="{{site.url}}/images/blog/icon.png" class="lefticon" alt="" />
-Es wird Zeit, dass ich mal ein wenig "Werbung" mache - für ein Spiel, dass ein Freund/Kommilitone von mir geschrieben hat und dass uns schon so einige Abende vor dem Beamer versüßt hat! =) Es handelt sich um eine Spiel-Umsetzung der bekannten ["Jeopardy!" Quiz Show](http://de.wikipedia.org/wiki/Jeopardy!). Die Software ist natürlich Open Source und durch die Benutzung des Qt-Frameworks auch auf Linux, Mac und Windows lauffähig. (Unter Windows sollte es *rein theoretisch* laufen, bisher hat sich noch niemand gefunden, der das auch zweifelsfrei beweisen wollte...)
+Es wird Zeit, dass ich mal ein wenig "Werbung" mache - für ein Spiel, dass ein Freund/Kommilitone von mir geschrieben hat und dass uns schon so einige Abende vor dem Beamer versüßt hat! =) Es handelt sich um eine Spiel-Umsetzung der bekannten ["Jeopardy!" Quiz Show](http://de.wikipedia.org/wiki/Jeopardy!). Die Software ist natürlich Open Source und durch die Benutzung des Qt-Frameworks auch auf Linux, Mac und Windows lauffähig. (<strike>Unter Windows sollte es *rein theoretisch* laufen, bisher hat sich noch niemand gefunden, der das auch zweifelsfrei beweisen wollte...</strike> [Windows: siehe Wiki-Eintrag](https://github.com/chlange/jeopardy/wiki/Windows))
 <!--more-->
 Jeopardy - Das Spielprinzip
 ============================
