@@ -9,7 +9,8 @@ category: software
 Mit Terminaltool <a href="http://www.semicomplete.com/projects/xdotool/">xdotool</a> lassen sich von der Konsole aus graphische (X-)Anwendungen bei Linux-Distributionen ändern. So können damit beispielsweise bestimmte Tastenkombinationen mehrfach per Script automatisiert werden, oder z.B. auch Fenster gesucht und deren Titel angepasst werden. Da das Tool ja selbst keine graphische Oberfläche benötigt, sind die Anwendungsfälle sehr vielfältig. Beispielsweise könnte man damit auch ein Script von einem anderen Rechner aus über ssh ansteuern und auf dem entfernten Rechner bestimmte Aufgaben ausführen lassen.
 
 Ich habe mir damit unter Gnome 3 (da hier Nautilus nicht die Desktopverwaltung übernimmt) mal ein kleines Script geschrieben, mit welchem man beim <strong>Dateimanager Nautilus neue Ordner in Tabs</strong> im aktuellen Fenster öffnen kann. Eine solche Funktionalität hat mir bisher gefehlt und gefühlt tausend offene Nautilus-Fenster sind nicht wirklich schön. ;)
-!--more-->
+<!--more-->
+
 
 Bash-Script "Opentab.sh"
 =========================

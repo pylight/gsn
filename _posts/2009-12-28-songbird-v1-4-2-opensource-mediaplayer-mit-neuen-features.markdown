@@ -6,9 +6,13 @@ wordpress_url: http://ganz-sicher.net/blog/?p=379
 date: 2009-12-28 01:46:28.000000000 +01:00
 category: software
 ---
-<p style="text-align: justify;"><a href="http://getsongbird.com/">Songbird</a> ist <a href="http://blog.songbirdnest.com/2009/12/22/songbird-1-4-2-is-posted/" target="_blank">vor kurzem in der neuen Version 1.4.2 erschienen</a> und da ich den Player selbst gerne einsetze, möchte ich in diesem Beitrag kurz die Vor- &amp; Nachteile des Programms vorstellen.</p>
+<a href="http://getsongbird.com/">Songbird</a> ist <a href="http://blog.songbirdnest.com/2009/12/22/songbird-1-4-2-is-posted/" target="_blank">vor kurzem in der neuen Version 1.4.2 erschienen</a> und da ich den Player selbst gerne einsetze, möchte ich in diesem Beitrag kurz die Vor- &amp; Nachteile des Programms vorstellen.
+
 <img style="float:right; margin-left: 20px;" title="songbird logo" src="{{site.url}}/wp-content/uploads/songbird_logo.png" alt="songbird logo" width="208" height="68" />
-<p style="text-align: justify;"><!--more-->Vorneweg: Der Player ist noch <em>vergleichsweise jung</em>: Die erste Version (v0.1) des <em>Singvogels</em> erschien Anfang 2006, die Finale Version 1.0 gibt es seit Ende 2008. Das Programm ist dementsprechend nach wie vor an einigen Stellen verbesserungswürdig und wird auch noch aktiv weiterentwickelt.</p>
+<!--more-->
+
+Vorneweg: Der Player ist noch <em>vergleichsweise jung</em>: Die erste Version (v0.1) des <em>Singvogels</em> erschien Anfang 2006, die Finale Version 1.0 gibt es seit Ende 2008. Das Programm ist dementsprechend nach wie vor an einigen Stellen verbesserungswürdig und wird auch noch aktiv weiterentwickelt.
+
 Trotzdem ist das Ziel der Entwickler, <em>nur</em> die Plattform für einen durch Plugins individuell anpassbaren Mediaplayer zu bieten. Da die Software auf <a href="http://de.wikipedia.org/wiki/XML_User_Interface_Language" target="_blank">Mozillas XUL</a> (wie z.B. auch der Mozilla Firefox) basiert und Plugins leicht integrierbar sind, könnte das klappen.
 
 <div style="text-align: center">

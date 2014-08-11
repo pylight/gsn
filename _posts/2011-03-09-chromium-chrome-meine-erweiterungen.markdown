@@ -11,8 +11,10 @@ category: software
 Googles Browser <a href="http://www.google.com/chrome">Chrome</a> gibt es mitlerweile in Version 10. Da ich festgestellt habe, dass ich mittlerweile fast komplett von Firefox auf Chrome umgestiegen bin (FF4 lässt ja noch auf sich warten.. :/ ), möchte ich auch mal meine Lieblingserweiterungen &amp; Hilfestellungen preisgeben.
 
 <!--more-->
+
 Erweiterungen
 ==============
+
 Linux: Problemfall Blogclient
 --------------------------------
 Abgesehen vielleicht von <a href="http://blogtk.jayreding.com/blog/">BloGTK</a> sieht es bei Linux-Distributionen vergleichsweise schlecht mit Blogclients für Wordpress aus. Die Erweiterung <a href="https://chrome.google.com/webstore/detail/elkkomimknapgodalnkjeddkjnjkfmfp">Scribefire</a> bietet für mich da einen guten Ersatz, weil sie sich auf's Nötigste beschränkt und damit sehr übersichtlich bleibt. Besonders die neue Anordnung in der aktuellen Version gefällt mir.

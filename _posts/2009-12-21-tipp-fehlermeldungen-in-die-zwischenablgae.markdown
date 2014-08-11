@@ -22,6 +22,7 @@ Normalerweise kommt man der Problemlösung schnell etwas näher, indem man den g
 
 
 <img class="borderimg" src="{{site.url}}/wp-content/uploads/errormessage-in-texteditor-einfuegen.png" alt="" width="493" height="237" />
+
 <div style="text-align: justify; margin-top: 15px;"><strong>Funktioniert bei deiner Fehlermeldung nicht?</strong>
 Nichtsdestotrotz funktioniert diese Funktion nicht immer. Wäre ja auch zu schön. =] - Wenn man z.B. den Text von Hinweisdialogen kopieren möchte, könnte man mit dieser Methode Pech haben. Klappt das Einfügen nicht, muss ein extra Programm benutzt werden. Ich benutze dafür <a href="http://www.nirsoft.net/utils/sysexp.html" target="_blank">SysExporter von Nirsoft</a>. Das Tool listet verfügbare Dialogboxen auf und zeigt deren Text an. Noch einfacher kommt man zum gewünschten Fensterinhalt, indem man die rechte Maustaste über dem "Fadenkreuz-Button" (1) gedrückt hält und damit auf die Meldung (2) zeigt: <br />
 

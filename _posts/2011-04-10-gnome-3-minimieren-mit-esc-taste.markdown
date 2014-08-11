@@ -17,10 +17,10 @@ Abhilfe schafft mal wieder der <a href="http://wiki.ubuntuusers.de/Gnome_Konfigu
 
 <img class="borderimg centered" title="gconf_editor_screen" src="{{site.url}}/wp-content/uploads/gconf_editor_screen.jpg" alt="" width="475" height="340" />
 
-<div class="infobox">Übrigens gibt es zu den Tastenbelegungen hier noch einen kleinen Spickzettel von Gnome:<br />
+<div class="infobox">Übrigens gibt es zu den Tastenbelegungen hier noch einen kleinen <b>Spickzettel</b> von Gnome:<br />
 - <a href="http://live.gnome.org/GnomeShell/CheatSheet">http://live.gnome.org/GnomeShell/CheatSheet</a><br />
 
-Gnome 3 kann man auch auf viele Arten mit dem Tool gsettings (hieß früher gconftool-2) weiter anpassen. Ein sehr Interessanter Artikel dazu findet sich hier:
+Gnome 3 kann man auch auf viele Arten mit dem Tool <b>gsettings</b> (früher gconftool-2) weiter anpassen. Ein sehr Interessanter Artikel dazu findet sich hier:
 <a href="http://blog.fpmurphy.com/2011/03/customizing-the-gnome-3-shell.html">http://blog.fpmurphy.com/2011/03/customizing-the-gnome-3-shell.html</a></div>
 
 Delete Shortcut

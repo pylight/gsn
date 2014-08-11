@@ -1,5 +1,5 @@
-markdown: maruku
-pygments: true
+markdown: kramdown
+hightlighter: pygments
 
 name: Ganz-Sicher.Net Blog
 description: Linux, das Netz und der ganze Rest!

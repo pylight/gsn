@@ -557,6 +557,7 @@ a.imagelink
 .video
 {
 	margin: 5px;
+	display: block;
 }
 	
 #clearer

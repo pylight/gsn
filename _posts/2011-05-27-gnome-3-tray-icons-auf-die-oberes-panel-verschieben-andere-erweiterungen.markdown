@@ -9,6 +9,7 @@ category: linux-distributionen
 Das <a href="http://www.youtube.com/watch?v=lepXx1kDelo">neue Benachrichtigungssystem</a> von Gnome 3 ist schön, allerdings stört mich, dass die Nachrichten sich mit den Programm-Trayicons der Programme in der "Notification Area" rechts unten vermischen. Mitlerweile habe ich eine Möglichkeit gefunden, einzelne Trayicons - wie noch bei Gnome 2 - auf die obere Leiste zu verschieben.
 
 <!--more-->
+
 Trayicons verschieben
 =====================
 <a href="{{site.url}}/wp-content/uploads/Tray-Topbar.jpg"><img class="borderimg centered" title="Tray Topbar" src="{{site.url}}/wp-content/uploads/Tray-Topbar.jpg" alt="" width="700" height="405" /></a>

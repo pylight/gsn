@@ -10,6 +10,7 @@ category: linux-distributionen
 Nachdem Gnome 3 vor 2 Tagen nach längerer Entwicklungszeit endlich released wurde, habe ich auch mal erste Gehversuche mit der neuen Desktopumgebung (<a href="http://www.archlinux.org/news/gnome3-in-testing/">unter Archlinux</a>) gemacht. Seitdem ich zu Linux gewechselt bin, war Gnome immer die Desktopumgebung meiner Wahl: Es hat mich i.d.R. nicht unnötig behindert, sonder war "einfach nur da" und hat die nötigsten Funktionen zur Verfügung gestellt. Mit Gnome 3 haben die Entwickler jetzt einen mutigen Schritt gewagt und wollen einiges anders machen.
 
 <!--more-->
+
 Vorgedanken
 ============
 Im Vorfeld habe ich einige Reaktionen zu Gnome 3 gelesen, die meisten davon vielen negativ aus. Von "die brauchen dringend anständige Designer" bis hin zu "ich werde nie wieder Gnome verwenden &amp; wechsle zu <a href="http://www.xfce.org/">Xfce</a>!" war alles dabei. Ich mag naiv sein, aber ich sehe eher die großen Vorteile: Gnome 3 spricht mich vom Design her an, denn es sieht zwar (anders als z.B. KDE 4) moderner aus, nutzt aber nicht zu viele unnötige Effekte wie gläserne/transparente Fenster usw..

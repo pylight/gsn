@@ -20,6 +20,7 @@ Der Fallback-Modus wird fortan bei künftigen Logins gestartet, soll wieder Gnom
 
 Customizing
 ============
+
 Andere Themes und Icons
 ------------------------
 Wie bei Gnome Shell ist das Ändern von Themes oder der Icons standardmäßig nicht vorgesehen. Mit dem <a href="https://live.gnome.org/GnomeTweakTool">Gnome-Tweak-Tool</a> können solche Änderungen dennoch durchgeführt werden. Ich verwende im Fallback-Modus das Gtk2-Theme <a href="http://lassekongo83.deviantart.com/art/Zukitwo-203936861">Zukitwo-Dark</a> (<em>entpacken nach ~/.themes</em>) sowie die <a href="http://danrabbit.deviantart.com/art/elementary-Icons-65437279">Elementary-Icons</a> (<em>entpacken nach /usr/share/icons</em>).

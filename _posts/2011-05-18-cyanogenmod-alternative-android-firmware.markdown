@@ -13,6 +13,7 @@ Android ist mir in letzter Zeit nicht gerade durch positive Nachrichten aufgefal
 Aus diesem Grund läuft auf meinem Handy nun <a href="http://www.cyanogenmod.com/">CyanogenMod</a>: Eine stabile alternative Firmware, welche aktuell (v7.0) auf Android 2.3.3. basiert!
 
 <!--more-->
+
 Einrichtung von Cyanogenmod
 ===========================
 Die Installation von Cyanogenmod erfolgt über das Tool <a href="http://developer.android.com/guide/developing/tools/adb.html">Android Debug Bridge adb</a>, mit welchem man in einer Konsole das angeschlossene Smartphone über den PC ansprechen kann. Im Wesentlichen sind drei Schritte notwendig um Cyanogenmod statt dem offiziellen Android zu verwenden: Erlangen von Rootrechten auf dem Handy (rooten), installieren der ClockworkMod Recovery und Neustarten im Recoverymodus zum <em>flashen</em> der Firmware. Die einzelnen Schritte und Befehle sind dabei gut im <a href="http://wiki.cyanogenmod.com/">Wiki</a> erkärt. Zudem werden alle <a href="http://www.cyanogenmod.com/devices">unterstützten Geräte</a> auf der Website aufgelistet, sodass auf Anhieb ersichtlich wird, ob das Einsetzen dieser Firmware Sinn macht.

@@ -10,6 +10,7 @@ category: linux-distributionen
 
 Eine Funktion, die ich bisher gar nicht weiter beachtet hatte, die mir beim Dateimanager Nautilus (Standard-Manager unter Ubuntu und Gnome) aber sehr gut gefällt, ist die Möglichkeit, auf einfache Weise Dateivorlagen anzulegen, die dann im Kontextmenü (Rechtsklick) beim Erstellen neuer Dateien ausgewählt werden können. Vor allem wenn man regelmäßig Scripts oder Programme in verschiedenen Programmiersprachen erstellt, spart man mit dieser Funktion auf jeden Fall einiges an Zeit.
 <!--more-->
+
 Neue (Datei-)Templates anlegen
 ==============================
 Vorlagen werden angelegt, indem im Homeverzeichnis unter dem Ordner Templates neue Dateien erstellen werden.

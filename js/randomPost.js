@@ -1,5 +1,5 @@
 ---
-layout: javascript
+layout: none
 ---
 function getRandomPost()
 {

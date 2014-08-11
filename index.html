@@ -3,7 +3,7 @@ layout: default
 title: Ganz-Sicher.net Blog!
 ---
 <div id="home">
-  <div class="nicehead"><span class="nice">Recent Blog Posts</span> <span class="niceinfo">(German)</span> 
+  <div class="nicehead"><span class="nice">Meine letzten Artikel</span> <span class="niceinfo">(blogged with love!)</span> 
 
 <!-- flattr button -->
 <span style="float:right; position: relative; top: 3px;">
@@ -30,9 +30,9 @@ title: Ganz-Sicher.net Blog!
       </div> 
     {% endfor %}
 
-	<div class="nicehead"><span class="nice">Die letzen 25 Artikel</span> <span class="niceinfo">(Textlinks)</span></div>
+	<div class="nicehead"><span class="nice">Die letzen 10 Artikel</span> <span class="niceinfo">(Links)</span></div>
 	<ul class="posts">
-    {% for post in site.posts limit:25 %}
+    {% for post in site.posts limit:10 %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a> <span class="niceinfo" style="color: #dedede;">#{{ post.category }}</span></li>
     {% endfor %}
 	</ul>
