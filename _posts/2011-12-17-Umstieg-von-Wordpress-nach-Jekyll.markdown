@@ -32,6 +32,7 @@ Vorteile für mich im Vergleich zu Wordpress:
 * Synchronisierung über Github, d.h ich habe immer eine funktionierende Version lokal auf dem Rechner die ich auch mit normalen Linuxbefehlen leicht durchsuchen oder anpassen kann
 
 <a href="{{site.url}}/images/blog/sublime_screen_jekyll_wordpress.jpg"><img class="borderimg centered" src="{{site.url}}/images/blog/sublime_screen_jekyll_wordpress.jpg" alt="" width="450" height="370" /></a>
+
 <div class="imageinfo">(Leicht optimierter) Markdown-Artikel vs. importierter Wordpress-Artikel</div>
 
 

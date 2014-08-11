@@ -7,6 +7,7 @@ date: 2010-11-17 23:03:29.000000000 +01:00
 category: software
 ---
 <img class="lefticon" src="{{site.url}}/wp-content/uploads/termicon.png" alt="Terminal" />
+
 [Tmux](http://tmux.sourceforge.net) ist für mich ein "Must-Have", wenn ich unter Linux arbeite: Mit diesem Tool kann man im Standard-Terminal auf einfache Weise verschiedene Terminals nebeneinander anordnen oder auch mehrere Terminal-Tabs gleichzeitig laufen lassen. So ist zum Beispiel das Editieren mehrerer Textdateien per SSH sehr viel übersichtlicher.
 <!--more-->
 Tmux ist schnell zu verstehen und erlernen, wenn man sich erstmal an die Tastenkombinationen gewöhnt hat. Die Standardeinstellungen sind jedoch eher auf amerikanische Tastaturlayouts bezogen, weshalb man sie in der Einstellungsdatei .tmux.conf im Home-Verzeichnis anpassen sollte.

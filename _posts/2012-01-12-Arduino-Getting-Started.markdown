@@ -5,6 +5,7 @@ date: 2012-01-12 20:18
 category: kurz-notiert
 ---
 <img src="{{site.url}}/images/blog/led.png" class="lefticon" alt="" />
+
 Falls das Weihnachtsgeld noch nicht vollständig ausgegeben wurde oder durch die Rückgabe unfreiwillig erhaltener Weihnachtsgeschenke plötzlich noch Geld auftauchen sollte, habe ich hier einen Tipp: Ich habe mir dieses Jahr einen [Arduino Uno](http://arduino.cc/en/Main/arduinoBoardUno) gegönnt! 
 Allen Technik-Interessierten, die sich gerne auch mal etwas mit Hardware beschäftigen wollen, kann ich diesen Mikroprozessor als (weiche) Einstiegsdroge empfehlen.
 <!--more-->
@@ -29,6 +30,7 @@ Einstieg mit dem Sparkfun Inventor's-Kit
 * kurze, aber gut verständliche Erklärungen (allgemeine Englischkenntnisse vorausgesetzt) + ergänzendes Online-Material 
 
 <img src="{{site.url}}/images/blog/arduino_side.jpg" class="borderimg centered" alt="arduino uno board" />
+
 <div class="imageinfo">USB- und Netzanschluss, einige Pins und ein Reset-Knopf. Wegen der minimalen Ausstattung bietet sich ein Starter Kit an.</div>
 
 *Das Kit wird vor allem in den USA vertrieben (z.B. bei [Amazon.com](http://www.amazon.com/SparkFun-Inventors-Kit-Arduino-professional/dp/B004G2KTU4)), in Europa ist es aber auch in einigen Shops verfügbar:*

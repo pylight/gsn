@@ -11,7 +11,6 @@ Wer mehrere (Linux)Betriebsysteme parallel auf einem Rechner installiert hat, wi
 
 Ich kannte bisher nur <a href="http://www.supergrubdisk.org/super-grub-disk/">Super Grub Disk</a> (<a href="http://www.supergrubdisk.org/super-grub2-disk/">2</a>), wobei <em>Super Grub Disk 2</em> den Nachteil hatte, dass nur von der CD gebootet und keine &Auml;nderungen auf die Festplatte geschrieben wurden.
 
-
 Nachdem ich jetzt mal wieder mein Grub 2 zerschossen hatte, bin ich auf <a href="http://www.supergrubdisk.org/rescatux/">Rescatux</a> auf der selben Seite aufmerksam geworden. Im Gegensatz zu den "Vorg&auml;ngern" basiert dies auf Debian und bietet die M&ouml;glichkeit, sowohl Grub 1, als auch Grub 2 mit grafischer Oberfl&auml;che wiederherzustellen. Au&szlig;erdem bietet das Tool die M&ouml;glichkeit an, ein Filesystem zu &uuml;berpr&uuml;fen.&nbsp;
 
 <img class="borderimg centered" src="{{site.url}}/wp-content/uploads/rescatux_main_menu.png" alt="" width="607" height="425" />

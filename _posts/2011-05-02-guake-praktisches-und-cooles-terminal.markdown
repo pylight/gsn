@@ -7,6 +7,7 @@ date: 2011-05-02 19:20:24.000000000 +02:00
 category: software
 ---
 <img class="lefticon" title="guake_logo" src="{{site.url}}/wp-content/uploads/guake_logo.png" alt="" width="64" height="56" />
+
 Guake ist ein Terminal für Gnome im Stil des Terminals im Spiel "Quake": Auf Tastendruck wird das Teminal von der oberen Bildschirmkante aus eingeblendet. Das sieht vor allen Dingen nett aus, weshalb ich es bisher immer nur als Spielerei abgetan hatte. Nachdem ich es allerdings mehrmals benutzt habe, musste ich feststellen, dass ich mich getäuscht hatte, denn nebenbei ist das Tool unheimlich praktisch:
 <!--more-->
 

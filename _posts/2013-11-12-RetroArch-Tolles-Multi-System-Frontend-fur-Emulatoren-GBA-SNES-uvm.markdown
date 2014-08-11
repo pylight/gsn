@@ -17,6 +17,7 @@ Für Windows gibt es auf der [Homepage](http://themaister.net/retroarch.html) be
 Beim Konfigurieren meiner Gamepads hatte ich einige Probleme. Dafür empfiehlt es sich, diese mit dem Befehl <code>retroarch-joyconfig</code> in der Konsole einzurichten, falls es in den Einstellungen von RetroArch selbst nicht klappen sollte. Notfalls kann die Einstellungsdatei retroarch.cfg auch mit einem Text-Editor nachträglich angepasst werden. Unter Archlinux findet man sie unter <code>~/config/retroarch/retroarch.cfg</code>.
 
 <img src="{{site.url}}/images/blog/retroArch.jpg" class="borderimg centered" alt="" />
+
 <div class="imageinfo">RetroArch unter ArchLinux</div>
 
 RetroPie - die Retro-Spielkonsole

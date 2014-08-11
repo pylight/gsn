@@ -14,6 +14,7 @@ Hmm sind die Lichter hier im Blog schon aus? Nein, es gibt doch noch Licht am En
 <!--more-->
 
 <img class="borderimg centered" title="Gott bei Facebook" src="{{site.url}}/wp-content/uploads/God-FB.jpg" alt="" />
+
 <img class="borderimg centered" src="{{site.url}}/wp-content/uploads/Asteroid-FB.jpg" alt="" />
 
 <div class="infobox">

@@ -7,6 +7,7 @@ date: 2011-02-16 13:55:02.000000000 +01:00
 category: software
 ---
 <img class="lefticon" title="text_x_bibtex" src="{{site.url}}/wp-content/uploads/text_x_bibtex.png" alt="" width="64" height="64" />
+
 ***LaTeX*** ist ein Textsatzsystem, mit dem man auf relativ komfortable Weise größere Artikel, Ausarbeitungen oder auch ganze Bücher erstellen kann. Mithilfe von festgelegten Befehlen lässt sich z.B. automatisiert ein Inhaltverzeichnis aus den festgelegten Abschnitten generieren oder eine komplizierte mathematische Formel erstellen (es gibt aber auch einen Notensatz oder einen ). Auch wenn man sich häufiger Word oder vergleichbaren Office-Suites rumschlagen muss, lohnt sich vielleicht mal ein Blick auf LaTeX, denn vieles lässt sich dort mit einfachen Makros lösen!
 <!--more-->
 

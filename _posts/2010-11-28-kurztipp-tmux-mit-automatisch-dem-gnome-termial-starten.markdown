@@ -7,6 +7,7 @@ date: 2010-11-28 10:13:49.000000000 +01:00
 category: tutorials-tipps
 ---
 <img class="lefticon" title="terminal_icon2" src="{{site.url}}/wp-content/uploads/terminal_icon2.png" alt="Terminal Icon" width="48" height="48" />
+
 Vor 3 Artikeln hatte ich über <a href="{{site.baseurl}}/software/tmux-viele-terminals-in-einem-terminal-anzeigen/" target="_self">die Vorteile von Tmux</a> im Linux-Terminal gesprochen. Da ich das Tool als Must-Have bezeichnet habe, wäre es doch ganz sinnvoll, tmux jeweils immer automatisch mit dem Terminal zu starten.
 
 <!--more-->

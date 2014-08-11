@@ -7,6 +7,7 @@ date: 2010-11-12 20:21:00.000000000 +01:00
 category: linux-distributionen
 ---
 <img class="lefticon" title="System-Monitoring" src="{{site.url}}/wp-content/uploads/monitoring.png" alt="" width="63" height="63" /> 
+
 Applets für den Desktop sind oft nur eine Spielerei und verlangsamen den PC zusätzlich. Anders sieht der Ansatz bei dem Linux-Tool <a title="Conky" href="http://conky.sourceforge.net/">conky</a> aus: <a href="http://conky.sourceforge.net/">Conky</a> ist sehr schlank und - wie bei vielen Programmen unter Linux individuell anpassbar. Dadurch, dass man zum Beispiel die Augaben sämtlicher Befehle auf einfache Weise (nämlich mit dem ${execi}-Befehl) auf dem Desktop anzeigen lassen kann, sind der Fantasie wenig grenzen gesetzt. Dass es folglich viele Beispielkonfigurationen im Netz gibt, brauche ich wohl kaum erwähnen - ein paar Links für Interessierte habe ich im folgenden Abschnitt gesammelt...
 
 <!--more-->

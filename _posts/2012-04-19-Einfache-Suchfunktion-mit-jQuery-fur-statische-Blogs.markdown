@@ -5,6 +5,7 @@ date: 2012-04-19 23:05
 category: programmierung-scripting
 ---
 <img src="{{site.url}}/images/blog/old-edit-find.png" class="lefticon" alt="" />
+
 Nachdem ich mit meinem Blog auf [Jekyll](http://jekyllrb.com/) <a href="{{site.url}}/blognews/Umstieg-von-Wordpress-nach-Jekyll/">umgestiegen bin</a>, habe ich zunächst auf eine Suchfunktion verzichtet. Da Jekyll statische HTML-Seiten erzeugt, werden für die Suche oft externe Dienste wie die [Googles Custom Search](https://developers.google.com/custom-search/v1/overview), [Tapir](http://tapirgo.com/) oder [indexthank](http://indextank.com/) empfohlen. Letzterer Anbieter hat sein Angebot mittlerweile bereits eingestellt und verweist auf der Homepage auf Alternativen. Die Abhängigkeit von einem solchen Dienst hat mich daher eher abgeschreckt. Gerade weil eine Suchfunktion meist keine ressourcenschonende Sache ist, ist eine lange Lebensdauer dieser Suchdienste keine Selbstverständlichkeit. Auch erschien es mir für ein paar zig HTML-Seiten ein ziemlicher Overkill zu sein. ;) 
 Jetzt besitzt das Blog eine kleine Javascript/jQuery-getriebene Suche (oben rechts!) - reicht meiner Meinung nach völlig und ist mit einem einfachen Ajax-Request / dem Filtern des RSS-Feeds mit wenig Code einsatzbereit.<!--more-->
 

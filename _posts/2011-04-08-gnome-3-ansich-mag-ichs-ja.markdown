@@ -25,6 +25,7 @@ Gerade weil bei Gnome 3 viele Neuheiten dazu gekommen sind, stellt sich nach kur
 
 
 <a href="{{site.url}}/wp-content/uploads/gnome_screen1.jpg"><img class="borderimg centered" title="gnome_screen1" src="{{site.url}}/wp-content/uploads/gnome_screen1.jpg" alt="" width="500" height="250" /></a>
+
 <a href="{{site.url}}/wp-content/uploads/gnome_screen2.jpg"> <img class="borderimg centered" title="gnome_screen2" src="{{site.url}}/wp-content/uploads/gnome_screen2.jpg" alt="" width="500" height="250" /></a>
 
 Einiges nervt noch...

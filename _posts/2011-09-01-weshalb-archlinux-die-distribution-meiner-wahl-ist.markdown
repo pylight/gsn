@@ -7,6 +7,7 @@ date: 2011-09-01 13:05:00.000000000 +02:00
 category: linux-distributionen
 ---
 <img class="lefticon" src="{{site.url}}/wp-content/uploads/archlinux_small.png" alt="" width="66" height="65" />
+
 Wenn man sich für Linux entscheidet, steht man häufig vor der Frage "<em>Welche <a href="http://de.wikipedia.org/wiki/Distribution_(Software)">Distribution</a> verwende ich denn jetzt?</em>". Auf <a href="http://www.distrowatch.com/">Distrowatch</a> gibt es eine Übersicht der Linux-Distributionen. Es sind angeblich 312 aktive, was die Sache nicht gerade leichter macht...
 Deswegen habe ich in diesem Artikel die Gründe zusammengefasst, weshalb ich mich für <a href="http://www.archlinux.org/">Archlinux</a> entschieden habe. Archlinux gefällt mir sehr als Distribution, aber ich habe auch versucht, die Nachteile (die es bei <em>jeder</em> Distribution gibt) anzugeben, damit Niemand die falsche Wahl trifft. ;)
 <!--more-->

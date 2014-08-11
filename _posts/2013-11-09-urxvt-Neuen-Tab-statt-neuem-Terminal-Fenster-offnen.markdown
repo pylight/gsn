@@ -5,12 +5,14 @@ date: 2013-11-09 22:41
 category: linux-distributionen
 ---
 <img src="{{site.url}}/wp-content/uploads/terminal1.png" class="lefticon" alt="" />
+
 OH, ja es lebt noch, dieses Blog! Und da ich ja auch noch da bin, schreibe ich halt mal wieder einen Artikel. :P
 Aber ich schweife ab, zurück zum Thema: Wie ich bereits in früheren Blogbeiträgen geschrieben habe setze ich [urxvt](https://wiki.archlinux.org/index.php/rxvt-unicode) (rxvt unicode) als bevorzugten Terminal-Emulator ein. Seine Vorteile sind dessen flotte Geschwindigkeit, viele Konfigurationsmöglichkeiten und Erweiterungen sowie das simple Design ohne unnötigen Schickschnack. 
 <!--more-->
 Da das Terminal Tabs unterstützt, habe ich bisher dennoch eine Funktion vermisst, für welche ich nun ein kleines Script geschrieben habe: Die Möglichkeit ein neues Terminal per Tastenkombination in einem neuen Tab des aktiven Urxvt-Fensters zu öffnen statt jedes Mal ein komplett neues Fenster zu öffnen.
 
 <img alt="urxvt screenshot" class="borderimg centered" src="{{site.url}}/images/blog/urxvt_screen.jpg" />
+
 <div class="imageinfo">urxvt mit Tabs in Aktion ;)</div>
 
 Das folgende Script erfüllt diesen Zweck und kann in einem Desktop Environment eurer Wahl einem Shortcut zugewiesen werden. Es setzt ein installiertes urxvt samt tabbed-Erweiterung voraus. Außerdem müssen pidof, awk und xdotool installiert sein. Ihr könnt das Script gerne frei verwenden (MIT-Lizenz), die neuste Version findet ihr immer auf [Github](https://github.com/pylight/scripthub/blob/master/bash/runUrxvt.sh).

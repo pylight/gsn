@@ -5,6 +5,7 @@ date: 2011-12-31
 category: kurz-notiert
 ---
 <img src="{{site.url}}/images/blog/rocket_icon.png" alt="28c3 logo"  class ="lefticon" />
+
 Wie regelmäßig *zwischen den Jahren* (vom 27. bis 30. Dezember) fand auch dieses Jahr wieder der Chaos Communication Congress in Berlin mit vielen Vorträgen zu den Themen Gesellschaft, Technik und Hacking statt. Bei vier Tagen voller Programm und Vorträge, ist es nicht immer einfach, interessantes von weniger interessantem zu trennen. Für diejenigen, die nicht mit der Zeit gesegnet sind, um sich alle Vorträge anzuschauen, will ich daher ein paar interessante Vorträge herausgreifen! ;)
 <!--more-->
 

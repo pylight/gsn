@@ -7,6 +7,7 @@ date: 2011-05-16 18:03:41.000000000 +02:00
 category: software
 ---
 <img class="lefticon" src="{{site.url}}/wp-content/uploads/signal.png" alt="" width="48" height="48" />
+
 [RadioTray](http://radiotray.sourceforge.net/) ist ein kleines Tool, mit dem man leicht seinen Lieblingsradiosender ausw&auml;hlen und anh&ouml;ren kann. Wie der Name bereits vermuten l&auml;sst, besteht es aus einem kleinen Trayicon mit Kontextmen&uuml; zur Senderwahl. Das ist auch gut so, denn so ist das Programm nie im Weg und dennoch immer schnell erreichbar, wenn man mal die Radiostation wechseln will.
 <!--more-->
 
