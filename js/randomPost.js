@@ -15,7 +15,7 @@ function getRandomPost()
 	];
 	
 	/* get one random element */
-	var randValue = Math.floor(Math.random() * posts.length - 1 );
+	var randValue = Math.floor(Math.random() * posts.length );
 	
 	/* redirect to the random post */
 	window.location = posts[randValue];
