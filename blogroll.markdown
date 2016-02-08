@@ -12,59 +12,34 @@ Auf dieser Seite liste ich andere Blogs auf, die ich für empfehlenswert halte. 
 
 Politik / Meinung / Information
 -------------------------------
-*   [Fixmbr.de][1]
-*   [Nachdenkseiten][2]
-*   [Netzpolitik.org][3]
-*   [Neusprech Blog][4]
-*   [Spiegelfechter][5]
-*   [Sprengsatz.de][6]
-*   [Toomuchinformation][7]
- [1]: http://www.fixmbr.de/
- [2]: http://www.nachdenkseiten.de/
- [3]: http://netzpolitik.org/
- [4]: http://neusprech.org/
- [5]: http://www.spiegelfechter.com/wordpress/
- [6]: http://www.sprengsatz.de/
- [7]: http://toomuchinformation.de/
-
+*   [Fixmbr.de](http://www.fixmbr.de/)
+*   [Nachdenkseiten](http://www.nachdenkseiten.de/)
+*   [Netzpolitik.org](http://netzpolitik.org/)
+*   [Neusprech Blog](http://neusprech.org/)
+*   [Spiegelfechter](http://www.spiegelfechter.com/wordpress/)
+*   [Sprengsatz.de](http://www.sprengsatz.de/)
+*   [Toomuchinformation](http://toomuchinformation.de/)
 
 Unterhaltung / Filme
 --------------------
-+   [Flimmerblog][11]
-+   [Fuenf Filmfreunde][12]
-+   [Kopfschuettel Blog][13]
- [11]: http://www.flimmerblog.de/
- [12]: http://www.fuenf-filmfreunde.de/
- [13]: http://www.kopfschuettel.de/
- 
+*   [Flimmerblog](http://www.flimmerblog.de/)
+*   [Fuenf Filmfreunde](http://www.fuenf-filmfreunde.de/)
+*   [Kopfschuettel Blog](http://www.kopfschuettel.de/)
 
 Informatik und Technik
 ----------------------
--   [Antary][21]
--   [Infoblog.li][22]
--   [technikblog.ch][23]
--   [Techspread][24]
--   [Webdomination][25]
- [21]: http://www.antary.de/
- [22]: http://infoblog.li/
- [23]: http://www.technikblog.ch/
- [24]: http://www.techspread.de/
- [25]: http://www.webdomination.de/
-
+*   [Antary](http://www.antary.de/)
+*   [Infoblog.li](http://infoblog.li/)
+*   [technikblog.ch](http://www.technikblog.ch/)
+*   [Techspread](http://www.techspread.de/)
+*   [Webdomination](http://www.webdomination.de/)
 
 Linux und OpenSource
 ---------------------
-*   [DSIW][31]
-*   [Linux und ich][32]
-*	[maroony.de][33]
-*   [Picomol.de][34]
-*   [Suckup IT-Blog][35]
- [31]: http://blog.dsiw-it.de/
- [32]: http://linuxundich.de/
- [33]: http://maroony.de/
- [34]: http://picomol.de/
- [35]: http://suckup.de/
-
+*   [Linux und ich](http://linuxundich.de/)
+*	[maroony.de](http://maroony.de/)
+*   [Picomol.de](http://picomol.de/)
+*   [Suckup IT-Blog](http://suckup.de/)
 
 Eventuell interessieren dich auch meine Podcasttipps?
 -------------------------------------------------------
