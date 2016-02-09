@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Erste Gehversuche mit der Nikon D3300
-date: 2016-02-08 21:30
+date: 2016-02-09 22:30
 category: fotografie
 ---
 <img src="{{site.url}}/images/blog/nikon-gehversuche/nikon.png" class="lefticon" alt="" />
@@ -40,7 +40,7 @@ In die Fotografie kann man natürlich eine Menge Geld investieren. Da neue Objek
 
 Erste Gehversuche
 ====================
-Bilder sagen mehr als tausend Worte. Die folgenden Aufnahmen in und um Konstanz entstanden (anklicken für größere Version).
+Genug gequatscht, Bilder sagen ja bekanntlich mehr als tausend Worte. Die folgenden Aufnahmen in und um Konstanz entstanden (in neuem Tab öffnen für eine größere Version).
 
 <img src="{{site.url}}/images/blog/nikon-gehversuche/nikon1.JPG" class="borderimg centered" alt="" />
 
