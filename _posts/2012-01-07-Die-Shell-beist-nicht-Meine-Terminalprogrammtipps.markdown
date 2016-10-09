@@ -170,7 +170,7 @@ mutt
 
 Twitter-Client tyrs
 --------------------
-[tyrs](https://github.com/Nic0/tyrs) ([Homepage](http://tyrs.nicosphere.net/)) ist ein feiner Microblogging-Client für [Twitter](https://twitter.com/) und [Identica](http://identi.ca/), den man sehr gut nebenher im Hintergrund laufen lassen kann! Er basiert auf ncurse.
+[tyrs](https://github.com/Nic0/tyrs) ist ein feiner Microblogging-Client für [Twitter](https://twitter.com/) und [Identica](http://identi.ca/), den man sehr gut nebenher im Hintergrund laufen lassen kann! Er basiert auf ncurse.
 
 
 <img src="{{site.url}}/images/blog/Tyrs_screen.png" class="borderimg centered" alt="tyrs twitter screen" />
