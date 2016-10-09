@@ -2,7 +2,7 @@
 layout: post
 title: Gnome 3 - Minimieren mit ESC-Taste
 wordpress_id: 1193
-wordpress_url: http://ganz-sicher.net/blog/?p=1193
+wordpress_url: https://ganz-sicher.net/blog/?p=1193
 date: 2011-04-10 11:47:14.000000000 +02:00
 category: tutorials-tipps
 ---

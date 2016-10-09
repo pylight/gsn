@@ -2,7 +2,7 @@
 layout: post
 title: ! '[TIPP] Freeware- & Opensouce-Alternativen finden - einige Websites'
 wordpress_id: 295
-wordpress_url: http://ganz-sicher.net/blog/?p=295
+wordpress_url: https://ganz-sicher.net/blog/?p=295
 date: 2009-12-20 21:50:32.000000000 +01:00
 category: linktipps
 ---

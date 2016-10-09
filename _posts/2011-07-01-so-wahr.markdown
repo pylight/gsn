@@ -2,7 +2,7 @@
 layout: post
 title: So wahr!
 wordpress_id: 1419
-wordpress_url: http://ganz-sicher.net/blog/?p=1419
+wordpress_url: https://ganz-sicher.net/blog/?p=1419
 date: 2011-07-01 08:56:31.000000000 +02:00
 category: fun
 ---

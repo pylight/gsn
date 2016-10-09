@@ -2,7 +2,7 @@
 layout: post
 title: Produktivität - Duckduckgo als Standardsuche in Chrome
 wordpress_id: 1515
-wordpress_url: http://ganz-sicher.net/blog/?p=1515
+wordpress_url: https://ganz-sicher.net/blog/?p=1515
 date: 2011-09-02 15:03:42.000000000 +02:00
 category: tutorials-tipps
 ---

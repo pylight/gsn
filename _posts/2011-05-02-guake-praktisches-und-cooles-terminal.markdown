@@ -2,7 +2,7 @@
 layout: post
 title: Guake - Praktisches und cooles Terminal
 wordpress_id: 1219
-wordpress_url: http://ganz-sicher.net/blog/?p=1219
+wordpress_url: https://ganz-sicher.net/blog/?p=1219
 date: 2011-05-02 19:20:24.000000000 +02:00
 category: software
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Tabletboom vs. Ebook-Reader?
 wordpress_id: 1213
-wordpress_url: http://ganz-sicher.net/blog/kurz-notiert/tabletboom-vs-ebook-reader/
+wordpress_url: https://ganz-sicher.net/blog/kurz-notiert/tabletboom-vs-ebook-reader/
 date: 2011-04-13 23:31:41.000000000 +02:00
 category: kurz-notiert
 ---
@@ -11,7 +11,7 @@ Ich hatte ja in den letzten 2 Jahren immer mal mit dem Gedanken gespielt, mir ei
 
 Obwohl es zu Weihnachten 2010 erste Geräte unter 100€ gab, scheint es nach wie vor so, dass man für "anständige" Lesegeräte wie den <a href="http://www.amazon.com/Kindle-Wireless-Reader-Wifi-Graphite/dp/B003DZ1Y8Q">Amazon Kindle</a> oder der <a href="http://www.sony.de/product/rd-reader-ebook/prs650b.cew">Sony PRS 650</a> etwas mehr hinlegen muss. Nachdem ich jetzt aber die vielen positiven Bewertungen zum <a href="http://www.sony.de/product/rd-reader-ebook/prs650b.cew"><em>PRS 650</em></a> gelesen habe (im Vergleich zum Kindle mit TouchScreen für Notizen, Speicherkartenslots &amp; unterstützt mehr Formate), bin ich soweit, dass ich mir vorstellen kann, doch etwas mehr für den Spaß auszugeben.
 
-{% embed http://www.youtube.com/watch?v=23oN4YIPaPg %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/23oN4YIPaPg" frameborder="0" allowfullscreen></iframe>
 
 (<a href="http://www.lesen.net/ereader/sony-reader-prs-650-touch-edition-im-test-4272/">Link zum Review auf lesen.net</a>)
 

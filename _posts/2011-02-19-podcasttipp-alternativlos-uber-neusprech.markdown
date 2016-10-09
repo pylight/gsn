@@ -2,7 +2,7 @@
 layout: post
 title: ! '[Podcasttipp] Alternativlos über Neusprech'
 wordpress_id: 912
-wordpress_url: http://ganz-sicher.net/blog/linktipps/podcasttipp-alternativlos-uber-neusprech/
+wordpress_url: https://ganz-sicher.net/blog/linktipps/podcasttipp-alternativlos-uber-neusprech/
 date: 2011-02-19 11:16:14.000000000 +01:00
 category: linktipps
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Kurztipp: Firefox-Adressfeld zur Google-Suche nutzen (wie bei Chrome)'
 wordpress_id: 755
-wordpress_url: http://ganz-sicher.net/blog/?p=755
+wordpress_url: https://ganz-sicher.net/blog/?p=755
 date: 2010-10-10 23:52:26.000000000 +02:00
 category: tutorials-tipps
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: iBin - USB-Stick mit Papierkorb-Funktion ausstatten
 wordpress_id: 483
-wordpress_url: http://ganz-sicher.net/blog/?p=483
+wordpress_url: https://ganz-sicher.net/blog/?p=483
 date: 2010-01-04 22:39:22.000000000 +01:00
 category: software
 ---

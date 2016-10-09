@@ -2,7 +2,7 @@
 layout: post
 title: Zim - gutes Notiztool / Desktop-Wiki
 wordpress_id: 1109
-wordpress_url: http://ganz-sicher.net/blog/?p=1109
+wordpress_url: https://ganz-sicher.net/blog/?p=1109
 date: 2011-03-14 23:26:32.000000000 +01:00
 category: software
 ---

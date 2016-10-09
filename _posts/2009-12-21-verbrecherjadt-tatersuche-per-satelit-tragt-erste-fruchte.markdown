@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Verbrecherjagd: Tätersuche per Satelit trägt erste Früchte'
 wordpress_id: 302
-wordpress_url: http://ganz-sicher.net/blog/?p=302
+wordpress_url: https://ganz-sicher.net/blog/?p=302
 date: 2009-12-21 15:57:18.000000000 +01:00
 category: fun
 ---

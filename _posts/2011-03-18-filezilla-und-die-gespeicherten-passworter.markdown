@@ -2,7 +2,7 @@
 layout: post
 title: Filezilla und die gespeicherten Passwörter
 wordpress_id: 1131
-wordpress_url: http://ganz-sicher.net/blog/?p=1131
+wordpress_url: https://ganz-sicher.net/blog/?p=1131
 date: 2011-03-18 22:39:20.000000000 +01:00
 category: tutorials-tipps
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: CyanogenMod - Alternative Android-Firmware
 wordpress_id: 1295
-wordpress_url: http://ganz-sicher.net/blog/kurz-notiert/cyanogenmod-alternative-android-firmware/
+wordpress_url: https://ganz-sicher.net/blog/kurz-notiert/cyanogenmod-alternative-android-firmware/
 date: 2011-05-18 08:22:03.000000000 +02:00
 category: kurz-notiert
 ---

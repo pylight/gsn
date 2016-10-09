@@ -2,7 +2,7 @@
 layout: post
 title: Google 2 Step Verification - Accountsicherheit erhöhen
 wordpress_id: 988
-wordpress_url: http://ganz-sicher.net/blog/?p=988
+wordpress_url: https://ganz-sicher.net/blog/?p=988
 date: 2011-03-06 20:21:07.000000000 +01:00
 category: tutorials-tipps
 ---
@@ -16,9 +16,9 @@ Neue Sicherheitsfunktion aktivieren
 Die neue Funktion versteckt sich hinter den Google-Einstellungen, die man nur als eingeloggter User oben links in der Linkleiste sieht (siehe Screenshot unten). Über den Link "<a href="https://www.google.com/accounts/SmsAuthConfig?hl=de">Verwendung von Bestätigung in zwei Schritten</a>" auf der nächsten Seite  kann das Feature aktiviert werden. Wer ein Android-, BlackBerry-Handy oder Iphone-Handy besitzt, ist hier im Vorteil, denn Google bietet entsprechende Apps zum Anzeigen des gerade aktuellen Pins an. (für Android beispielsweise der <a title="Google Authenticator" href="https://market.android.com/details?id=com.google.android.apps.authenticator&amp;feature=search_result">Google Authenticator</a>)
 Alternativ verschickt Google die Codes aber auch per SMS.
 
-<img class="borderimg centered" title="google_2step1" src="http://ganz-sicher.net/blog/wp-content/uploads/google_2step1.png" alt="" width="420" height="175" />
+<img class="borderimg centered" title="google_2step1" src="https://ganz-sicher.net/blog/wp-content/uploads/google_2step1.png" alt="" width="420" height="175" />
 
-<img class="borderimg centered" title="Screenshot-Bestätigung in zwei Schritten - Chromium" src="http://ganz-sicher.net/blog/wp-content/uploads/Screenshot-Bestätigung-in-zwei-Schritten-Chromium.png" alt="" width="400" height="359" />
+<img class="borderimg centered" title="Screenshot-Bestätigung in zwei Schritten - Chromium" src="https://ganz-sicher.net/blog/wp-content/uploads/Screenshot-Bestätigung-in-zwei-Schritten-Chromium.png" alt="" width="400" height="359" />
 
 Absicherung: Backup Codes
 ==========================

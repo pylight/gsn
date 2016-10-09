@@ -2,7 +2,7 @@
 layout: post
 title: See you in 2010...
 wordpress_id: 414
-wordpress_url: http://ganz-sicher.net/blog/?p=414
+wordpress_url: https://ganz-sicher.net/blog/?p=414
 date: 2009-12-31 16:21:24.000000000 +01:00
 category: blognews
 ---

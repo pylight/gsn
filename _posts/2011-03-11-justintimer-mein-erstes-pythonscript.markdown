@@ -2,7 +2,7 @@
 layout: post
 title: justInTimer - Mein erstes Pythonscript...
 wordpress_id: 1051
-wordpress_url: http://ganz-sicher.net/blog/?p=1051
+wordpress_url: https://ganz-sicher.net/blog/?p=1051
 date: 2011-03-11 15:37:55.000000000 +01:00
 category: programmierung-scripting
 ---

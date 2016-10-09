@@ -11,7 +11,7 @@ Jetzt besitzt das Blog eine kleine Javascript/jQuery-getriebene Suche (oben rech
 
 Eigene Suchfunktion mit jQuery
 ===============================
-Um mich nicht mit fremden Federn zu schmücken: Die Idee für die jQuery-Suchfunktion stammt von [hier](http://joevennix.com/2011/05/25/How-I-Implement-Static-Site-Search.html). Ich habe den Code leicht angepasst, die wesentliche Funktionsweise bleibt aber die selbe: Der RSS-Feed (der eine einfache XML-Datei ist), wird mit einem $ajax-Call geladen und mit Query und javascript in einem Array gespeichert. Dessen Einträge werden dann mit einem einfachen Regex auf die Suchbegriffe geprüft und bei Treffern in ein anderes Array gelegt. Das Treffer-Array kann dann als HTML-Code ausgegeben werden. Damit auch Suchadressen direkt in den Browser eingegeben werden können, wird [jQuery BBQ](http://benalman.com/projects/jquery-bbq-plugin/) verwendet, die einfache Benutzung von "Hash-Adressen" (z.B. [ganz-sicher.net/blog/#search=test](http://ganz-sicher.net/blog/#search=test)) ermöglicht.
+Um mich nicht mit fremden Federn zu schmücken: Die Idee für die jQuery-Suchfunktion stammt von [hier](http://joevennix.com/2011/05/25/How-I-Implement-Static-Site-Search.html). Ich habe den Code leicht angepasst, die wesentliche Funktionsweise bleibt aber die selbe: Der RSS-Feed (der eine einfache XML-Datei ist), wird mit einem $ajax-Call geladen und mit Query und javascript in einem Array gespeichert. Dessen Einträge werden dann mit einem einfachen Regex auf die Suchbegriffe geprüft und bei Treffern in ein anderes Array gelegt. Das Treffer-Array kann dann als HTML-Code ausgegeben werden. Damit auch Suchadressen direkt in den Browser eingegeben werden können, wird [jQuery BBQ](http://benalman.com/projects/jquery-bbq-plugin/) verwendet, die einfache Benutzung von "Hash-Adressen" (z.B. [ganz-sicher.net/blog/#search=test](https://ganz-sicher.net/blog/#search=test)) ermöglicht.
 
 HTML-Code
 ---------
@@ -45,7 +45,7 @@ CSS-Code
 {% highlight css %}
 #query 
 {
-	background-image: url("http://ganz-sicher.net/blog/images/icons/search.png");
+	background-image: url("https://ganz-sicher.net/blog/images/icons/search.png");
 	background-position: 2px center;
 	background-repeat: no-repeat;
 	border: 1px solid #CBD0D5;

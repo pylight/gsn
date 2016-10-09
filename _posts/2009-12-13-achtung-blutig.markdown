@@ -2,7 +2,7 @@
 layout: post
 title: Achtung blutig!
 wordpress_id: 78
-wordpress_url: http://ganz-sicher.net/blog/?p=78
+wordpress_url: https://ganz-sicher.net/blog/?p=78
 date: 2009-12-13 19:03:30.000000000 +01:00
 category: fun
 ---

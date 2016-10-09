@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Kurzurls: Richtige Zieladresse anzeigen lassen'
 wordpress_id: 196
-wordpress_url: http://ganz-sicher.net/blog/?p=196
+wordpress_url: https://ganz-sicher.net/blog/?p=196
 date: 2009-12-17 13:12:58.000000000 +01:00
 category: kurz-notiert
 ---

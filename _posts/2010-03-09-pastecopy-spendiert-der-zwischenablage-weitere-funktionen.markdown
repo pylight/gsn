@@ -2,7 +2,7 @@
 layout: post
 title: PasteCopy - spendiert der Zwischenablage weitere Funktionen
 wordpress_id: 706
-wordpress_url: http://ganz-sicher.net/blog/?p=706
+wordpress_url: https://ganz-sicher.net/blog/?p=706
 date: 2010-03-09 00:11:48.000000000 +01:00
 category: software
 ---

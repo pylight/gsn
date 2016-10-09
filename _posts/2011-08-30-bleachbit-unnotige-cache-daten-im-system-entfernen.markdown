@@ -2,7 +2,7 @@
 layout: post
 title: Bleachbit - Unnötige (Cache)-Daten im System entfernen
 wordpress_id: 1453
-wordpress_url: http://ganz-sicher.net/blog/?p=1453
+wordpress_url: https://ganz-sicher.net/blog/?p=1453
 date: 2011-08-30 23:05:22.000000000 +02:00
 category: software
 ---

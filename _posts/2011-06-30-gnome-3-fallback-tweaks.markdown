@@ -2,7 +2,7 @@
 layout: post
 title: Gnome 3 Fallback Tweaks
 wordpress_id: 1395
-wordpress_url: http://ganz-sicher.net/blog/?p=1395
+wordpress_url: https://ganz-sicher.net/blog/?p=1395
 date: 2011-06-30 23:40:20.000000000 +02:00
 category: linux-distributionen
 ---
@@ -13,7 +13,7 @@ Fallback-Modus aktivieren
 =============================
 Sofern der Gnome 3 Fallback-Modus nicht aufgrund der Hardware automatisch gewählt wird, kann dieser in den Gnome-Einstellungen erzwungen werden:
 
-<img class="borderimg centered" title="gnome_settings_fallback" src="http://ganz-sicher.net/blog/wp-content/uploads/gnome_settings_fallback.jpeg" alt="" width="330" height="230" />
+<img class="borderimg centered" title="gnome_settings_fallback" src="https://ganz-sicher.net/blog/wp-content/uploads/gnome_settings_fallback.jpeg" alt="" width="330" height="230" />
 
 Der Fallback-Modus wird fortan bei künftigen Logins gestartet, soll wieder Gnome-Shell gestartet werden muss diese Einstellung natürlich wieder rückgängig gemacht werden.
 

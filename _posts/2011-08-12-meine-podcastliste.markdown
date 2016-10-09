@@ -2,7 +2,7 @@
 layout: post
 title: Meine Podcastliste
 wordpress_id: 1434
-wordpress_url: http://ganz-sicher.net/blog/?p=1434
+wordpress_url: https://ganz-sicher.net/blog/?p=1434
 date: 2011-08-12 18:05:28.000000000 +02:00
 category: linktipps
 ---

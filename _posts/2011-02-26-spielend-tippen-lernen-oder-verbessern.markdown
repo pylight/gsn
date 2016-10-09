@@ -2,7 +2,7 @@
 layout: post
 title: Spielend Tippen lernen oder verbessern
 wordpress_id: 937
-wordpress_url: http://ganz-sicher.net/blog/?p=937
+wordpress_url: https://ganz-sicher.net/blog/?p=937
 category: linktipps
 date: 2011-02-26 12:09:47.000000000 +01:00
 ---

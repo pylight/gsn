@@ -2,7 +2,7 @@
 layout: post
 title: Portable Software-Suites - Futter für den USB-Stick
 wordpress_id: 509
-wordpress_url: http://ganz-sicher.net/blog/?p=509
+wordpress_url: https://ganz-sicher.net/blog/?p=509
 date: 2010-01-07 22:30:08.000000000 +01:00
 category: software
 ---

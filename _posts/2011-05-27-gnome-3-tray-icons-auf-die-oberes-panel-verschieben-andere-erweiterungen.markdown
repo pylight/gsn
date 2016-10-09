@@ -2,7 +2,7 @@
 layout: post
 title: Gnome 3 - Tray Icons auf oberes Panel verschieben + andere Erweiterungen
 wordpress_id: 1312
-wordpress_url: http://ganz-sicher.net/blog/?p=1312
+wordpress_url: https://ganz-sicher.net/blog/?p=1312
 date: 2011-05-27 09:41:30.000000000 +02:00
 category: linux-distributionen
 ---

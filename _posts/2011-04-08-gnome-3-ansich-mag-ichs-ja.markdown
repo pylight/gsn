@@ -2,7 +2,7 @@
 layout: post
 title: Gnome 3 - ansich mag ich's ja!
 wordpress_id: 1168
-wordpress_url: http://ganz-sicher.net/blog/?p=1168
+wordpress_url: https://ganz-sicher.net/blog/?p=1168
 date: 2011-04-08 21:42:39.000000000 +02:00
 category: linux-distributionen
 ---

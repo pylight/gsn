@@ -2,7 +2,7 @@
 layout: post
 title: Nautilus - Templates/Datei-Vorlagen benutzen
 wordpress_id: 1306
-wordpress_url: http://ganz-sicher.net/blog/ubuntu/nautilus-templatesdatei-vorlagen-benutzen/
+wordpress_url: https://ganz-sicher.net/blog/ubuntu/nautilus-templatesdatei-vorlagen-benutzen/
 date: 2011-05-21 23:30:58.000000000 +02:00
 category: linux-distributionen
 ---

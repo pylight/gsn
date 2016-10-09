@@ -11,7 +11,7 @@ excerpt: ! "Wie was wo, vor 2 Tagen war schon wieder 4. Advent!? Und wieder hat 
   Nein, hier kommt alles auf einen Schlag! =) Eine kleine Linkliste damit auch der
   PC ein bisschen was von eurer Weihnachtsstimmung abbekommt..."
 wordpress_id: 345
-wordpress_url: http://ganz-sicher.net/blog/?p=345
+wordpress_url: https://ganz-sicher.net/blog/?p=345
 date: 2009-12-22 11:48:27.000000000 +01:00
 category: linktipps
 ---

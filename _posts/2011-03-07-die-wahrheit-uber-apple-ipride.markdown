@@ -2,7 +2,7 @@
 layout: post
 title: Die Wahrheit über Apple iPride
 wordpress_id: 1006
-wordpress_url: http://ganz-sicher.net/blog/fun/die-wahrheit-uber-apple-ipride/
+wordpress_url: https://ganz-sicher.net/blog/fun/die-wahrheit-uber-apple-ipride/
 date: 2011-03-07 17:48:07.000000000 +01:00
 category: fun
 ---

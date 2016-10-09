@@ -2,7 +2,7 @@
 layout: post
 title: Nette OpenSource-Spiele für Zwischendruch!
 wordpress_id: 1218
-wordpress_url: http://ganz-sicher.net/blog/?p=1218
+wordpress_url: https://ganz-sicher.net/blog/?p=1218
 date: 2011-05-02 20:30:00.000000000 +02:00
 category: fun
 ---

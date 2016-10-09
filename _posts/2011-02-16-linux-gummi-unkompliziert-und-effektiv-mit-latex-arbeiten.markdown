@@ -2,7 +2,7 @@
 layout: post
 title: ! '[Linux] Gummi - Unkompliziert und effektiv mit Latex arbeiten'
 wordpress_id: 896
-wordpress_url: http://ganz-sicher.net/blog/?p=896
+wordpress_url: https://ganz-sicher.net/blog/?p=896
 date: 2011-02-16 13:55:02.000000000 +01:00
 category: software
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: 20+ nützliche  & kostenlose Tools für den Windowsalltag
 wordpress_id: 403
-wordpress_url: http://ganz-sicher.net/blog/?p=403
+wordpress_url: https://ganz-sicher.net/blog/?p=403
 date: 2009-12-31 15:00:15.000000000 +01:00
 category: software
 ---

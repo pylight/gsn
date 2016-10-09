@@ -2,7 +2,7 @@
 layout: post
 title: Programmierung - Clean Code Tipps
 wordpress_id: 1683
-wordpress_url: http://ganz-sicher.net/blog/?p=1683
+wordpress_url: https://ganz-sicher.net/blog/?p=1683
 date: 2011-11-24 16:00:50.000000000 +01:00
 category: programmierung-scripting
 ---

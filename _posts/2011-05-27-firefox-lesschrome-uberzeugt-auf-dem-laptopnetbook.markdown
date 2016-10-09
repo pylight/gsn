@@ -2,7 +2,7 @@
 layout: post
 title: Firefox - Lesschrome überzeugt auf dem Laptop/Netbook
 wordpress_id: 1333
-wordpress_url: http://ganz-sicher.net/blog/?p=1333
+wordpress_url: https://ganz-sicher.net/blog/?p=1333
 date: 2011-05-27 12:20:03.000000000 +02:00
 category: kurz-notiert
 ---

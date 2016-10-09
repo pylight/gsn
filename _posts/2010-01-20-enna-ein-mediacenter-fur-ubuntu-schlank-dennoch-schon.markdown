@@ -2,11 +2,11 @@
 layout: post
 title: ! 'Enna - ein Mediacenter für Ubuntu: schlank & dennoch schön!'
 wordpress_id: 631
-wordpress_url: http://ganz-sicher.net/blog/?p=631
+wordpress_url: https://ganz-sicher.net/blog/?p=631
 date: 2010-01-20 21:15:15.000000000 +01:00
 category: linux-distributionen
 ---
-In meiner Liste "<a href="http://ganz-sicher.net/blog/ubuntu/ubuntu-linux-50-programme-die-sich-lohnen/" target="_blank">(Ubuntu) Linux: ~50 Programme, die sich lohnen.</a>" hatte ich bereits mit <a href="http://xbmc.org/" target="_blank">xbmc</a> einen Mediacenter für Ubuntu vorgestellt. (der nebenbei bemerkt auch unter Windows und Mac läuft)
+In meiner Liste "<a href="https://ganz-sicher.net/blog/ubuntu/ubuntu-linux-50-programme-die-sich-lohnen/" target="_blank">(Ubuntu) Linux: ~50 Programme, die sich lohnen.</a>" hatte ich bereits mit <a href="http://xbmc.org/" target="_blank">xbmc</a> einen Mediacenter für Ubuntu vorgestellt. (der nebenbei bemerkt auch unter Windows und Mac läuft)
 
 Ein weiterer interessanter <em>Mediacenter</em> für Ubuntu ist <a href="http://enna.geexbox.org/" target="_blank">Enna</a>. Derzeit lautet die Versionsnummer v0.4.0, das Programm ist also noch in einem recht frühen Stadium. Bei meinen Tests lief Enna dennoch immer flüssig.
 <!--more-->

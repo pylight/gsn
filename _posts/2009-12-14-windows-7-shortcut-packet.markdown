@@ -2,7 +2,7 @@
 layout: post
 title: Windows 7 - Shortcut-Paket
 wordpress_id: 102
-wordpress_url: http://ganz-sicher.net/blog/?p=102
+wordpress_url: https://ganz-sicher.net/blog/?p=102
 date: 2009-12-14 20:00:43.000000000 +01:00
 category: software
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Rsnapshot - Automatisierte Backups leicht gemacht
 wordpress_id: 1635
-wordpress_url: http://ganz-sicher.net/blog/?p=1635
+wordpress_url: https://ganz-sicher.net/blog/?p=1635
 date: 2011-10-03 12:27:38.000000000 +02:00
 category: linux-distributionen
 ---

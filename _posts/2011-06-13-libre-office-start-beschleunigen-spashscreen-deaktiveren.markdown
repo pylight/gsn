@@ -2,7 +2,7 @@
 layout: post
 title: Libre Office - Start beschleunigen &amp; Spashscreen deaktiveren
 wordpress_id: 1376
-wordpress_url: http://ganz-sicher.net/blog/?p=1376
+wordpress_url: https://ganz-sicher.net/blog/?p=1376
 date: 2011-06-13 15:57:00.000000000 +02:00
 category: kurz-notiert
 ---
@@ -12,11 +12,11 @@ Ich benutze <a href="http://www.libreoffice.org/">LibreOffice</a> (früher OpenO
 
 Wie der Prozessname schon erkennen lässt, hängt der Fehler mit dem Spashscreen von LibreOffice zusammen, der beim Start angezeigt wird:
 <!--more-->
-<img class="borderimg centered" src="http://ganz-sicher.net/blog/wp-content/uploads/LibreOffice_splashscreen.png" alt="" width="250" height="155" />
+<img class="borderimg centered" src="https://ganz-sicher.net/blog/wp-content/uploads/LibreOffice_splashscreen.png" alt="" width="250" height="155" />
 
 Da es sich dabei um eine Funktion handelt, die ich sowieso gerne verzichten kann, hab ich diesen einfach deaktiviert. Dazu muss in der Datei <em>/etc/libreoffice/sofficerc</em> die Zeile mit <strong>Logo=1</strong> auf <strong>Logo=0</strong> abgeändert werden:
 
-<img class="borderimg centered" src="http://ganz-sicher.net/blog/wp-content/uploads/Screenshot-Terminal1.png" alt="" width="486" height="295" />
+<img class="borderimg centered" src="https://ganz-sicher.net/blog/wp-content/uploads/Screenshot-Terminal1.png" alt="" width="486" height="295" />
 
 Bei mir führt diese kleine Änderung dazu, dass ich nicht nur deutlich <em>flüssiger</em> mit LibreOffice arbeiten kann, sondern auch der <em>Start des Programms</em> sehr viel zügiger von statten geht. Ein paar weitere Einstellungen um den Start von LibreOffice zu beschleunigen findet man im <a href="http://wiki.ubuntuusers.de/LibreOffice#Start-beschleunigen">Ubuntuusers Wiki</a>:
 

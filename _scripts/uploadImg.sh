@@ -1,7 +1,7 @@
 #!/bin/bash
 # @desc: simple bashscript to upload images quickly to the server
 # @info: ssh-add should be done before running this script!
-# @author: pylight for http://ganz-sicher.net/blog (source: https://github.com/pylight/gsn)
+# @author: pylight for https://ganz-sicher.net/blog (source: https://github.com/pylight/gsn)
 
 # TODO:	+ fix variable / path chaos		+ ask for img class/alt text input
 
@@ -13,7 +13,7 @@ sshArgs="me-server@5.45.98.50"	       # arguments for ssh/scp command to connect
 uploadPath="jekyll/images/blog"	       # relative image path on remote machine (e.g. for cd command)
 jekyllDir="jekyll"		       # relative jekyll path on the remote machine
 finalPath="jekyll/_site/images/blog"   # the path where images should be after (re)generating the blog with jekyll
-blogUri="http://ganz-sicher.net/blog/images/blog"  # the uri to the image path
+blogUri="https://ganz-sicher.net/blog/images/blog"  # the uri to the image path
 
 ################
 # Functions

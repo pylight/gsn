@@ -2,7 +2,7 @@
 layout: post
 title: Gnome Shell 3.2 - Kurzer Blick auf die aktuelle Beta
 wordpress_id: 1611
-wordpress_url: http://ganz-sicher.net/blog/?p=1611
+wordpress_url: https://ganz-sicher.net/blog/?p=1611
 date: 2011-09-26 14:35:00.000000000 +02:00
 category: kurz-notiert
 ---

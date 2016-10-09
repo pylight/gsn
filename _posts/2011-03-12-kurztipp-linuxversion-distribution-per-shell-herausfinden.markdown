@@ -2,7 +2,7 @@
 layout: post
 title: ! '[Kurztipp] Linuxversion/-distribution per Shell herausfinden'
 wordpress_id: 1070
-wordpress_url: http://ganz-sicher.net/blog/tutorials-tipps/kurztipp-linuxversion-distribution-per-shell-herausfinden/
+wordpress_url: https://ganz-sicher.net/blog/tutorials-tipps/kurztipp-linuxversion-distribution-per-shell-herausfinden/
 date: 2011-03-12 01:02:00.000000000 +01:00
 category: tutorials-tipps
 ---

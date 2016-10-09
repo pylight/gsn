@@ -2,7 +2,7 @@
 layout: post
 title: Tipp - Zwei Bücher die einen zum Lachen bringen
 wordpress_id: 1559
-wordpress_url: http://ganz-sicher.net/blog/?p=1559
+wordpress_url: https://ganz-sicher.net/blog/?p=1559
 date: 2011-09-06 02:13:39.000000000 +02:00
 category: kurz-notiert
 ---

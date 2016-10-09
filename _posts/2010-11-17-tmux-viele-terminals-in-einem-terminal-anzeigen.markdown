@@ -2,7 +2,7 @@
 layout: post
 title: Tmux - Viele Terminals in einem Terminal anzeigen
 wordpress_id: 858
-wordpress_url: http://ganz-sicher.net/blog/?p=858
+wordpress_url: https://ganz-sicher.net/blog/?p=858
 date: 2010-11-17 23:03:29.000000000 +01:00
 category: software
 ---

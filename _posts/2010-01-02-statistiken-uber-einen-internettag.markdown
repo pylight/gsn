@@ -2,7 +2,7 @@
 layout: post
 title: Statistiken über einen Internettag...
 wordpress_id: 442
-wordpress_url: http://ganz-sicher.net/blog/?p=442
+wordpress_url: https://ganz-sicher.net/blog/?p=442
 date: 2010-01-02 23:29:39.000000000 +01:00
 category: kurz-notiert
 ---

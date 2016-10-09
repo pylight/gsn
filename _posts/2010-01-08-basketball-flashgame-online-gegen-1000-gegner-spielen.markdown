@@ -2,7 +2,7 @@
 layout: post
 title: Basketball Flashgame - Online gegen >1000 Gegner spielen
 wordpress_id: 566
-wordpress_url: http://ganz-sicher.net/blog/?p=566
+wordpress_url: https://ganz-sicher.net/blog/?p=566
 date: 2010-01-08 22:46:34.000000000 +01:00
 category: fun
 ---
@@ -12,6 +12,6 @@ Bei [Basketball](http://www.onlinegames.com/basketball/) von [onlinegames.com](
 <img class="borderimg centered" title="basketball menü-screenshot" src="{{site.url}}/wp-content/uploads/basketball-menue-screenshot.png" alt="" width="389" height="243" />
 <img class="borderimg centered" title="basketball ingame screnshot" src="{{site.url}}/wp-content/uploads/basketball-ingame-screnshot.png" alt="" width="445" height="276" />
 
-<h2 style="text-align: center;"><a href="http://ganz-sicher.net/blog/wp-content/uploads/basketball-ingame-screnshot.png"></a> &gt;&gt; <a href="http://www.onlinegames.com/basketball/" target="_blank">Zum Spiel &lt;&lt;</a></h2>
+<h2 style="text-align: center;"><a href="https://ganz-sicher.net/blog/wp-content/uploads/basketball-ingame-screnshot.png"></a> &gt;&gt; <a href="http://www.onlinegames.com/basketball/" target="_blank">Zum Spiel &lt;&lt;</a></h2>
 (<a href="http://blog.buttermouth.com/2009/12/cool-multiplayer-basketball-game.html" target="_blank">via</a>)
 

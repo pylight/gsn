@@ -2,7 +2,7 @@
 layout: post
 title: Firefox-Erweiterungen mit Siphon syncronisieren
 wordpress_id: 826
-wordpress_url: http://ganz-sicher.net/blog/freeware/firefox-erweiterungen-mit-siphon-syncronisieren/
+wordpress_url: https://ganz-sicher.net/blog/freeware/firefox-erweiterungen-mit-siphon-syncronisieren/
 date: 2010-11-14 03:37:46.000000000 +01:00
 category: software
 ---

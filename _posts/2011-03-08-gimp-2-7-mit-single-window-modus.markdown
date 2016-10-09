@@ -2,7 +2,7 @@
 layout: post
 title: Gimp 2.7 mit Single-Window-Modus
 wordpress_id: 1011
-wordpress_url: http://ganz-sicher.net/blog/?p=1011
+wordpress_url: https://ganz-sicher.net/blog/?p=1011
 date: 2011-03-08 19:20:12.000000000 +01:00
 category: software
 ---

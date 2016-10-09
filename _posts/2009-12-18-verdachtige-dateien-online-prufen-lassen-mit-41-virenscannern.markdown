@@ -2,7 +2,7 @@
 layout: post
 title: Verdächtige Dateien online prüfen lassen - mit 41 Virenscannern
 wordpress_id: 237
-wordpress_url: http://ganz-sicher.net/blog/?p=237
+wordpress_url: https://ganz-sicher.net/blog/?p=237
 date: 2009-12-18 22:44:31.000000000 +01:00
 category: software
 ---

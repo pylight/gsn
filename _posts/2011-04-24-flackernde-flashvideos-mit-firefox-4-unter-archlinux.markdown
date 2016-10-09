@@ -2,7 +2,7 @@
 layout: post
 title: Flackernde Flashvideos mit Firefox 4 unter Archlinux
 wordpress_id: 1217
-wordpress_url: http://ganz-sicher.net/blog/kurz-notiert/flackernde-flashvideos-mit-firefox-4-unter-archlinux/
+wordpress_url: https://ganz-sicher.net/blog/kurz-notiert/flackernde-flashvideos-mit-firefox-4-unter-archlinux/
 date: 2011-04-24 15:44:46.000000000 +02:00
 category: kurz-notiert
 ---

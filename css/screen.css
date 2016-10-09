@@ -5,9 +5,9 @@
 /*****************************************************************************/
 
 /* google fonts */
-@import url(http://fonts.googleapis.com/css?family=Muli);
-@import url(http://fonts.googleapis.com/css?family=Reenie+Beanie);
-@import url(http://fonts.googleapis.com/css?family=Droid+Sans);
+@import url(https://fonts.googleapis.com/css?family=Muli);
+@import url(https://fonts.googleapis.com/css?family=Reenie+Beanie);
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans);
 
 /* Global Reset */
 * 
@@ -23,7 +23,7 @@ html, body
 
 body 
 {
-  background: white url(http://www.ganz-sicher.net/blog/images/stripesbg.png);
+  background: white url(/blog/images/stripesbg.png);
   font: 13.34px helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: center;
@@ -306,7 +306,7 @@ ul.posts
 		-webkit-border-radius: 2px; /* Safari, Chrome */       
 		-khtml-border-radius: 2px; /* Konqueror */;  
 		border-radius: 2px /* opera */;
-		background: #F8F8F8 url(http://ganz-sicher.net/blog/images/icons/arrow_right.png);
+		background: #F8F8F8 url(/blog/images/icons/arrow_right.png);
 		background-repeat: no-repeat;
 		background-position: 10px 0px;
 	}
@@ -520,37 +520,37 @@ img.righticon:after
 a.homelink
 {
 	padding-left: 20px;
-	background: url(http://ganz-sicher.net/blog/images/icons/homelink.png);
+	background: url(/blog/images/icons/homelink.png);
 	background-repeat: no-repeat;
 }
 a.packagelink
 {
 	padding-left: 20px;
-	background: url(http://ganz-sicher.net/blog/images/icons/packagelink.png);
+	background: url(/blog/images/icons/packagelink.png);
 	background-repeat: no-repeat;
 }
 a.folderlink
 {
 	padding-left: 20px;
-	background: url(http://ganz-sicher.net/blog/images/icons/folderlink.png);	
+	background: url(/blog/images/icons/folderlink.png);	
 	background-repeat: no-repeat;
 }
 a.scriptlink
 {
 	padding-left: 20px;
-	background: url(http://ganz-sicher.net/blog/images/icons/scriptlink.png);	
+	background: url(/blog/icons/scriptlink.png);	
 	background-repeat: no-repeat;
 }
 a.imagelink
 {
 	padding-left: 20px;
-	background: url(http://ganz-sicher.net/blog/images/icons/imagelink.png);	
+	background: url(/blog/images/icons/imagelink.png);	
 	background-repeat: no-repeat;
 }
 .info
 {
 	padding-left: 20px;
-	background: url(http://ganz-sicher.net/blog/images/icons/info.png);	
+	background: url(/blog/images/icons/info.png);	
 	background-repeat: no-repeat;
 }
 	
@@ -637,7 +637,7 @@ div.imageinfo
 
 /* Sitesearch */ 
 #query {
-    background-image: url("http://ganz-sicher.net/blog/images/icons/search.png");
+    background-image: url("/blog/images/icons/search.png");
     background-position: 2px center;
     background-repeat: no-repeat;
     border: 1px solid #CBD0D5;

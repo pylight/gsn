@@ -21,7 +21,6 @@ function getRandomSlogan()
 		"Ein weiteres Blog mit Pinguin-Fetisch",
 		"21 is only half of the truth!",
                 "..is the world ready for this??",
-                "now without evil ads!",
                 "Only 45% obsolete",
                 "Generating slogans since 2009!",
                 "KISS my Arch",
@@ -30,7 +29,6 @@ function getRandomSlogan()
                 "One day, this will feature a sane slogan",
                 "think different, use linux you must!",
                "/* i'm going to fix this later */",
-               "The following sentence is false. The preceding sentence is true."
          ];
 	
 	/* get one random element */

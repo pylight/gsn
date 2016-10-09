@@ -2,7 +2,7 @@
 layout: post
 title: Weshalb Archlinux die Distribution meiner Wahl ist...
 wordpress_id: 1433
-wordpress_url: http://ganz-sicher.net/blog/?p=1433
+wordpress_url: https://ganz-sicher.net/blog/?p=1433
 date: 2011-09-01 13:05:00.000000000 +02:00
 category: linux-distributionen
 ---

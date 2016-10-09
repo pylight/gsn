@@ -2,7 +2,7 @@
 layout: post
 title: Clementine - Die Musikverwaltung meiner Wahl
 wordpress_id: 1355
-wordpress_url: http://ganz-sicher.net/blog/?p=1355
+wordpress_url: https://ganz-sicher.net/blog/?p=1355
 date: 2011-06-11 20:35:39.000000000 +02:00
 category: software
 ---

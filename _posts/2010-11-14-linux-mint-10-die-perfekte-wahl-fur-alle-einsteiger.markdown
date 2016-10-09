@@ -2,7 +2,7 @@
 layout: post
 title: Linux Mint - Die perfekte Wahl für alle Einsteiger?
 wordpress_id: 835
-wordpress_url: http://ganz-sicher.net/blog/?p=835
+wordpress_url: https://ganz-sicher.net/blog/?p=835
 date: 2010-11-14 16:02:47.000000000 +01:00
 category: linux-distributionen
 ---

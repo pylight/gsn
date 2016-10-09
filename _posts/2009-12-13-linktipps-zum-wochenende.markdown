@@ -2,7 +2,7 @@
 layout: post
 title: Linktipps zum Wochenende
 wordpress_id: 84
-wordpress_url: http://ganz-sicher.net/blog/?p=84
+wordpress_url: https://ganz-sicher.net/blog/?p=84
 date: 2009-12-13 20:24:09.000000000 +01:00
 category: linktipps
 ---

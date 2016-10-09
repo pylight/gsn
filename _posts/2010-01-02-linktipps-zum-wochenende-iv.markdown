@@ -2,7 +2,7 @@
 layout: post
 title: Linktipps zum Wochenende (IV)
 wordpress_id: 434
-wordpress_url: http://ganz-sicher.net/blog/?p=434
+wordpress_url: https://ganz-sicher.net/blog/?p=434
 date: 2010-01-02 10:47:45.000000000 +01:00
 category: linktipps
 ---

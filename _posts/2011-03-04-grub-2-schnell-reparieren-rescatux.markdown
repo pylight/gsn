@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Grub 2 schnell reparieren: Rescatux'
 wordpress_id: 983
-wordpress_url: http://ganz-sicher.net/blog/ubuntu/grub-2-schnell-reparieren-rescatux/
+wordpress_url: https://ganz-sicher.net/blog/ubuntu/grub-2-schnell-reparieren-rescatux/
 date: 2011-03-04 22:09:16.000000000 +01:00
 category: linux-distributionen
 ---

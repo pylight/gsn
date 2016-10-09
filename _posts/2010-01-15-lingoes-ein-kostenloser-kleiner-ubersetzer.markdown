@@ -2,7 +2,7 @@
 layout: post
 title: Lingoes - Ein kostenloser kleiner "Übersetzer"
 wordpress_id: 114
-wordpress_url: http://ganz-sicher.net/blog/?p=114
+wordpress_url: https://ganz-sicher.net/blog/?p=114
 date: 2010-01-15 00:12:21.000000000 +01:00
 category: software
 ---

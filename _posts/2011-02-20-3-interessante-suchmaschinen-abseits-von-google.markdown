@@ -2,7 +2,7 @@
 layout: post
 title: 3 interessante Suchmaschinen abseits von Google!
 wordpress_id: 922
-wordpress_url: http://ganz-sicher.net/blog/?p=922
+wordpress_url: https://ganz-sicher.net/blog/?p=922
 date: 2011-02-20 16:13:22.000000000 +01:00
 category: linktipps
 ---

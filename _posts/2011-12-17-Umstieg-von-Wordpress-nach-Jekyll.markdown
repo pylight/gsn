@@ -15,9 +15,9 @@ Wie schon geschrieben ist es ein *Postgenerator* und kein Blogging-Framework, de
 
 Meine Motivation zum Umstieg
 ============================
-Vor einiger Zeit hatte ich bereits zusammen mit einem [Freund](http://ganz-sicher.net/chlange/) überlegt, ein statisches Blogsystem zu programmieren. Wie das bei großen neuen Projekten und wenig freier Zeit so ist, blieb das jedoch zunächst nur bei Planungsphase. ;) Bei meiner github-Suche nach ähnlichen Projekten stieß ich schnell auf jekyll. 
+Vor einiger Zeit hatte ich bereits zusammen mit einem [Freund](https://ganz-sicher.net/chlange/) überlegt, ein statisches Blogsystem zu programmieren. Wie das bei großen neuen Projekten und wenig freier Zeit so ist, blieb das jedoch zunächst nur bei Planungsphase. ;) Bei meiner github-Suche nach ähnlichen Projekten stieß ich schnell auf jekyll. 
 Andererseits empfand ich das Bloggen unter Wordpress oftmals als zu aufwändig. Wordpress ist super, wenn man schnell eine Blog aufsetzen will: Es ist sehr Anpassbar durch die vielen Erweiterungen und Themes, aber dennoch hat es Macken. Der eigentliche Erstellungsprozess für neue Artikel war mir oft zu aufwändig. Beispielsweise generiert der Wordpress-Editor viel unsinnigen HTML-Code, kam nicht immer gut mit eingefügten Codeschnipseln oder Absatzabständen zurecht. Viele kleine Dinge haben mich gestört. Die vielen Erweiterungen führen eben auch dazu, dass man sich einen Blog eher "zusammen-klickt", als ihn komplett von Grund auf selbst an eigene Bedürfnisse anzupassen. Manche Plugins entwickeln dann mitunter ein Eigenleben und geben dann Anlass zu einer nervtötenden Fehlersuche...
-Was bisher bei mir auf dem Rechner mit [Archlinux als Betriebssystem](http://ganz-sicher.net/blog/linux-distributionen/weshalb-archlinux-die-distribution-meiner-wahl-ist/) galt, gilt nun auch hier im Blog: 
+Was bisher bei mir auf dem Rechner mit [Archlinux als Betriebssystem](https://ganz-sicher.net/blog/linux-distributionen/weshalb-archlinux-die-distribution-meiner-wahl-ist/) galt, gilt nun auch hier im Blog: 
 KISS (Keep it simple, stupid) - und den Rest selbst machen!
 
 Die Vorteile von Jekyll
@@ -53,7 +53,7 @@ Da das sehr unterschiedliche Dinge waren, musste ich die Posts nachträglich als
 Mein Blog liegt nicht im Hauptverzeichnis des Webservers sondern im Unterordner /blog/. Wenn das der Fall ist, muss das bei jekyll konkret angegeben werden, daher verwende ich in meiner jekyll Konfigurationsdatei (_config.yml) die Einstellung 
 > baseurl: /blog 
 >
-> url: http://ganz-sicher.net/blog
+> url: https://ganz-sicher.net/blog
 Bei allen Adressen (z.B. beim href-Attribut von Links) muss zusätzlich ein <code>&#123;&#123;site.baseurl&#125;&#125;</code> vorangestellt werden. Bei Bilder in Artikeln verwende ich die direkte Adresse (also mit vorangestelltem <code>&#123;&#123;site.url&#125;&#125;</code>, damit diese auch mit dem RSS-Feed ([Feedburner](http://feeds.feedburner.com/GanzSicherNet), [siehe auch](http://www.slightlytallerthanaverageman.com/2010/02/22/jekyll-feedburner-and-global-urls/)) funktionieren. Diese Einstellungen hatte ich beim Ersten durchgehen der Artikel nicht bedacht. Glücklicherweise kann man bekannte Linuxtools verwenden um die Dateien zu verändern, also konnte ich das auch nachträglich lösen per:
 
 {% highlight bash %}

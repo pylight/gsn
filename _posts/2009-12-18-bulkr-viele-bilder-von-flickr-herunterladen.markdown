@@ -2,7 +2,7 @@
 layout: post
 title: Bulkr - Viele Bilder von Flickr herunterladen
 wordpress_id: 214
-wordpress_url: http://ganz-sicher.net/blog/?p=214
+wordpress_url: https://ganz-sicher.net/blog/?p=214
 date: 2009-12-18 08:43:42.000000000 +01:00
 category: software
 ---

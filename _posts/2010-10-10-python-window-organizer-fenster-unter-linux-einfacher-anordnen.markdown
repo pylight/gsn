@@ -2,7 +2,7 @@
 layout: post
 title: Python Window Organizer - Fenster unter Linux einfacher anordnen
 wordpress_id: 747
-wordpress_url: http://ganz-sicher.net/blog/?p=747
+wordpress_url: https://ganz-sicher.net/blog/?p=747
 date: 2010-10-10 12:08:37.000000000 +02:00
 category: software
 ---
@@ -18,7 +18,7 @@ Es funktioniert mit Compiz, Metacity (Gnome), KDE, XFCE, E16, OpenBox und FVWM. 
 
 Eine anschaulichere Demonstration der Funktionsweise von PyWO, gibt's im folgenden Video:
 
-{% embed http://www.youtube.com/watch?v=VZkbrS0lFkw %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VZkbrS0lFkw" frameborder="0" allowfullscreen></iframe>
 
 
 Zum Schluss noch einige nützliche Tastenkombinationen:

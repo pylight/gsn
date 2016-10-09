@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Firefox - 20+ sinnvolle Erweiterungen '
 wordpress_id: 641
-wordpress_url: http://ganz-sicher.net/blog/?p=641
+wordpress_url: https://ganz-sicher.net/blog/?p=641
 date: 2010-01-24 01:29:35.000000000 +01:00
 category: linktipps
 ---

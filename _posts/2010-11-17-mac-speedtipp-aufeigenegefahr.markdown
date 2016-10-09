@@ -2,7 +2,7 @@
 layout: post
 title: Mac Speedtipp (*aufeigenegefahr*)
 wordpress_id: 866
-wordpress_url: http://ganz-sicher.net/blog/fun/mac-speedtipp-aufeigenegefahr/
+wordpress_url: https://ganz-sicher.net/blog/fun/mac-speedtipp-aufeigenegefahr/
 date: 2010-11-17 23:21:16.000000000 +01:00
 category: fun
 ---

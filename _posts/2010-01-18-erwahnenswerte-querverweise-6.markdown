@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Erwähnenswerte Querverweise #6'
 wordpress_id: 610
-wordpress_url: http://ganz-sicher.net/blog/?p=610
+wordpress_url: https://ganz-sicher.net/blog/?p=610
 date: 2010-01-18 22:15:54.000000000 +01:00
 category: linktipps
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Ein Iphone-Killer von Google?
 wordpress_id: 65
-wordpress_url: http://ganz-sicher.net/blog/?p=65
+wordpress_url: https://ganz-sicher.net/blog/?p=65
 date: 2009-12-13 17:21:24.000000000 +01:00
 category: netzwelt-news
 ---

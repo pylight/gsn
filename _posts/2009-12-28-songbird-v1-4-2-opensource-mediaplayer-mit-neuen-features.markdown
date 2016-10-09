@@ -2,7 +2,7 @@
 layout: post
 title: Songbird v1.4.2 - OpenSource-Mediaplayer mit neuen Features
 wordpress_id: 379
-wordpress_url: http://ganz-sicher.net/blog/?p=379
+wordpress_url: https://ganz-sicher.net/blog/?p=379
 date: 2009-12-28 01:46:28.000000000 +01:00
 category: software
 ---

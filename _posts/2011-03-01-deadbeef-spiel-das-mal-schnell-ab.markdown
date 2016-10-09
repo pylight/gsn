@@ -2,7 +2,7 @@
 layout: post
 title: Deadbeef - Spiel das mal schnell ab!
 wordpress_id: 946
-wordpress_url: http://ganz-sicher.net/blog/freeware/deadbeef-spiel-das-mal-schnell-ab/
+wordpress_url: https://ganz-sicher.net/blog/freeware/deadbeef-spiel-das-mal-schnell-ab/
 date: 2011-03-01 14:47:57.000000000 +01:00
 category: software
 ---

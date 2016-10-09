@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Linkbox #9 - Interessante Querverweise'
 wordpress_id: 1383
-wordpress_url: http://ganz-sicher.net/blog/?p=1383
+wordpress_url: https://ganz-sicher.net/blog/?p=1383
 date: 2011-06-25 10:44:06.000000000 +02:00
 category: linktipps
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Hallo (Netz)Welt!
 wordpress_id: 1
-wordpress_url: http://ganz-sicher.net/blog/?p=1
+wordpress_url: https://ganz-sicher.net/blog/?p=1
 date: 2009-12-12 13:51:35.000000000 +01:00
 category: blognews
 ---

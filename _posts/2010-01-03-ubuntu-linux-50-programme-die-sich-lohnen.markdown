@@ -2,7 +2,7 @@
 layout: post
 title: ! '(Ubuntu) Linux: ~50 Programme, die sich lohnen.'
 wordpress_id: 449
-wordpress_url: http://ganz-sicher.net/blog/?p=449
+wordpress_url: https://ganz-sicher.net/blog/?p=449
 date: 2010-01-03 16:25:53.000000000 +01:00
 category: linux-distributionen
 ---

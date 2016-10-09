@@ -2,7 +2,7 @@
 layout: post
 title: Linktipps - Bilder sagen mehr als 1000 Worte!
 wordpress_id: 903
-wordpress_url: http://ganz-sicher.net/blog/?p=903
+wordpress_url: https://ganz-sicher.net/blog/?p=903
 date: 2011-02-16 19:34:09.000000000 +01:00
 category: linktipps
 ---

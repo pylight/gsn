@@ -2,7 +2,7 @@
 layout: post
 title: Elementary OS Luna - Hoffnung für den Linux-Desktop?
 wordpress_id: 1466
-wordpress_url: http://ganz-sicher.net/blog/?p=1466
+wordpress_url: https://ganz-sicher.net/blog/?p=1466
 date: 2011-08-31 02:30:06.000000000 +02:00
 category: linux-distributionen
 ---
@@ -18,16 +18,15 @@ Vor einiger Zeit brachte man mit dem Namen "elementary" nur ein in der Linux-Com
 
 Ehrgeizige Ziele
 ================
-Mitlerweile gehen die ehrgeizigen Pläne weiter: Die nächste Version 0.2 der Distribution "Elementary Luna" befindet sich noch im Alpha-Stadium, jedoch sehen erste <a href="http://www.youtube.com/watch?v=3kvmyDR7FCo&amp;feature=related">Performance-Videos</a> vielversprechend aus. Die Standard-Desktopanwendungen (beispielsweise auch der Dateimanager) werden von den Entwicklern selbst (neu) geschrieben und statt Gnome 3 wird die eigene Desktopumgebung Pantheon zum Einsatz kommen. Das folgende Video zeigt einige Features der kommenden Version:
+Mitlerweile gehen die ehrgeizigen Pläne weiter: Die nächste Version 0.2 der Distribution "Elementary Luna" befindet sich noch im Alpha-Stadium, jedoch sehen erste <a href="https://www.youtube.com/watch?v=3kvmyDR7FCo&amp;feature=related">Performance-Videos</a> vielversprechend aus. Die Standard-Desktopanwendungen (beispielsweise auch der Dateimanager) werden von den Entwicklern selbst (neu) geschrieben und statt Gnome 3 wird die eigene Desktopumgebung Pantheon zum Einsatz kommen. Das folgende Video zeigt einige Features der kommenden Version:
 
-{% embed http://www.youtube.com/watch?v=8o96Swc0PeA %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8o96Swc0PeA" frameborder="0" allowfullscreen></iframe>
 
 Mehr Einstellungsmöglichkeiten als bei Gnome 3
 ===============================================
 Eine der häufigsten Kritikpunkte bei Gnome 3 sind die spartanischen Systemeinstellungen. Vieles muss über externe Tools wie das <a href="http://live.gnome.org/GnomeTweakTool">Gnome Tweak Tool</a> oder den gconf-editor eingestellt werden. Das Elementary-Team scheint einen anderen Ansatz zu vertreten und hat kürzlich ein System vorgestellt, mit dem es für Jeden einfach möglich sein soll, Elementarys Einstellungscenter "Switchboard" zu mit sogenannten Plugs zu erweitern:
 
-{% embed http://www.youtube.com/watch?v=JF37THZoNsA %}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JF37THZoNsA" frameborder="0" allowfullscreen></iframe>
 
 Im Blog <a href="http://elementaryos.org/journal/">Elementary Journal</a> gibt es bereits viele schöne Mockups, wie dies dann aussehen kann, 2 Beispiele:
 

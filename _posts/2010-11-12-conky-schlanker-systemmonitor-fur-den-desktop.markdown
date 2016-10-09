@@ -2,7 +2,7 @@
 layout: post
 title: Conky - Schlanker Systemmonitor für den Desktop
 wordpress_id: 787
-wordpress_url: http://ganz-sicher.net/blog/?p=787
+wordpress_url: https://ganz-sicher.net/blog/?p=787
 date: 2010-11-12 20:21:00.000000000 +01:00
 category: linux-distributionen
 ---
@@ -34,7 +34,7 @@ Meine Conky-Config
 ==================
 Natürlich konnte ich es mir nicht entgehen lassen, selbst ein wenig mit Conky herumexperimentieren ;), deswegen möchte ich auch mein <em>Zwischenergebnis</em> hier nicht verschweigen:
 Meine aktuelle Conky-Konfiguration: <a href="{{site.url}}/wp-content/uploads/screen_conky.jpg">Klicke hier für einen Screenshot des gesamten Desktops.</a>
-<img class="borderimg centered" src="http://ganz-sicher.net/blog/wp-content/uploads/conky_small.jpg" alt="Conky" />
+<img class="borderimg centered" src="https://ganz-sicher.net/blog/wp-content/uploads/conky_small.jpg" alt="Conky" />
 Meine .conkyrc (gehört in den Ordner /home/<em>DEINUSERNAME</em>):
 
 	background yes

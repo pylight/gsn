@@ -2,7 +2,7 @@
 layout: post
 title: UndercoverXp - Cover schnell & Einfach ausdrucken
 wordpress_id: 164
-wordpress_url: http://ganz-sicher.net/blog/?p=164
+wordpress_url: https://ganz-sicher.net/blog/?p=164
 date: 2009-12-16 20:31:28.000000000 +01:00
 category: software
 ---

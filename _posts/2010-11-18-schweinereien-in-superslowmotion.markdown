@@ -2,11 +2,11 @@
 layout: post
 title: Schweinereien in SuperSlowMotion!
 wordpress_id: 871
-wordpress_url: http://ganz-sicher.net/blog/?p=871
+wordpress_url: https://ganz-sicher.net/blog/?p=871
 date: 2010-11-18 00:03:10.000000000 +01:00
 category: fun
 ---
-{% embed http://vimeo.com/16340475 %}
+// edit: video wurde leider von vimeo gelösch, sorry! :(
 
 Schon immer wieder nett, wie einfache Dinge in Superslowmotion wirken! Dazu fallen mir noch die Brainiacs-Videos "<a href="http://www.youtube.com/watch?v=HuTc9-SMKX4">Things but very slowly</a>" ein. =)
 

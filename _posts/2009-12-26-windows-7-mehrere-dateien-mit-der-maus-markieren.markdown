@@ -2,7 +2,7 @@
 layout: post
 title: ! '[Windows 7] Mehrere Dateien mit der Maus markieren'
 wordpress_id: 360
-wordpress_url: http://ganz-sicher.net/blog/?p=360
+wordpress_url: https://ganz-sicher.net/blog/?p=360
 date: 2009-12-26 18:18:27.000000000 +01:00
 category: tutorials-tipps
 ---

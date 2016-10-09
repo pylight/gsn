@@ -2,7 +2,7 @@
 layout: post
 title: Chromium / Chrome - Meine Erweiterungen + Tipps
 wordpress_id: 1007
-wordpress_url: http://ganz-sicher.net/blog/?p=1007
+wordpress_url: https://ganz-sicher.net/blog/?p=1007
 date: 2011-03-09 12:05:00.000000000 +01:00
 category: software
 ---

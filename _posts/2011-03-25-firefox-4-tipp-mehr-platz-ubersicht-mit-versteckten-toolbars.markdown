@@ -2,7 +2,7 @@
 layout: post
 title: ! '[Firefox 4] Tipp: Mehr Platz & Übersicht mit versteckten Toolbars'
 wordpress_id: 1148
-wordpress_url: http://ganz-sicher.net/blog/?p=1148
+wordpress_url: https://ganz-sicher.net/blog/?p=1148
 date: 2011-03-25 00:59:35.000000000 +01:00
 category: tutorials-tipps
 ---

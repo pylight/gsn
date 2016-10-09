@@ -2,7 +2,7 @@
 layout: post
 title: Links zum Wochenende (V)
 wordpress_id: 557
-wordpress_url: http://ganz-sicher.net/blog/?p=557
+wordpress_url: https://ganz-sicher.net/blog/?p=557
 date: 2010-01-08 19:22:11.000000000 +01:00
 category: linktipps
 ---

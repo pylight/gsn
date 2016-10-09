@@ -11,7 +11,7 @@ excerpt: ! "Das Arbeiten am PC könnte so schön sein, wären da nicht immer die
   markieren. Was viele nicht Wissen: Windows bringt doch eine Funktion von Haus aus
   mit... "
 wordpress_id: 313
-wordpress_url: http://ganz-sicher.net/blog/?p=313
+wordpress_url: https://ganz-sicher.net/blog/?p=313
 date: 2009-12-21 19:45:37.000000000 +01:00
 category: tutorials-tipps
 ---

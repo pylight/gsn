@@ -2,7 +2,7 @@
 layout: post
 title: T3Desk - Praktischer 3D-Desktop für Windows
 wordpress_id: 328
-wordpress_url: http://ganz-sicher.net/blog/?p=328
+wordpress_url: https://ganz-sicher.net/blog/?p=328
 date: 2009-12-21 22:59:43.000000000 +01:00
 category: software
 ---
@@ -14,7 +14,7 @@ Weil T3Desk nicht nur gut aussieht, sondern zudem nicht allzuviele PC-Ressourcen
 
 Die <strong>Bedienung</strong> ist sehr simpel: Ein Rechtsklick auf den Minimieren-Button eines Fensters aktiviert die Miniatur-3D-Ansicht, mit gedrückter rechter Maustaste kann das Programmbild dann gedreht werden (gedrückte linke Maustaste für <em>normales</em> Verschieben). Programme, die man nicht im Raum (ähm..Bildschirm) platzieren möchte, kann man natürlich weiterhin normal in die Taskleiste minimieren.
 
-<div style="text-align: center;"><a href="{{site.url}}/wp-content/uploads/t3-desktop-screenshot.jpg"><img class="aligncenter size-full wp-image-377" title="t3 desktop screenshot" src="http://ganz-sicher.net/blog/wp-content/uploads/t3-desktop-screenshot.jpg" alt="t3 desktop screenshot" width="365" height="228" /></a></div>
+<div style="text-align: center;"><a href="{{site.url}}/wp-content/uploads/t3-desktop-screenshot.jpg"><img class="aligncenter size-full wp-image-377" title="t3 desktop screenshot" src="https://ganz-sicher.net/blog/wp-content/uploads/t3-desktop-screenshot.jpg" alt="t3 desktop screenshot" width="365" height="228" /></a></div>
 
 Weitere Screenshots und Download
 ================================

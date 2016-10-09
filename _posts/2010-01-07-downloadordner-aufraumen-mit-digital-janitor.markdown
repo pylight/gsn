@@ -2,7 +2,7 @@
 layout: post
 title: (Download)Ordner aufräumen mit Digital Janitor
 wordpress_id: 516
-wordpress_url: http://ganz-sicher.net/blog/?p=516
+wordpress_url: https://ganz-sicher.net/blog/?p=516
 date: 2010-01-07 11:31:38.000000000 +01:00
 ---
 

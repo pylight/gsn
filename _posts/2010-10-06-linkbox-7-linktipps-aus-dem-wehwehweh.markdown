@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Linkbox #7 - Linktipps aus dem WehWehWeh'
 wordpress_id: 736
-wordpress_url: http://ganz-sicher.net/blog/?p=736
+wordpress_url: https://ganz-sicher.net/blog/?p=736
 date: 2010-10-06 00:20:38.000000000 +02:00
 category: linktipps
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: ! '[Kurztipp] Tmux automatisch mit dem (Gnome-)Termial starten'
 wordpress_id: 882
-wordpress_url: http://ganz-sicher.net/blog/?p=882
+wordpress_url: https://ganz-sicher.net/blog/?p=882
 date: 2010-11-28 10:13:49.000000000 +01:00
 category: tutorials-tipps
 ---

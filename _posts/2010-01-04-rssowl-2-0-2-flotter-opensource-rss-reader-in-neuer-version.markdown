@@ -2,7 +2,7 @@
 layout: post
 title: RSSOwl - Flotter Opensource-RSS-Reader in neuer Version
 wordpress_id: 497
-wordpress_url: http://ganz-sicher.net/blog/?p=497
+wordpress_url: https://ganz-sicher.net/blog/?p=497
 date: 2010-01-04 23:40:29.000000000 +01:00
 category: software
 ---

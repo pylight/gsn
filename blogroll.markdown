@@ -43,4 +43,4 @@ Linux und OpenSource
 
 Eventuell interessieren dich auch meine Podcasttipps?
 -------------------------------------------------------
-* [http://ganz-sicher.net/blog/linktipps/meine-podcastliste/](http://ganz-sicher.net/blog/linktipps/meine-podcastliste/)
+* [Podcastliste](/blog/linktipps/meine-podcastliste/)

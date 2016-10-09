@@ -2,7 +2,7 @@
 layout: post
 title: Bash - Nützliche Befehle und Kniffe
 wordpress_id: 1249
-wordpress_url: http://ganz-sicher.net/blog/?p=1249
+wordpress_url: https://ganz-sicher.net/blog/?p=1249
 date: 2011-05-08 10:41:00.000000000 +02:00
 category: linux-distributionen
 ---

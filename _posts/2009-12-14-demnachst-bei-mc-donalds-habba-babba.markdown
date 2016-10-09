@@ -9,5 +9,5 @@ category: fun
 
 No comment. =)
 
-{% embed http://www.youtube.com/watch?v=B3zvzfAIsqc %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B3zvzfAIsqc" frameborder="0" allowfullscreen></iframe>
 

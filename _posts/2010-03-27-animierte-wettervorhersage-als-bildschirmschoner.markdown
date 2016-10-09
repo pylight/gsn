@@ -2,7 +2,7 @@
 layout: post
 title: Animierte Wettervorhersage als Bildschirmschoner
 wordpress_id: 719
-wordpress_url: http://ganz-sicher.net/blog/freeware/animierte-wettervorhersage-als-bildschirmschoner/
+wordpress_url: https://ganz-sicher.net/blog/freeware/animierte-wettervorhersage-als-bildschirmschoner/
 date: 2010-03-27 00:53:01.000000000 +01:00
 category: software
 ---
@@ -12,7 +12,7 @@ Optisch schön animiert gibt das Programm Informationen über das aktuelle und k
  
 Was ich mit “optisch schön” meine? Dieser Clip gibt einen recht guten Überblick: <br />
 
-{% embed http://www.youtube.com/watch?v=QItLw-0LFOE %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QItLw-0LFOE" frameborder="0" allowfullscreen></iframe>
 
 Das Programm kann normal gestartet oder auch als Bildschirmschoner festgelegt werden.
 

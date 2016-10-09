@@ -2,7 +2,7 @@
 layout: post
 title: ! '[Kurztipp] SSH-Tunnel unter Linux / Surfen via SSH'
 wordpress_id: 828
-wordpress_url: http://ganz-sicher.net/blog/tutorials/kurztipp-ssh-tunnel-unter-linux-surfen-via-ssh/
+wordpress_url: https://ganz-sicher.net/blog/tutorials/kurztipp-ssh-tunnel-unter-linux-surfen-via-ssh/
 date: 2010-11-14 04:27:33.000000000 +01:00
 category: tutorials-tipps
 ---

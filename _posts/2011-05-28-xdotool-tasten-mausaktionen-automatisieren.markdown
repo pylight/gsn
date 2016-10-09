@@ -2,7 +2,7 @@
 layout: post
 title: xdotool - Tasten- & Mausaktionen automatisieren
 wordpress_id: 1339
-wordpress_url: http://ganz-sicher.net/blog/?p=1339
+wordpress_url: https://ganz-sicher.net/blog/?p=1339
 date: 2011-05-28 01:06:37.000000000 +02:00
 category: software
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Firefox - "Neuer Tab"-Seite und Titelleiste wie bei Chrome
 wordpress_id: 1427
-wordpress_url: http://ganz-sicher.net/blog/?p=1427
+wordpress_url: https://ganz-sicher.net/blog/?p=1427
 date: 2011-07-01 20:07:02.000000000 +02:00
 category: kurz-notiert
 ---

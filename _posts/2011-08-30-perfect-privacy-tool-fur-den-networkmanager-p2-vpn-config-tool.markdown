@@ -2,7 +2,7 @@
 layout: post
 title: Perfect Privacy-Tool für den NetworkManager - P^2 VPN Config Tool
 wordpress_id: 1447
-wordpress_url: http://ganz-sicher.net/blog/?p=1447
+wordpress_url: https://ganz-sicher.net/blog/?p=1447
 date: 2011-08-30 22:30:25.000000000 +02:00
 category: programmierung-scripting
 ---

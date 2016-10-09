@@ -2,7 +2,7 @@
 layout: post
 title: Gnome 3 und conky
 wordpress_id: 1180
-wordpress_url: http://ganz-sicher.net/blog/?p=1180
+wordpress_url: https://ganz-sicher.net/blog/?p=1180
 date: 2011-04-09 11:51:47.000000000 +02:00
 category: tutorials-tipps
 ---

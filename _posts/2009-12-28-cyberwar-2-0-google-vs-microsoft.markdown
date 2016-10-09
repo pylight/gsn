@@ -2,7 +2,7 @@
 layout: post
 title: Cyberwar 2.0 - Google vs. Microsoft?
 wordpress_id: 394
-wordpress_url: http://ganz-sicher.net/blog/?p=394
+wordpress_url: https://ganz-sicher.net/blog/?p=394
 date: 2009-12-28 12:04:13.000000000 +01:00
 category: fun
 ---

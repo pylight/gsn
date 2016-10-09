@@ -2,7 +2,7 @@
 layout: post
 title: Speccy zeigt dir, was in deinem Rechner steckt.
 wordpress_id: 584
-wordpress_url: http://ganz-sicher.net/blog/?p=584
+wordpress_url: https://ganz-sicher.net/blog/?p=584
 date: 2010-01-12 19:54:14.000000000 +01:00
 category: software
 ---
