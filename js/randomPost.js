@@ -1,6 +1,3 @@
----
-layout: none
----
 function getRandomPost()
 {
 	var posts = new Array();

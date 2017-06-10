@@ -3,3 +3,5 @@ _site/
 wp-content/
 images/blog/
 _import/
+blog
+blog//
