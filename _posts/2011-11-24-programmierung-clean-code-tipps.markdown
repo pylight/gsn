@@ -51,6 +51,7 @@ Schlechter Programmierstil wäre nun, am Ende der Funktion auf diesen Fehler zu 
 
 Namenskonventionen (Naming)
 ===========================
+
 One word per concept - Keep the lexicon consistent
 --------------------------------------------------
 Vor der Umsetzung sollte man sich (vor allem wenn man nicht alleine Programmiert) auf ein System festlegen, nach dem man seine Namen vergibt (beispielsweise Unterstrich nach jedem Wort in Funktionen, <a href="http://de.wikipedia.org/wiki/Camel_Case">Camel Case</a>). Ich persönlich bevorzuge hier die CamelCase-Schreibweise, das ist aber hauptsächlich eine Geschmacksfrage. Wichtig ist nur, dass man innerhalb seines Projekt konsistent bei der Namensvergabe bleibt. Mehrere Begriffe für eine Sache zu verwenden ist ziemlich böse (z.B. setRating() und getBewertung()).
@@ -66,6 +67,7 @@ Früher - in den guten alten Zeiten - waren lange Funktionsnamen mal ein Problem
 
 Funktionen (Functions)
 ======================
+
 Dry - <span style="text-decoration: underline;">D</span>on't <span style="text-decoration: underline;">r</span>epeat <span style="text-decoration: underline;">y</span>ourself
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Wiederholungen sind böse! Genau um dies zu vermeiden gibt es Funktionen.
@@ -100,6 +102,7 @@ Zusammenhängende Funktionen sollten auch optisch nebeneinander im Code angeordn
 
 Kommentare (Comments)
 =====================
+
 Comment to clarify and as less as possible!
 ---------------------------------------------
 Oft wird einem bei Einsteigerkursen zur Programmierung beigebracht, möglichst viel Code zu kommentieren. Kommentare sind aber nicht immer sinnvoll. Ihr Zweck ist es, Dinge zu erklären oder klarzustellen. Der Code selbst sollte so verständlich geschrieben sein, dass nur wenige Kommentare benötigt werden. Umgedreht: Wenn du zu viel kommentieren/klarstellen musst, ist dein Code wohl noch nicht gut genug geschrieben!

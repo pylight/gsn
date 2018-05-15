@@ -26,7 +26,6 @@
 	<script src="{{site.baseurl}}/js/random.js" type="text/javascript"></script>
 	<script src="{{site.baseurl}}/js/randomPost.js" type="text/javascript"></script>
 	<script src="{{site.baseurl}}/js/jquery.bbq.min.js" type="text/javascript"></script>  
-	{% include js/flattr.html %} 
 	<script>$(document).ready(function(){$("#egobox").show();});</script>
 
 </head>
@@ -58,7 +57,7 @@
 		<a class="extra" href="{{site.baseurl}}/blogroll.html">blogroll</a> 
 		 <a href="javascript:void(0)" title="show a random blogpost" onclick="javascript:getRandomPost();" class="extra">random!</a>
 		<a class="extra" href="javascript:void(0)" title="hide everything but content" id="cleanup">clean layout</a>
-		<a class="extra" href="/enter/impressum.html">impress</a>
+		<a class="extra" href="/impressum.html">impress</a>
 		<a class="extra" href="{{site.baseurl}}/about.html">about</a>
 	   </nav>    
 
@@ -68,10 +67,7 @@
 
   {{ content }}
   
-  <div class="footer">
-     &copy; 2009 - {{ site.time | date:"%Y" }} <a href="/">Ganz-Sicher.Net Blog</a> · proudly powered by <a href="http://jekyllrb.com/">jekyll</a> &amp; <a href="http://validator.w3.org/check/referer">optimized</a> for HTML5
-	  
-	  
+<div class="footer">&copy; 2009 - {{ site.time | date:"%Y" }} <a href="/">Ganz-Sicher.Net Blog</a> · proudly powered by <a href="http://jekyllrb.com/">jekyll</a>
   </div>
 </div>
 
@@ -80,8 +76,6 @@
 	<!-- Bottom scripts-->
 	{% include js/readyactions.html %}
 
-   {% include js/ganalytics.html %}
-   
    {% include js/cleanup.html %}
    
    <script>
