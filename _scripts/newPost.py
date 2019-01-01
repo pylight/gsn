@@ -13,13 +13,15 @@
 from datetime import datetime
 import readline
 import re
+import os
 from subprocess import Popen
 
 # globals
 version = "0.1"
 useCategories = True
 defaultEditor = "gedit"
-postsDir = "/srv/http/jekyll/_posts/"
+scriptsDir = os.path.dirname(os.path.abspath(__file__))
+postsDir = scriptsDir + '/../_posts/'
 fileType = "markdown"
 
 # input with default value
