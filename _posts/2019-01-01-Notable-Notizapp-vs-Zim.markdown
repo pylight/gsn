@@ -9,7 +9,7 @@ category: software
 <td>
 <img src="{{site.url}}/images/icons/notable_icon.png" class="lefticon" alt="" />
 </td>
-<td>
+<td markdown="1">
 Meine digitalen Notizen aller Art erfasse ich bisher mit [Zim](http://zim-wiki.org), ich hatte bereits in einem früheren Blogpost [darüber geschrieben]({site.url}/blog/software/zim-gutes-notiztool-desktop-wiki). Heute habe ich eine vielversprechende Alternative gefunden.
 </td>
 </tr>

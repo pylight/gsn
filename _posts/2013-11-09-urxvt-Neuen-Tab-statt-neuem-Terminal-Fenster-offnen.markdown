@@ -9,7 +9,7 @@ category: linux-distributionen
 <td>
 	<img src="{{site.url}}/wp-content/uploads/terminal1.png" class="lefticon" alt="" />
 </td>
-<td>
+<td markdown="1">
 OH, ja es lebt noch, dieses Blog! Und da ich ja auch noch da bin, schreibe ich halt mal wieder einen Artikel. :P
 Aber ich schweife ab, zurück zum Thema: Wie ich bereits in früheren Blogbeiträgen geschrieben habe setze ich [urxvt](https://wiki.archlinux.org/index.php/rxvt-unicode) (rxvt unicode) als bevorzugten Terminal-Emulator ein. Seine Vorteile sind dessen flotte Geschwindigkeit, viele Konfigurationsmöglichkeiten und Erweiterungen sowie das simple Design ohne unnötigen Schickschnack. 
 </td>

@@ -9,7 +9,7 @@ category: software
 <td>
 <img src="{{site.url}}/images/blog/joypad.png" class="lefticon" alt="" />
 </td>
-<td>
+<td markdown="1">
 Linux wird ja in letzter Zeit auch attraktiver für Spieler: Entwicklungen wie [Steam für Linux](http://store.steampowered.com/browse/linux/?l=german), Steam OS und die [Humble Indie Bundles](https://www.humblebundle.com/) lassen hoffen, dass es in Zukunft den einen oder anderen Spiele-Titel gibt, bei dem nicht der umständlichere Weg über [Wine](http://www.winehq.org/) eingeschlagen werden muss. Doch auch alte Spiele-Klassiker sind unter Linux dank entsprechender Emulatoren kein großes Problem mehr. 
 </td>
 </tr>
