@@ -4,10 +4,17 @@ title: (Script) urxvt - In neuem Tab statt neuem Terminal-Fenster öffnen
 date: 2013-11-09 22:41
 category: linux-distributionen
 ---
-<img src="{{site.url}}/wp-content/uploads/terminal1.png" class="lefticon" alt="" />
-
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+	<img src="{{site.url}}/wp-content/uploads/terminal1.png" class="lefticon" alt="" />
+</td>
+<td>
 OH, ja es lebt noch, dieses Blog! Und da ich ja auch noch da bin, schreibe ich halt mal wieder einen Artikel. :P
 Aber ich schweife ab, zurück zum Thema: Wie ich bereits in früheren Blogbeiträgen geschrieben habe setze ich [urxvt](https://wiki.archlinux.org/index.php/rxvt-unicode) (rxvt unicode) als bevorzugten Terminal-Emulator ein. Seine Vorteile sind dessen flotte Geschwindigkeit, viele Konfigurationsmöglichkeiten und Erweiterungen sowie das simple Design ohne unnötigen Schickschnack. 
+</td>
+</tr>
+</table>
 <!--more-->
 Da das Terminal Tabs unterstützt, habe ich bisher dennoch eine Funktion vermisst, für welche ich nun ein kleines Script geschrieben habe: Die Möglichkeit ein neues Terminal per Tastenkombination in einem neuen Tab des aktiven Urxvt-Fensters zu öffnen statt jedes Mal ein komplett neues Fenster zu öffnen.
 

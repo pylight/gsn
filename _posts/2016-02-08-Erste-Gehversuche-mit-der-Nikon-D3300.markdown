@@ -4,9 +4,16 @@ title: Erste Gehversuche mit der Nikon D3300
 date: 2016-02-09 22:30
 category: fotografie
 ---
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
 <img src="{{site.url}}/images/blog/nikon-gehversuche/nikon.png" class="lefticon" alt="" />
-
+</td>
+<td>
 Nachdem meine bisherige Nikon Digitalkamera auf dem Rücksitz eines Taxis in Gran Canaria verloren ging (...Gott habe sie selig, bestimmt fährt sie dort noch immer zwischen dem Leuchtturm und den Dünen von Maspalomas umher und schwitzt in der Mittagshitze ;p...), musste Ersatz her. Diesmal habe ich den Einstieg in die Spielreflexkamera-Fotografie gewagt und bin seit Anfang des Jahres stolzer Besitzer einer Nikon D3300.
+</td>
+</tr>
+</table>
 <!--more-->
 
 Ausstattung und Zubehör

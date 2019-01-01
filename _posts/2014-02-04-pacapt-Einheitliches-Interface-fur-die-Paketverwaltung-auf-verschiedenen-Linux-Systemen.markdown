@@ -4,9 +4,16 @@ title: pacapt - Einheitliches Interface für die Paketverwaltung auf verschieden
 date: 2014-02-04 07:03
 category: software
 ---
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
 <img src="{{site.url}}/images/blog/Package.png" class="lefticon" alt="" />
-
+</td>
+<td>
 Die Linux-Distribution meiner Wahl ist [Archlinux](https://www.archlinux.org), das hatte ich schon an verschiedenen Stellen in diesem Blog durchblicken lassen. Dennoch muss/darf ich häufig auch mit anderen Linux-Systemen arbeiten. Gerade bei Debian & und Ubuntu stört mich bei der Paketverwaltung, dass man für verschiedene Aktionen komplett andere Befehle in der Konsole aufrufen muss. Die Anwendung [Pacapt](https://github.com/icy/pacapt) überträgt das Kommando-Interface von [Pacman](https://wiki.archlinux.de/title/pacman) (Paketmanager unter ArchLinux) auch auf andere Distributionen.
+</td>
+</tr>
+</table>
 <!--more-->
 
 {% highlight bash %}

@@ -4,8 +4,16 @@ title: Notable - neue Notizsoftware mit Markdown-Syntax
 date: 2019-01-01 16:15
 category: software
 ---
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
 <img src="{{site.url}}/images/icons/notable_icon.png" class="lefticon" alt="" />
+</td>
+<td>
 Meine digitalen Notizen aller Art erfasse ich bisher mit [Zim](http://zim-wiki.org), ich hatte bereits in einem früheren Blogpost [darüber geschrieben]({site.url}/blog/software/zim-gutes-notiztool-desktop-wiki). Heute habe ich eine vielversprechende Alternative gefunden.
+</td>
+</tr>
+</table>
 <!--more-->
 
 Allgemein sind mir folgende Eigenschaften bei einer Notizsoftware wichtig

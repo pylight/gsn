@@ -4,8 +4,16 @@ title: RetroArch - Tolles Multi-System-Frontend für Emulatoren (GBA, SNES uvm.)
 date: 2013-11-12 20:00
 category: software
 ---
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
 <img src="{{site.url}}/images/blog/joypad.png" class="lefticon" alt="" />
+</td>
+<td>
 Linux wird ja in letzter Zeit auch attraktiver für Spieler: Entwicklungen wie [Steam für Linux](http://store.steampowered.com/browse/linux/?l=german), Steam OS und die [Humble Indie Bundles](https://www.humblebundle.com/) lassen hoffen, dass es in Zukunft den einen oder anderen Spiele-Titel gibt, bei dem nicht der umständlichere Weg über [Wine](http://www.winehq.org/) eingeschlagen werden muss. Doch auch alte Spiele-Klassiker sind unter Linux dank entsprechender Emulatoren kein großes Problem mehr. 
+</td>
+</tr>
+</table>
 <!--more-->
 Mit [RetroArch](http://themaister.net/retroarch.html) habe ich erst kürzlich ein super FrontEnd für viele Emulatoren gefunden, mit dem man bequem viele alte Spieletitel verwalten und spielen kann: RetroArch ist modular aufgebaut und verwendet die [libretro-API](http://www.libretro.com/), eine Schnittstelle, für welche es bereits [viele Implementierungen für verschiedene Systeme](http://www.libretro.com/?page_id=218) (sogenannte Cores) gibt. Das bedeutet, dass man in der Oberfläche von RetroArch nur den entsprechenden Core und das passende Spiel wählen muss und schon kann der Spielspaß beginnen! :)
 
