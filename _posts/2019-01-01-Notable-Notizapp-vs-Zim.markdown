@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Notable - neue Notizsoftware mit Markdown-Syntax
-date: 2019-01-11 16:15:00.000000000 +01:00
+date: 2019-01-01 16:15
 category: software
 ---
 <img src="{{site.url}}/images/icons/notable_icon.png" class="lefticon" alt="" />
 Meine digitalen Notizen aller Art erfasse ich bisher mit [Zim](http://zim-wiki.org), ich hatte bereits in einem früheren Blogpost [darüber geschrieben]({site.url}/blog/software/zim-gutes-notiztool-desktop-wiki). Heute habe ich eine vielversprechende Alternative gefunden.
 <!--more-->
+
 Allgemein sind mir folgende Eigenschaften bei einer Notizsoftware wichtig
 * Multi-Platform (min. Windows/Linux)
 * möglichst einfach gehaltenes Interface
@@ -23,3 +24,4 @@ Weitere Eigenschaften von Notable:
 * Notizen können als Favoriten markiert und open angepinnt werden
 
 **Fazit**: [Notable](https://github.com/fabiospampinato/notable) schaue ich mir in nächster Zeit definitiv näher an. Aktuell gibt es noch einige Bugs, z.B. bekomme ich beim Suchen teilweise eine Fehlermeldung. Wenn sich das Projekt aber konstant weiter entwickelt wird, könnte es Zim beim mir langfristig ersetzen. Die Markdown Syntax hat den Vorteil dass es sehr viele andere Editoren gibt, die dafür Unterstützung haben. So wird dann künftig eventuell auch das Anpassen von Notizen am Android-Smartphone einfacher :).
+
